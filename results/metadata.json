@@ -1,0 +1,9 @@
+{
+  "generation_date": "2025-08-17T11:14:39.348944",
+  "total_products": 1000,
+  "model_versions": {
+    "urgency_model": "v1.0",
+    "t_learner": "v1.0",
+    "recommendation_engine": "v1.0"
+  }
+}
