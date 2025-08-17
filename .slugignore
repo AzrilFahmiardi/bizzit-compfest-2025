@@ -1,0 +1,17 @@
+*.ipynb
+.git/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+.env
+logs/
+*.log
+.DS_Store
+*.md
+Main_Notebook_Bizzt_Compfest_2025.ipynb
+ANALYTICS_API_DOCS.md
+test_*.py
+*.bak
+*.tmp

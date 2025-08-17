@@ -14,8 +14,16 @@ import logging
 import threading
 import time
 
-# Setup logging
-logging.basicConfig(level=logging.INFO)
+# Production environment setup
+ENV = os.environ.get('FLASK_ENV', 'development')
+DEBUG = ENV != 'production'
+
+# Setup logging untuk production
+if ENV == 'production':
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+else:
+    logging.basicConfig(level=logging.DEBUG)
+
 logger = logging.getLogger(__name__)
 
 app = Flask(__name__)
@@ -781,6 +789,33 @@ def root_endpoint():
         'timestamp': datetime.now().isoformat()
     })
 
+@app.route('/health', methods=['GET'])
+def health_check():
+    """Health check endpoint for Render monitoring"""
+    try:
+        # Test data access
+        recommendations_available = len(bizzt_api.recommendations_data) > 0 if bizzt_api.recommendations_data else False
+        analytics_available = analytics_api.df_transaksi is not None and len(analytics_api.df_transaksi) > 0
+        
+        return jsonify({
+            'status': 'healthy',
+            'timestamp': datetime.now().isoformat(),
+            'version': '2.0.0',
+            'environment': ENV,
+            'services': {
+                'recommendations': recommendations_available,
+                'analytics': analytics_available
+            },
+            'uptime': 'OK'
+        })
+    except Exception as e:
+        logger.error(f"Health check failed: {str(e)}")
+        return jsonify({
+            'status': 'degraded',
+            'error': str(e),
+            'timestamp': datetime.now().isoformat()
+        }), 500
+
 @app.route('/api/recommendations', methods=['GET'])
 def get_recommendations():
     """Get top recommendations"""
@@ -1172,27 +1207,35 @@ def internal_error(error):
     return jsonify({'error': 'Internal server error'}), 500
 
 if __name__ == '__main__':
-    print("🚀 Bizzt Recommendation API")
-    print("=" * 50)
-    print("📋 Endpoints:")
-    print("  GET  /                              - Health check")
-    print("  GET  /api/recommendations          - Get recommendations")
-    print("  GET  /api/recommendations/stats    - Get statistics")
-    print("  POST /api/recommendations/regenerate - Regenerate recommendations")
-    print("  GET  /api/recommendations/status    - Check processing status")
-    print("  POST /api/recommendations/refresh   - Refresh from files")
-    print("  GET  /api/analytics/trends/weekly   - Weekly transaction trends")
-    print("  GET  /api/analytics/events          - Event analysis")
-    print("  GET  /api/analytics/categories      - Category performance")
-    print("  GET  /api/analytics                 - All analytics data")
-    print("  GET  /api/metrics/business          - Business KPIs (Revenue, Transactions, AOV)")
-    print("  GET  /api/metrics/revenue           - Revenue breakdown by period")
-    print("  GET  /api/metrics/dashboard         - Dashboard-ready metrics")
-    print("\n🎯 Key Features:")
-    print("  ✅ Clean endpoint structure")
-    print("  ✅ Background processing")
-    print("  ✅ Real-time progress tracking")
-    print("  ✅ Automatic data persistence")
-    print("\n🌐 Starting server on http://localhost:5000")
+    port = int(os.environ.get('PORT', 5000))
     
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    if ENV == 'production':
+        # Production mode - simple start
+        logger.info(f"🚀 Bizzt Recommendation API starting in production on port {port}")
+        app.run(host='0.0.0.0', port=port, debug=False)
+    else:
+        # Development mode with detailed info
+        print("🚀 Bizzt Recommendation API")
+        print("=" * 50)
+        print("📋 Endpoints:")
+        print("  GET  /                              - Health check")
+        print("  GET  /api/recommendations          - Get recommendations")
+        print("  GET  /api/recommendations/stats    - Get statistics")
+        print("  POST /api/recommendations/regenerate - Regenerate recommendations")
+        print("  GET  /api/recommendations/status    - Check processing status")
+        print("  POST /api/recommendations/refresh   - Refresh from files")
+        print("  GET  /api/analytics/trends/weekly   - Weekly transaction trends")
+        print("  GET  /api/analytics/events          - Event analysis")
+        print("  GET  /api/analytics/categories      - Category performance")
+        print("  GET  /api/analytics                 - All analytics data")
+        print("  GET  /api/metrics/business          - Business KPIs (Revenue, Transactions, AOV)")
+        print("  GET  /api/metrics/revenue           - Revenue breakdown by period")
+        print("  GET  /api/metrics/dashboard         - Dashboard-ready metrics")
+        print("\n🎯 Key Features:")
+        print("  ✅ Clean endpoint structure")
+        print("  ✅ Background processing")
+        print("  ✅ Real-time progress tracking")
+        print("  ✅ Automatic data persistence")
+        print("\n🌐 Starting server on http://localhost:5000")
+        
+        app.run(debug=True, host='0.0.0.0', port=5000)
