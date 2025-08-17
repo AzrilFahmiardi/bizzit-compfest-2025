@@ -1,1001 +1,1001 @@
-id_produk,nama_produk,kategori_produk,rekomendasi_detail,rekomendasi_besaran,rata_rata_uplift_profit
-P00084404,JayaPangan Beras Varian A 500g,Beras,Generic Product Discount,0.1,826.0852985864549
-P00072882,PTJaya Daging Segar Varian C 50g,Daging Segar,Event Based (Ramadan),0.05,580.4792087882588
-P00086513,CVPT Daging Segar Spesial 750g,Daging Segar,Event Based (Ramadan),0.05,552.4189300628896
-P00065063,SentosaIndo Buah Kering Varian B 100g,Buah Kering,Event Based (Ramadan),0.15,479.5256722585045
-P00072758,SentosaIndo Buah Kering Varian B 100g,Buah Kering,Event Based (Ramadan),0.15,464.37628991021893
-P00071462,PanganIndo Buah Kering Spesial 100g,Buah Kering,Event Based (Ramadan),0.15,455.1787448962359
-P00072566,PanganNusantara Daging Segar Spesial 1000g,Daging Segar,Event Based (Ramadan),0.05,411.46665007060983
-P00071601,CVCV Seafood Segar Spesial 200g,Seafood Segar,Expired Discount,0.05,399.83872231954956
-P00069955,MakmurPT Seafood Segar Varian B 500g,Seafood Segar,Expired Discount,0.1,384.2682979026631
-P00075126,IndoNusantara Minyak Goreng Varian A 1000g,Minyak Goreng,Event Based (Ramadan),0.05,347.5533616718094
-P00076982,CVMakmur Teh Spesial 250g,Teh,Event Based (Ramadan),0.1,307.3210875294053
-P00085381,AbadiJaya Daging Segar Varian C 250g,Daging Segar,Event Based (Ramadan),0.05,303.37261941288307
-P00070913,SentosaPT Seafood Segar Ekstra 100g,Seafood Segar,Expired Discount,0.15,290.4458730461174
-P00084822,PTIndo Minyak Goreng Varian B 1000g,Minyak Goreng,Event Based (Ramadan),0.05,274.50011504524446
-P00071404,JayaNusantara Buah Kering Varian C 100g,Buah Kering,Event Based (Ramadan),0.1,267.12576445978766
-P00070207,IndoCV Daging Segar Ekstra 250g,Daging Segar,Event Based (Ramadan),0.05,256.1782624556363
-P00085474,JayaPangan Daging Segar Spesial 50g,Daging Segar,Event Based (Ramadan),0.1,247.02661460189302
-P00080408,SentosaPangan Seafood Segar Spesial 200g,Seafood Segar,Expired Discount,0.15,225.17198080104208
-P00075644,AgroAbadi Seafood Segar Varian B 1000g,Seafood Segar,Expired Discount,0.1,219.43915978959012
-P00086476,MakmurMakmur Seafood Segar Varian C 1000g,Seafood Segar,Expired Discount,0.05,202.37077364867218
-P00071719,NusantaraNusantara Seafood Segar Varian A 100g,Seafood Segar,Expired Discount,0.1,202.23029082787798
-P00066193,PanganAgro Keju Varian C 250g,Keju,Generic Product Discount,0.1,191.57538795006303
-P00079196,CVCV Susu Kemasan Spesial 1000ml,Susu Kemasan,Event Based (Ramadan),0.05,188.4020225681988
-P00066679,AgroJaya Jus Kemasan Varian A 150ml,Jus Kemasan,BOGO,0.5,179.73040516180254
-P00073464,NusantaraAbadi Kentang Goreng Varian A 200g,Kentang Goreng,BOGO,0.5,178.14457932007736
-P00080819,MakmurSentosa Daging Segar Varian C 500g,Daging Segar,Event Based (Ramadan),0.05,171.63882121652568
-P00077355,PTSentosa Krim Varian C 250g,Krim,Generic Product Discount,0.1,171.2441331414857
-P00087363,AgroPangan Krim Varian C 1000g,Krim,Generic Product Discount,0.1,170.74500574734566
-P00066563,IndoAgro Jus Kemasan Spesial 500ml,Jus Kemasan,BOGO,0.5,168.2958381777089
-P00079527,AbadiIndo Buah-Buahan Varian A 200g,Buah-Buahan,Expired Discount,0.1,160.82167948533152
-P00079388,JayaJaya Kecap Varian B 200g,Kecap,Event Based (Ramadan),0.05,158.7821185703624
-P00073967,IndoSentosa Penyedap Rasa Varian C 200g,Penyedap Rasa,Generic Product Discount,0.1,157.2769122189993
-P00077164,MakmurCV Seafood Segar Ekstra 50g,Seafood Segar,Expired Discount,0.05,154.87061166284366
-P00068127,IndoPT Sereal Ekstra 750g,Sereal,BOGO,0.5,150.12218902099994
-P00073767,AgroCV Susu Kemasan Spesial 150ml,Susu Kemasan,Event Based (Ramadan),0.05,149.67646081015266
-P00071085,AgroPangan Jus Kemasan Varian C 250ml,Jus Kemasan,BOGO,0.5,147.2332035470822
-P00085399,SentosaMakmur Buah-Buahan Varian B 750g,Buah-Buahan,Expired Discount,0.05,143.27511348666576
-P00078127,JayaNusantara Susu Bubuk Varian C 1500ml,Susu Bubuk,Generic Product Discount,0.1,143.00937319966351
-P00060052,PTPT Minuman Isotonik Spesial 250ml,Minuman Isotonik,BOGO,0.5,139.5663319255391
-P00073332,JayaCV Mie Instan Spesial 200g,Mie Instan,BOGO,0.5,138.00976503495895
-P00081935,PanganNusantara Yogurt Varian B 750ml,Yogurt,BOGO,0.5,134.79916897159092
-P00064918,PTIndo Air Mineral Ekstra 1500ml,Air Mineral,BOGO,0.5,134.22040012500747
-P00073302,CVMakmur Keju Varian A 200g,Keju,Generic Product Discount,0.1,130.90578980859664
-P00072370,PTMakmur Telur Spesial 1000g,Telur,Generic Product Discount,0.15,130.43010816932838
-P00058994,MakmurJaya Telur Varian C 200g,Telur,Generic Product Discount,0.1,129.11940676384438
-P00060806,JayaCV Teh Varian C 250g,Teh,Event Based (Ramadan),0.15,127.50952002311215
-P00077773,PTPT Gula Varian C 500g,Gula,Generic Product Discount,0.1,126.93060044505
-P00072115,CVNusantara Kuaci Varian C 1000g,Kuaci,BOGO,0.5,125.89352601164046
-P00073454,IndoAbadi Daging Segar Spesial 200g,Daging Segar,Event Based (Ramadan),0.05,125.42543545344233
-P00074771,CVIndo Daging Segar Varian C 500g,Daging Segar,Event Based (Ramadan),0.05,125.42543545344233
-P00077467,IndoCV Daging Segar Varian B 50g,Daging Segar,Event Based (Ramadan),0.15,125.01700902055381
-P00083115,NusantaraPangan Kopi Kemasan Varian C 1500ml,Kopi Kemasan,BOGO,0.5,125.01421705085613
-P00077605,IndoPangan Permen Spesial 100g,Permen,BOGO,0.5,124.32764887376834
-P00057356,NusantaraAbadi Kentang Goreng Varian A 200g,Kentang Goreng,BOGO,0.5,124.26972078690869
-P00073081,NusantaraPT Permen Varian C 500g,Permen,BOGO,0.5,123.47189916002844
-P00073660,MakmurPT Saos Varian B 200g,Saos,Generic Product Discount,0.1,121.34554020999485
-P00076198,AgroCV Minyak Goreng Varian C 250g,Minyak Goreng,Event Based (Ramadan),0.1,120.7043818664215
-P00086461,AgroIndo Kopi Bubuk Varian C 500g,Kopi Bubuk,Generic Product Discount,0.1,119.33524557387636
-P00075840,CVCV Yogurt Varian C 500ml,Yogurt,BOGO,0.5,114.38664404021529
-P00075791,AgroAgro Mie Instan Varian B 250g,Mie Instan,BOGO,0.5,113.8903925873783
-P00079521,MakmurPT Kornet Varian A 750g,Kornet,BOGO,0.5,113.50681482247
-P00080633,PTSentosa Mie Instan Varian C 750g,Mie Instan,BOGO,0.5,111.8090290971104
-P00083861,CVJaya Gula Varian C 1000g,Gula,Generic Product Discount,0.1,111.21140715810134
-P00059488,SentosaCV Yogurt Spesial 1000ml,Yogurt,BOGO,0.5,110.45438208884161
-P00075245,MakmurIndo Minuman Isotonik Spesial 250ml,Minuman Isotonik,BOGO,0.5,109.6721642927696
-P00080973,PTAbadi Garam Spesial 500g,Garam,Generic Product Discount,0.1,107.86064366235541
-P00086830,IndoMakmur Daging Segar Spesial 50g,Daging Segar,Event Based (Ramadan),0.1,107.20684148418513
-P00066980,SentosaAbadi Gulali Spesial 250g,Gulali,Generic Product Discount,0.1,107.09801166309171
-P00077269,PTNusantara Yogurt Spesial 500ml,Yogurt,BOGO,0.5,106.91507100458239
-P00083734,PanganAgro Pasta Spesial 1000g,Pasta,BOGO,0.5,105.98969177775643
-P00070810,JayaAgro Saos Spesial 100g,Saos,Generic Product Discount,0.1,103.2401411698138
-P00061003,IndoPT Buah-Buahan Spesial 100g,Buah-Buahan,Expired Discount,0.15,102.62045810647987
-P00075841,JayaJaya Kornet Spesial 50g,Kornet,BOGO,0.5,102.41058382413075
-P00064568,PTIndo Teh Spesial 200g,Teh,Event Based (Ramadan),0.15,102.05964287481993
-P00073250,AbadiPangan Krim Varian C 1000g,Krim,Generic Product Discount,0.1,102.03477587779753
-P00077785,AgroAbadi Minyak Goreng Varian C 500g,Minyak Goreng,Event Based (Ramadan),0.05,99.85590071590627
-P00080026,PTIndo Minyak Goreng Spesial 1000g,Minyak Goreng,Event Based (Ramadan),0.05,99.230717039919
-P00069431,AbadiIndo Mie Instan Varian C 50g,Mie Instan,BOGO,0.5,97.42632516158119
-P00081379,PanganIndo Kornet Spesial 750g,Kornet,BOGO,0.5,96.32752491222618
-P00061267,CVAbadi Seafood Segar Spesial 200g,Seafood Segar,Expired Discount,0.05,95.77684627534109
-P00071427,AgroSentosa Gulali Spesial 750g,Gulali,Generic Product Discount,0.1,95.76409271441162
-P00082926,PanganPT Minuman Isotonik Spesial 1000ml,Minuman Isotonik,BOGO,0.5,94.01969242240466
-P00076819,PanganMakmur Pasta Varian C 1000g,Pasta,BOGO,0.5,93.81118062649693
-P00084000,NusantaraNusantara Keju Varian B 1000g,Keju,Generic Product Discount,0.1,93.20693264542751
-P00071904,CVAgro Buah-Buahan Varian A 500g,Buah-Buahan,Expired Discount,0.05,92.9439424629627
-P00077603,JayaCV Teh Varian C 250g,Teh,Event Based (Ramadan),0.1,91.37892995960237
-P00080695,CVNusantara Sereal Varian A 50g,Sereal,BOGO,0.5,91.37892995960237
-P00075674,NusantaraSentosa Sayur-Sayuran Varian C 250g,Sayur-Sayuran,Expired Discount,0.05,90.98840948896759
-P00085653,NusantaraPangan Kopi Bubuk Spesial 750g,Kopi Bubuk,Generic Product Discount,0.1,90.82491198986509
-P00076430,AgroPT Marshmallow Spesial 750g,Marshmallow,Generic Product Discount,0.1,89.79131828341997
-P00078334,AgroAgro Jus Kemasan Spesial 250ml,Jus Kemasan,BOGO,0.5,88.74417835578015
-P00062532,PTSentosa Krim Varian C 250g,Krim,Generic Product Discount,0.1,85.46135678135761
-P00083241,PanganAgro Beras Varian C 100g,Beras,Generic Product Discount,0.1,83.98641542957648
-P00064702,AgroAgro Jus Kemasan Spesial 250ml,Jus Kemasan,BOGO,0.5,83.14053942978126
-P00071781,CVPT Garam Spesial 50g,Garam,Generic Product Discount,0.1,82.84629614366486
-P00064404,PTAbadi Buah Kering Ekstra 100g,Buah Kering,Event Based (Ramadan),0.1,82.22620398692698
-P00077833,PTPangan Air Mineral Varian A 1500ml,Air Mineral,BOGO,0.5,81.97455332219943
-P00072948,AgroJaya Mayones Ekstra 1000g,Mayones,Generic Product Discount,0.1,80.59173303292937
-P00074072,NusantaraAbadi Kentang Goreng Varian B 500g,Kentang Goreng,BOGO,0.5,79.83135745623622
-P00075437,PanganMakmur Cokelat Varian C 500g,Cokelat,BOGO,0.5,78.60675174811968
-P00081107,CVAgro Beras Varian C 100g,Beras,Generic Product Discount,0.1,78.38828245236891
-P00079585,NusantaraJaya Sereal Spesial 100g,Sereal,BOGO,0.5,76.2689913205486
-P00070201,AbadiPangan Air Mineral Varian C 750ml,Air Mineral,BOGO,0.5,76.1596963446782
-P00062724,NusantaraPT Permen Varian C 500g,Permen,BOGO,0.5,75.39708639967921
-P00085251,NusantaraJaya Jus Kemasan Spesial 150ml,Jus Kemasan,BOGO,0.5,75.38118441573624
-P00074195,SentosaPangan Beras Varian B 250g,Beras,Generic Product Discount,0.1,74.61027655713951
-P00067871,PanganPT Minuman Isotonik Spesial 1000ml,Minuman Isotonik,BOGO,0.5,73.59655424459106
-P00056106,AgroCV Keju Spesial 250g,Keju,Generic Product Discount,0.1,73.32601152117468
-P00061077,PanganPT Ice Cream Varian A 100g,Ice Cream,BOGO,0.5,73.19674771622613
-P00078503,JayaNusantara Krim Spesial 50g,Krim,Generic Product Discount,0.1,72.65840122165991
-P00075134,PanganNusantara Sayur-Sayuran Varian C 750g,Sayur-Sayuran,Expired Discount,0.05,71.31624092943957
-P00085765,JayaNusantara Telur Varian B 250g,Telur,Generic Product Discount,0.1,70.79598447349099
-P00083714,CVMakmur Permen Spesial 750g,Permen,BOGO,0.5,69.94753670142563
-P00078426,AgroAgro Kuaci Ekstra 250g,Kuaci,BOGO,0.5,69.94536688252134
-P00069490,JayaPangan Minyak Goreng Ekstra 100g,Minyak Goreng,Event Based (Ramadan),0.15,69.34611817549012
-P00074425,PanganAgro Marshmallow Spesial 500g,Marshmallow,Generic Product Discount,0.1,67.25366145736785
-P00079093,CVAgro Sayur-Sayuran Spesial 750g,Sayur-Sayuran,Expired Discount,0.1,66.39741333202073
-P00073281,PanganPT Kopi Kemasan Varian C 250ml,Kopi Kemasan,BOGO,0.5,66.28006300130255
-P00080082,AbadiMakmur Kecap Varian A 1000g,Kecap,Event Based (Ramadan),0.05,63.781481254291066
-P00070440,JayaAbadi Susu Bubuk Varian C 250ml,Susu Bubuk,Generic Product Discount,0.1,63.24273201148753
-P00075671,MakmurAbadi Kecap Varian C 750g,Kecap,Event Based (Ramadan),0.05,62.56090099911398
-P00060038,AgroPangan Air Mineral Spesial 1500ml,Air Mineral,BOGO,0.5,61.57767107793234
-P00076909,PTIndo Air Mineral Ekstra 1500ml,Air Mineral,BOGO,0.5,61.3403521173077
-P00068931,AbadiMakmur Kecap Varian A 1000g,Kecap,Event Based (Ramadan),0.05,61.04934597006013
-P00070986,AgroNusantara Buah-Buahan Varian B 250g,Buah-Buahan,Expired Discount,0.1,60.77260851246865
-P00059612,PanganCV Susu Bubuk Varian C 150ml,Susu Bubuk,Generic Product Discount,0.1,59.065753882161744
-P00075430,PanganIndo Minyak Goreng Spesial 500g,Minyak Goreng,Event Based (Ramadan),0.1,58.846708693658
-P00080440,AgroPangan Mayones Varian C 500g,Mayones,Generic Product Discount,0.1,58.127710150007715
-P00074209,AbadiIndo Gulali Varian C 250g,Gulali,Generic Product Discount,0.1,57.940614045465736
-P00070968,CVCV Pasta Spesial 1000g,Pasta,BOGO,0.5,57.45552882109632
-P00082387,CVCV Permen Spesial 500g,Permen,BOGO,0.5,56.6026613958511
-P00070124,AgroAgro Pasta Varian C 750g,Pasta,BOGO,0.5,56.55592688332854
-P00072548,MakmurCV Penyedap Rasa Varian C 250g,Penyedap Rasa,Generic Product Discount,0.1,56.54972931209414
-P00073227,SentosaNusantara Susu Bubuk Spesial 1000ml,Susu Bubuk,Generic Product Discount,0.1,56.30373374520104
-P00072907,CVPT Keju Varian C 750g,Keju,Generic Product Discount,0.1,55.598481456992886
-P00081948,PanganJaya Mie Instan Varian B 50g,Mie Instan,BOGO,0.5,54.96478117854275
-P00064166,CVNusantara Buah-Buahan Spesial 50g,Buah-Buahan,Expired Discount,0.05,54.43006313488695
-P00061884,MakmurSentosa Daging Segar Varian C 500g,Daging Segar,Event Based (Ramadan),0.05,54.21338998360261
-P00084695,NusantaraNusantara Penyedap Rasa Spesial 1000g,Penyedap Rasa,Generic Product Discount,0.1,53.47064919582499
-P00055057,NusantaraMakmur Beras Varian C 50g,Beras,Generic Product Discount,0.1,53.28580420306798
-P00080909,MakmurCV Kornet Ekstra 1000g,Kornet,BOGO,0.5,52.51351617281216
-P00080998,NusantaraPangan Teh Varian B 250g,Teh,Event Based (Ramadan),0.05,51.82265129471034
-P00070404,JayaJaya Kecap Varian B 200g,Kecap,Event Based (Ramadan),0.05,51.61707687491156
-P00069588,PTPT Minuman Isotonik Spesial 250ml,Minuman Isotonik,BOGO,0.5,50.78554683060702
-P00072302,AgroNusantara Marshmallow Spesial 500g,Marshmallow,Generic Product Discount,0.1,50.59671401673313
-P00069925,PTMakmur Daging Segar Varian C 200g,Daging Segar,Event Based (Ramadan),0.05,50.41774665992489
-P00083403,NusantaraPangan Jus Kemasan Ekstra 1000ml,Jus Kemasan,BOGO,0.5,50.187943726941285
-P00075591,JayaAbadi Marshmallow Varian A 250g,Marshmallow,Generic Product Discount,0.1,49.84292531553638
-P00070080,IndoPangan Saos Varian C 200g,Saos,Generic Product Discount,0.1,49.453349633120524
-P00078947,PTMakmur Telur Ekstra 250g,Telur,Generic Product Discount,0.1,48.77043977157291
-P00070638,AbadiIndo Gulali Spesial 50g,Gulali,Generic Product Discount,0.1,48.62703725117353
-P00062966,AbadiAgro Jus Kemasan Spesial 750ml,Jus Kemasan,BOGO,0.5,48.192532567115904
-P00082927,SentosaIndo Permen Spesial 1000g,Permen,BOGO,0.5,48.16477636956097
-P00074043,PanganPT Marshmallow Varian C 100g,Marshmallow,Generic Product Discount,0.1,46.548640158904504
-P00081917,SentosaMakmur Krim Varian C 100g,Krim,Generic Product Discount,0.1,46.46301131756536
-P00059944,JayaCV Beras Spesial 200g,Beras,Generic Product Discount,0.1,46.348713188426245
-P00077501,PanganSentosa Sayur-Sayuran Varian C 100g,Sayur-Sayuran,Expired Discount,0.15,45.18072544698589
-P00064613,JayaJaya Kopi Bubuk Varian C 1000g,Kopi Bubuk,Generic Product Discount,0.1,44.34918243982696
-P00067083,SentosaNusantara Air Mineral Varian C 250ml,Air Mineral,BOGO,0.5,44.19134279849004
-P00081992,AgroCV Buah Kering Ekstra 50g,Buah Kering,Event Based (Ramadan),0.05,43.31900607432772
-P00068863,JayaSentosa Cokelat Spesial 1000g,Cokelat,BOGO,0.5,42.25845375872814
-P00080810,MakmurAbadi Minuman Isotonik Varian B 250ml,Minuman Isotonik,BOGO,0.5,41.712508526206875
-P00059655,AgroPT Kaldu Jamur Varian C 50g,Kaldu Jamur,Generic Product Discount,0.15,41.32682016855733
-P00070176,MakmurIndo Gulali Spesial 200g,Gulali,Generic Product Discount,0.1,40.96976796798094
-P00071096,SentosaIndo Mayones Ekstra 250g,Mayones,Generic Product Discount,0.1,40.92545896379943
-P00062947,PanganAbadi Sereal Varian C 200g,Sereal,BOGO,0.5,40.575343664196566
-P00071805,NusantaraJaya Ice Cream Varian B 50g,Ice Cream,BOGO,0.5,39.7477850543948
-P00084993,NusantaraSentosa Saos Varian C 500g,Saos,Generic Product Discount,0.1,39.69488688855472
-P00069476,SentosaAgro Kentang Goreng Ekstra 100g,Kentang Goreng,BOGO,0.5,39.68490838408479
-P00077662,AgroNusantara Penyedap Rasa Spesial 250g,Penyedap Rasa,Generic Product Discount,0.1,39.5832547989844
-P00086660,AgroPT Kaldu Jamur Spesial 50g,Kaldu Jamur,Generic Product Discount,0.1,39.35963772622608
-P00074146,CVMakmur Buah-Buahan Spesial 200g,Buah-Buahan,Expired Discount,0.15,38.58349695649508
-P00069868,NusantaraIndo Marshmallow Varian C 1000g,Marshmallow,Generic Product Discount,0.1,38.18034423218626
-P00079882,AbadiAgro Gula Spesial 750g,Gula,Generic Product Discount,0.1,37.87315678895766
-P00073629,AgroAgro Telur Varian B 100g,Telur,Generic Product Discount,0.1,37.74299135575893
-P00085451,JayaCV Beras Spesial 200g,Beras,Generic Product Discount,0.1,37.010218313654605
-P00066313,AgroIndo Kopi Bubuk Varian C 750g,Kopi Bubuk,Generic Product Discount,0.1,36.42800221873313
-P00062903,NusantaraSentosa Pasta Varian C 200g,Pasta,BOGO,0.5,36.08609712722546
-P00082126,PTAbadi Sarden Kaleng Varian C 200g,Sarden Kaleng,BOGO,0.5,35.21841017983115
-P00076897,NusantaraAgro Sarden Kaleng Varian C 50g,Sarden Kaleng,BOGO,0.5,34.83774389186328
-P00056694,PTMakmur Telur Spesial 1000g,Telur,Generic Product Discount,0.15,34.602341416252784
-P00069567,AbadiIndo Yogurt Varian A 1000ml,Yogurt,BOGO,0.5,34.51301372263379
-P00087310,AgroIndo Permen Spesial 250g,Permen,BOGO,0.5,34.12925335173645
-P00064131,MakmurAbadi Minyak Goreng Spesial 250g,Minyak Goreng,Event Based (Ramadan),0.15,34.12793603427281
-P00073936,AbadiAgro Garam Varian C 500g,Garam,Generic Product Discount,0.1,34.08792424326157
-P00077368,PanganCV Garam Ekstra 250g,Garam,Generic Product Discount,0.1,34.02759976663606
-P00078250,SentosaNusantara Kopi Kemasan Varian A 150ml,Kopi Kemasan,BOGO,0.5,33.932102224497385
-P00079217,SentosaPT Sayur-Sayuran Varian C 500g,Sayur-Sayuran,Expired Discount,0.05,33.769137347337164
-P00065180,NusantaraPangan Garam Spesial 1000g,Garam,Generic Product Discount,0.1,33.41406767216722
-P00070610,IndoSentosa Roti Spesial 100g,Roti,Expired Discount,0.05,33.19086872261596
-P00063413,MakmurNusantara Marshmallow Spesial 750g,Marshmallow,Generic Product Discount,0.1,33.01769273283958
-P00073311,SentosaPT Keju Varian C 1000g,Keju,Generic Product Discount,0.1,32.941959652344394
-P00057997,PanganNusantara Buah-Buahan Varian A 50g,Buah-Buahan,Expired Discount,0.05,32.31149855041713
-P00069369,CVCV Sayur-Sayuran Ekstra 1000g,Sayur-Sayuran,Expired Discount,0.05,31.26929486828476
-P00079792,AgroIndo Sarden Kaleng Ekstra 750g,Sarden Kaleng,BOGO,0.5,31.12821947090856
-P00082197,MakmurNusantara Keju Spesial 250g,Keju,Generic Product Discount,0.1,31.043662418747317
-P00075322,AbadiAgro Kaldu Jamur Varian C 50g,Kaldu Jamur,Generic Product Discount,0.1,30.001403077254054
-P00077846,PanganJaya Gula Spesial 250g,Gula,Generic Product Discount,0.1,29.49657497413591
-P00056958,AgroIndo Sarden Kaleng Ekstra 50g,Sarden Kaleng,BOGO,0.5,28.969342923252157
-P00072831,AbadiPT Marshmallow Varian B 750g,Marshmallow,Generic Product Discount,0.1,28.901798823621448
-P00069680,IndoCV Permen Varian C 200g,Permen,BOGO,0.5,28.769329669281433
-P00075133,MakmurAgro Mayones Varian C 500g,Mayones,Generic Product Discount,0.1,28.593372873114276
-P00080005,AgroPT Mayones Spesial 100g,Mayones,Generic Product Discount,0.1,28.57235807784855
-P00076500,NusantaraPT Telur Varian C 200g,Telur,Generic Product Discount,0.15,28.131867625852237
-P00069851,NusantaraIndo Yogurt Varian A 150ml,Yogurt,BOGO,0.5,28.049328108192356
-P00078946,IndoAgro Garam Varian C 100g,Garam,Generic Product Discount,0.1,27.849555150231026
-P00086754,PanganJaya Yogurt Varian C 250ml,Yogurt,BOGO,0.5,27.56733001500379
-P00054913,CVCV Kopi Bubuk Varian B 1000g,Kopi Bubuk,Generic Product Discount,0.1,27.252533305091674
-P00064840,PanganIndo Saos Varian C 750g,Saos,Generic Product Discount,0.15,26.681213626972976
-P00084268,PanganPT Beras Spesial 1000g,Beras,Generic Product Discount,0.1,26.33969006384291
-P00071933,IndoPT Beras Spesial 100g,Beras,Generic Product Discount,0.1,26.025142014116682
-P00072721,PTAbadi Keju Varian C 750g,Keju,Generic Product Discount,0.1,26.010749832201327
-P00082221,MakmurCV Kopi Bubuk Spesial 100g,Kopi Bubuk,Generic Product Discount,0.1,25.71698619997869
-P00081620,AgroIndo Buah-Buahan Ekstra 200g,Buah-Buahan,Expired Discount,0.1,25.378700481703163
-P00072017,JayaMakmur Sarden Kaleng Spesial 200g,Sarden Kaleng,BOGO,0.5,25.327042700713264
-P00079328,AgroIndo Kopi Bubuk Varian C 750g,Kopi Bubuk,Generic Product Discount,0.1,25.262776228209987
-P00075143,CVNusantara Daging Segar Spesial 250g,Daging Segar,Event Based (Ramadan),0.1,25.199385070967764
-P00074901,AbadiJaya Sayur-Sayuran Varian C 500g,Sayur-Sayuran,Expired Discount,0.05,25.183121043360643
-P00085055,IndoAgro Gulali Spesial 500g,Gulali,Generic Product Discount,0.1,24.631566774180556
-P00077226,JayaNusantara Kornet Varian C 200g,Kornet,BOGO,0.5,24.48794351667766
-P00061520,AgroMakmur Gulali Spesial 1000g,Gulali,Generic Product Discount,0.1,24.269391870562913
-P00067562,JayaMakmur Sereal Varian C 100g,Sereal,BOGO,0.5,23.88975902489983
-P00082075,NusantaraMakmur Marshmallow Varian C 500g,Marshmallow,Generic Product Discount,0.1,23.68582357894502
-P00084244,MakmurCV Mie Instan Varian C 200g,Mie Instan,BOGO,0.5,23.581419651176475
-P00082336,PanganPangan Kornet Spesial 500g,Kornet,BOGO,0.5,22.960669699706614
-P00077205,PanganJaya Mayones Varian C 500g,Mayones,Generic Product Discount,0.1,22.852677074345138
-P00058433,AbadiJaya Marshmallow Varian C 200g,Marshmallow,Generic Product Discount,0.1,22.729363142253305
-P00070450,AbadiMakmur Yogurt Ekstra 1500ml,Yogurt,BOGO,0.5,22.70736350305515
-P00086866,SentosaJaya Selai Spesial 250g,Selai,Generic Product Discount,0.1,22.497848669718678
-P00063866,NusantaraAgro Susu Bubuk Varian C 750ml,Susu Bubuk,Generic Product Discount,0.1,22.38044491949131
-P00080786,JayaPT Ice Cream Ekstra 500g,Ice Cream,BOGO,0.5,22.33379236226142
-P00080155,MakmurIndo Teh Spesial 750g,Teh,Event Based (Ramadan),0.15,22.136838291246022
-P00074533,IndoPT Permen Varian C 250g,Permen,BOGO,0.5,21.830938418514506
-P00082490,AbadiIndo Susu Kemasan Spesial 1000ml,Susu Kemasan,Event Based (Ramadan),0.1,21.463663749140665
-P00069666,PTAbadi Bihun Varian C 1000g,Bihun,Generic Product Discount,0.1,21.40759613028547
-P00085444,NusantaraPT Buah Kering Spesial 250g,Buah Kering,Event Based (Ramadan),0.15,21.187813146695362
-P00072413,AgroMakmur Keju Spesial 750g,Keju,Generic Product Discount,0.1,20.97694200784383
-P00080249,IndoPT Krim Varian A 200g,Krim,Generic Product Discount,0.1,20.917911225717035
-P00076202,IndoSentosa Kaldu Jamur Spesial 500g,Kaldu Jamur,Generic Product Discount,0.1,20.63775759064697
-P00083337,SentosaPangan Selai Varian B 750g,Selai,Generic Product Discount,0.1,20.63625412642216
-P00070825,SentosaCV Makaroni Varian C 100g,Makaroni,BOGO,0.5,20.6034103729653
-P00076014,NusantaraMakmur Telur Spesial 500g,Telur,Generic Product Discount,0.1,20.21791314253096
-P00087032,PTMakmur Daging Segar Spesial 50g,Daging Segar,Event Based (Ramadan),0.05,20.185574576640647
-P00087237,IndoMakmur Kopi Bubuk Ekstra 750g,Kopi Bubuk,Generic Product Discount,0.1,19.73808984349398
-P00073583,MakmurIndo Garam Varian B 250g,Garam,Generic Product Discount,0.1,19.535571591499775
-P00058332,PanganMakmur Kentang Goreng Spesial 250g,Kentang Goreng,BOGO,0.5,19.488525172028403
-P00075702,CVCV Kopi Bubuk Varian B 1000g,Kopi Bubuk,Generic Product Discount,0.1,19.345637475473268
-P00080192,NusantaraIndo Roti Spesial 100g,Roti,Expired Discount,0.05,18.751345092819975
-P00085334,AbadiIndo Kuaci Ekstra 250g,Kuaci,BOGO,0.5,16.974182905277303
-P00077199,SentosaAbadi Mayones Varian C 200g,Mayones,Generic Product Discount,0.1,16.448413130888184
-P00075665,AgroAbadi Gula Varian C 200g,Gula,Generic Product Discount,0.1,15.861342116181277
-P00063580,JayaNusantara Susu Bubuk Varian C 1500ml,Susu Bubuk,Generic Product Discount,0.1,15.688346521659241
-P00082568,CVSentosa Pasta Varian C 1000g,Pasta,BOGO,0.5,15.684791943404889
-P00072781,PanganSentosa Telur Spesial 50g,Telur,Generic Product Discount,0.1,15.621455668718681
-P00072889,CVPangan Saos Varian B 1000g,Saos,Generic Product Discount,0.15,15.578269886027442
-P00075806,PanganNusantara Penyedap Rasa Spesial 100g,Penyedap Rasa,Generic Product Discount,0.1,15.522483023555196
-P00085353,NusantaraCV Teh Varian C 250g,Teh,Event Based (Ramadan),0.05,15.51211136857637
-P00070464,NusantaraAbadi Makaroni Varian C 100g,Makaroni,BOGO,0.5,15.440413992307185
-P00082802,IndoNusantara Beras Varian C 100g,Beras,Generic Product Discount,0.1,15.324127724228674
-P00073517,MakmurAgro Cokelat Varian C 750g,Cokelat,BOGO,0.5,15.212011197141464
-P00064581,SentosaMakmur Minuman Isotonik Spesial 1500ml,Minuman Isotonik,BOGO,0.5,14.924521954577585
-P00056452,PanganPT Mie Instan Varian A 50g,Mie Instan,BOGO,0.5,14.412254764441968
-P00077676,PanganSentosa Minuman Isotonik Spesial 150ml,Minuman Isotonik,BOGO,0.5,13.92594713185099
-P00076124,SentosaIndo Kopi Bubuk Varian C 100g,Kopi Bubuk,Generic Product Discount,0.1,13.921961665037998
-P00077672,PanganCV Pasta Spesial 500g,Pasta,BOGO,0.5,13.465563751977243
-P00085379,MakmurJaya Krim Spesial 200g,Krim,Generic Product Discount,0.1,13.358663500587454
-P00084315,JayaAgro Krim Varian C 100g,Krim,Generic Product Discount,0.1,13.176783646321383
-P00077290,JayaNusantara Air Mineral Varian A 750ml,Air Mineral,BOGO,0.5,12.998083520624164
-P00066892,IndoPT Beras Spesial 100g,Beras,Generic Product Discount,0.1,12.461755398874175
-P00070813,PTSentosa Keju Varian C 500g,Keju,Generic Product Discount,0.1,12.05514104109443
-P00062925,JayaIndo Pasta Varian B 750g,Pasta,BOGO,0.5,11.975455596528832
-P00084737,MakmurAbadi Gula Spesial 200g,Gula,Generic Product Discount,0.1,11.97260644366861
-P00078750,IndoAgro Yogurt Varian C 1500ml,Yogurt,BOGO,0.5,11.897090452319844
-P00073779,PanganPangan Susu Bubuk Varian C 1000ml,Susu Bubuk,Generic Product Discount,0.1,11.703799862772144
-P00079380,SentosaMakmur Roti Spesial 200g,Roti,Expired Discount,0.05,11.558469183361467
-P00056873,SentosaNusantara Kopi Kemasan Varian A 150ml,Kopi Kemasan,BOGO,0.5,10.729901698415688
-P00073513,SentosaAbadi Gula Varian C 200g,Gula,Generic Product Discount,0.1,10.669943862405944
-P00070708,NusantaraAbadi Sereal Varian B 250g,Sereal,BOGO,0.5,10.535701083285176
-P00071137,NusantaraJaya Ice Cream Varian A 750g,Ice Cream,BOGO,0.5,10.483279037428929
-P00082720,PanganCV Garam Ekstra 50g,Garam,Generic Product Discount,0.1,10.483279037428929
-P00086402,PTAgro Bihun Spesial 100g,Bihun,Generic Product Discount,0.1,10.450275806996842
-P00075470,NusantaraCV Roti Spesial 50g,Roti,Expired Discount,0.05,10.117255394410108
-P00071266,IndoIndo Cokelat Spesial 750g,Cokelat,BOGO,0.5,10.074755133907729
-P00078450,AgroCV Krim Spesial 200g,Krim,Generic Product Discount,0.1,9.570019165353187
-P00071380,AbadiSentosa Susu Kemasan Spesial 250ml,Susu Kemasan,Event Based (Ramadan),0.15,9.533818764923808
-P00083665,SentosaMakmur Susu Bubuk Spesial 1500ml,Susu Bubuk,Generic Product Discount,0.1,9.463557470200385
-P00087434,MakmurPangan Kornet Varian C 200g,Kornet,BOGO,0.5,8.678911494736894
-P00060986,JayaNusantara Buah Kering Varian C 100g,Buah Kering,Event Based (Ramadan),0.05,8.518526474303144
-P00077589,SentosaAbadi Permen Varian C 750g,Permen,BOGO,0.5,8.467983422588986
-P00063406,NusantaraNusantara Penyedap Rasa Spesial 1000g,Penyedap Rasa,Generic Product Discount,0.1,8.407548175552165
-P00073646,PanganAgro Kopi Kemasan Ekstra 150ml,Kopi Kemasan,BOGO,0.5,8.346844809213508
-P00070369,JayaCV Marshmallow Varian A 50g,Marshmallow,Generic Product Discount,0.1,7.857884370527245
-P00076973,AgroSentosa Buah-Buahan Spesial 200g,Buah-Buahan,Expired Discount,0.1,7.676566569831266
-P00076719,IndoPT Sereal Ekstra 750g,Sereal,BOGO,0.5,6.874089430224558
-P00070700,NusantaraMakmur Beras Varian C 50g,Beras,Generic Product Discount,0.1,6.868391965908813
-P00078542,IndoIndo Kopi Kemasan Spesial 1500ml,Kopi Kemasan,BOGO,0.5,6.585410857570878
-P00073618,MakmurJaya Kopi Bubuk Varian C 250g,Kopi Bubuk,Generic Product Discount,0.1,6.2467092722254165
-P00082825,IndoPangan Kuaci Varian C 1000g,Kuaci,BOGO,0.5,5.913790373995994
-P00080433,PanganSentosa Saos Varian C 250g,Saos,Generic Product Discount,0.1,5.868319637915647
-P00079709,SentosaJaya Daging Segar Varian C 250g,Daging Segar,Event Based (Ramadan),0.15,5.65388930368681
-P00063987,IndoAbadi Garam Varian C 250g,Garam,Generic Product Discount,0.1,5.599395875998198
-P00082417,AbadiJaya Seafood Segar Spesial 1000g,Seafood Segar,Expired Discount,0.1,5.542960867198417
-P00080301,JayaPT Penyedap Rasa Varian C 50g,Penyedap Rasa,Generic Product Discount,0.15,5.5223611149899625
-P00072844,JayaIndo Kentang Goreng Ekstra 750g,Kentang Goreng,BOGO,0.5,5.51762881601644
-P00070556,MakmurPangan Susu Kemasan Ekstra 750ml,Susu Kemasan,Event Based (Ramadan),0.05,5.376467498393367
-P00079564,PTPT Buah-Buahan Varian B 1000g,Buah-Buahan,Expired Discount,0.05,4.865583842579781
-P00084295,PanganSentosa Mayones Spesial 750g,Mayones,Generic Product Discount,0.1,4.699038113973984
-P00079291,MakmurAgro Kecap Varian C 200g,Kecap,Event Based (Ramadan),0.1,4.613340009107844
-P00073410,CVAgro Buah-Buahan Ekstra 1000g,Buah-Buahan,Expired Discount,0.2,4.489448336578789
-P00064930,JayaPT Sayur-Sayuran Spesial 750g,Sayur-Sayuran,Expired Discount,0.05,4.324740501810766
-P00078700,IndoSentosa Gulali Varian C 500g,Gulali,Generic Product Discount,0.1,4.306200125269015
-P00072743,AgroSentosa Susu Kemasan Spesial 250ml,Susu Kemasan,Event Based (Ramadan),0.05,3.795300135893285
-P00055786,CVPangan Bihun Varian C 100g,Bihun,Generic Product Discount,0.15,3.737502905947167
-P00077119,JayaCV Air Mineral Varian A 150ml,Air Mineral,BOGO,0.5,3.6142866944765046
-P00078605,JayaPangan Gula Varian C 200g,Gula,Generic Product Discount,0.15,3.5063953886830177
-P00055228,MakmurJaya Krim Spesial 200g,Krim,Generic Product Discount,0.1,3.397917749946828
-P00076756,SentosaAbadi Gulali Spesial 50g,Gulali,Generic Product Discount,0.1,3.1823592514959955
-P00056695,SentosaAgro Gula Spesial 1000g,Gula,Generic Product Discount,0.1,3.1526000781937
-P00079738,JayaIndo Beras Varian C 1000g,Beras,Generic Product Discount,0.1,3.122620545626205
-P00084203,PTJaya Sereal Spesial 750g,Sereal,BOGO,0.5,3.08441078971191
-P00072978,AgroCV Daging Segar Ekstra 750g,Daging Segar,Event Based (Ramadan),0.15,3.037917202560493
-P00070439,MakmurMakmur Cokelat Varian C 500g,Cokelat,BOGO,0.5,3.026891187968431
-P00079837,NusantaraJaya Selai Varian C 1000g,Selai,Generic Product Discount,0.1,2.793879497249236
-P00073997,JayaCV Kornet Spesial 250g,Kornet,BOGO,0.5,2.763812066539913
-P00078644,NusantaraIndo Sereal Spesial 1000g,Sereal,BOGO,0.5,2.3961958274003337
-P00059935,SentosaPT Keju Varian C 1000g,Keju,Generic Product Discount,0.1,2.373418619954691
-P00075739,JayaCV Bihun Spesial 250g,Bihun,Generic Product Discount,0.1,2.107722059640537
-P00086743,AbadiPangan Mie Instan Varian C 100g,Mie Instan,BOGO,0.5,1.9712223835813347
-P00078262,AbadiNusantara Gula Varian B 50g,Gula,Generic Product Discount,0.1,1.7670106648783985
-P00063760,AbadiSentosa Kopi Kemasan Spesial 150ml,Kopi Kemasan,BOGO,0.5,1.6272885956128675
-P00062416,SentosaAgro Roti Varian C 50g,Roti,Expired Discount,0.05,1.5222576698947705
-P00071355,CVJaya Garam Varian B 100g,Garam,Generic Product Discount,0.1,1.5133097344464659
-P00072283,AbadiPT Kecap Spesial 750g,Kecap,Event Based (Ramadan),0.05,1.3973362963697582
-P00065471,PanganNusantara Yogurt Varian B 500ml,Yogurt,BOGO,0.5,1.3332454470676112
-P00085018,IndoSentosa Sarden Kaleng Spesial 750g,Sarden Kaleng,BOGO,0.5,1.0542051781221744
-P00068874,PanganNusantara Selai Varian C 750g,Selai,Generic Product Discount,0.1,0.6773727622794468
-P00058215,JayaMakmur Sarden Kaleng Spesial 200g,Sarden Kaleng,BOGO,0.5,0.5388963045757009
-P00070729,AgroIndo Sarden Kaleng Ekstra 50g,Sarden Kaleng,Tanpa Diskon,0.0,0.0
-P00070756,SentosaJaya Kopi Bubuk Ekstra 1000g,Kopi Bubuk,Tanpa Diskon,0.0,0.0
-P00070758,CVAbadi Kecap Spesial 50g,Kecap,Tanpa Diskon,0.0,0.0
-P00070765,AbadiPangan Daging Segar Spesial 50g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00070791,JayaPangan Pasta Spesial 200g,Pasta,Tanpa Diskon,0.0,0.0
-P00070804,JayaIndo Kentang Goreng Varian C 200g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00070811,SentosaJaya Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,0.0
-P00070816,PanganAbadi Buah-Buahan Spesial 750g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00070822,PanganPT Kaldu Jamur Varian A 500g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00070830,PanganAbadi Buah Kering Varian C 250g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00070907,MakmurIndo Kentang Goreng Varian C 50g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00070926,CVAgro Keripik Varian C 500g,Keripik,Tanpa Diskon,0.0,0.0
-P00070958,SentosaAgro Roti Varian C 50g,Roti,Tanpa Diskon,0.0,0.0
-P00071013,PTJaya Krim Varian C 200g,Krim,Tanpa Diskon,0.0,0.0
-P00071030,JayaPT Kornet Varian C 750g,Kornet,Tanpa Diskon,0.0,0.0
-P00071041,SentosaPT Cokelat Varian C 200g,Cokelat,Tanpa Diskon,0.0,0.0
-P00071047,MakmurJaya Kopi Kemasan Varian C 150ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00071067,AgroIndo Permen Varian C 1000g,Permen,Tanpa Diskon,0.0,0.0
-P00071147,CVAbadi Mentega Spesial 250g,Mentega,Tanpa Diskon,0.0,0.0
-P00071176,AgroAgro Makaroni Varian C 1000g,Makaroni,Tanpa Diskon,0.0,0.0
-P00071218,AbadiSentosa Minyak Goreng Spesial 500g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00071240,PanganMakmur Soda Varian C 750ml,Soda,Tanpa Diskon,0.0,0.0
-P00071259,AgroCV Sirup Spesial 150ml,Sirup,Tanpa Diskon,0.0,0.0
-P00056845,AbadiPT Mayones Spesial 100g,Mayones,Tanpa Diskon,0.0,0.0
-P00056852,AgroAgro Kacang Varian C 500g,Kacang,Tanpa Diskon,0.0,0.0
-P00056874,IndoIndo Ice Cream Varian C 100g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00057050,MakmurAbadi Kecap Spesial 250g,Kecap,Tanpa Diskon,0.0,0.0
-P00057132,PanganCV Selai Varian C 250g,Selai,Tanpa Diskon,0.0,0.0
-P00057162,PanganMakmur Cokelat Varian C 500g,Cokelat,Tanpa Diskon,0.0,0.0
-P00057201,AgroIndo Air Mineral Varian C 500ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00057255,NusantaraIndo Susu Bubuk Varian C 500ml,Susu Bubuk,Tanpa Diskon,0.0,0.0
-P00057344,AbadiIndo Permen Spesial 1000g,Permen,Tanpa Diskon,0.0,0.0
-P00057405,MakmurAgro Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,0.0
-P00057528,MakmurPT Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,0.0
-P00057655,JayaMakmur Teh Varian C 100g,Teh,Tanpa Diskon,0.0,0.0
-P00057794,NusantaraPT Telur Varian C 200g,Telur,Tanpa Diskon,0.0,0.0
-P00071260,MakmurIndo Mie Instan Varian A 1000g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00071335,CVPT Kacang Spesial 250g,Kacang,Tanpa Diskon,0.0,0.0
-P00071434,CVJaya Ice Cream Varian C 750g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00071506,SentosaNusantara Air Mineral Varian C 250ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00071515,PTIndo Saos Varian A 50g,Saos,Tanpa Diskon,0.0,0.0
-P00071559,AgroCV Daging Segar Ekstra 750g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00071570,AgroMakmur Mayones Spesial 750g,Mayones,Tanpa Diskon,0.0,0.0
-P00070370,AbadiNusantara Susu Bubuk Varian B 750ml,Susu Bubuk,Tanpa Diskon,0.0,0.0
-P00070405,PanganPangan Sayur-Sayuran Spesial 500g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00070429,CVSentosa Minyak Goreng Varian C 100g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00070478,JayaPT Ice Cream Ekstra 50g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00070501,AgroJaya Saos Spesial 1000g,Saos,Tanpa Diskon,0.0,0.0
-P00070537,JayaPT Nugget Varian C 100g,Nugget,Tanpa Diskon,0.0,0.0
-P00070541,AbadiSentosa Kopi Kemasan Spesial 150ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00070569,PanganJaya Krim Spesial 100g,Krim,Tanpa Diskon,0.0,0.0
-P00070576,MakmurJaya Biskuit Varian C 100g,Biskuit,Tanpa Diskon,0.0,0.0
-P00071599,JayaNusantara Telur Varian B 750g,Telur,Tanpa Diskon,0.0,0.0
-P00071736,IndoIndo Ice Cream Varian C 100g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00071775,IndoAgro Sarden Kaleng Spesial 250g,Sarden Kaleng,Tanpa Diskon,0.0,0.0
-P00071789,MakmurPangan Keripik Spesial 100g,Keripik,Tanpa Diskon,0.0,0.0
-P00071793,NusantaraNusantara Sayur-Sayuran Varian B 50g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00071794,AbadiMakmur Buah Kering Ekstra 200g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00071819,PTSentosa Kentang Goreng Ekstra 250g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00071848,CVJaya Nugget Ekstra 500g,Nugget,Tanpa Diskon,0.0,0.0
-P00071857,PanganAgro Kopi Kemasan Spesial 750ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00071866,MakmurJaya Telur Varian C 200g,Telur,Tanpa Diskon,0.0,0.0
-P00071983,MakmurPT Bihun Varian C 500g,Bihun,Tanpa Diskon,0.0,0.0
-P00072022,SentosaAbadi Gulali Spesial 250g,Gulali,Tanpa Diskon,0.0,0.0
-P00072117,IndoIndo Makaroni Varian C 200g,Makaroni,Tanpa Diskon,0.0,0.0
-P00072171,MakmurPangan Jus Kemasan Varian C 150ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00072194,PTCV Kopi Kemasan Varian B 750ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00072274,NusantaraJaya Gula Spesial 50g,Gula,Tanpa Diskon,0.0,0.0
-P00072299,MakmurIndo Kuaci Spesial 250g,Kuaci,Tanpa Diskon,0.0,0.0
-P00072317,AbadiJaya Marshmallow Varian C 200g,Marshmallow,Tanpa Diskon,0.0,0.0
-P00072368,SentosaAgro Gula Spesial 1000g,Gula,Tanpa Diskon,0.0,0.0
-P00072424,NusantaraCV Yogurt Spesial 150ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00072454,NusantaraAgro Nugget Varian C 250g,Nugget,Tanpa Diskon,0.0,0.0
-P00072460,AgroPangan Biskuit Varian A 100g,Biskuit,Tanpa Diskon,0.0,0.0
-P00072495,IndoPT Sayur-Sayuran Spesial 200g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00072499,AgroMakmur Nugget Ekstra 750g,Nugget,Tanpa Diskon,0.0,0.0
-P00072546,MakmurAgro Minuman Isotonik Varian A 1500ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00072586,CVPangan Bihun Varian C 100g,Bihun,Tanpa Diskon,0.0,0.0
-P00072596,AbadiMakmur Buah-Buahan Varian B 50g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00072671,AgroNusantara Soda Spesial 250ml,Soda,Tanpa Diskon,0.0,0.0
-P00072741,PTNusantara Teh Varian A 500g,Teh,Tanpa Diskon,0.0,0.0
-P00072760,CVNusantara Buah-Buahan Spesial 50g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00072793,PTAbadi Soda Varian C 250ml,Soda,Tanpa Diskon,0.0,0.0
-P00072862,AbadiPT Kacang Varian C 50g,Kacang,Tanpa Diskon,0.0,0.0
-P00069887,CVNusantara Sirup Varian C 750ml,Sirup,Tanpa Diskon,0.0,0.0
-P00069898,SentosaAbadi Mayones Varian C 100g,Mayones,Tanpa Diskon,0.0,0.0
-P00069981,IndoIndo Gula Varian B 750g,Gula,Tanpa Diskon,0.0,0.0
-P00070031,AbadiSentosa Mie Instan Ekstra 1000g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00070097,NusantaraJaya Mentega Varian C 500g,Mentega,Tanpa Diskon,0.0,0.0
-P00070105,MakmurAgro Susu Kemasan Spesial 500ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00070153,PanganPangan Kornet Varian A 200g,Kornet,Tanpa Diskon,0.0,0.0
-P00070163,IndoIndo Jus Kemasan Spesial 1000ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00070258,AbadiIndo Teh Ekstra 500g,Teh,Tanpa Diskon,0.0,0.0
-P00070282,IndoAbadi Keripik Varian C 750g,Keripik,Tanpa Diskon,0.0,0.0
-P00072911,NusantaraIndo Selai Varian A 750g,Selai,Tanpa Diskon,0.0,0.0
-P00072967,IndoPT Pasta Varian A 750g,Pasta,Tanpa Diskon,0.0,0.0
-P00072995,MakmurPangan Susu Kemasan Varian A 750ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00072998,SentosaJaya Soda Spesial 1000ml,Soda,Tanpa Diskon,0.0,0.0
-P00073002,SentosaMakmur Buah-Buahan Spesial 200g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00073014,AgroAgro Susu Bubuk Varian C 750ml,Susu Bubuk,Tanpa Diskon,0.0,0.0
-P00073016,SentosaPangan Sarden Kaleng Spesial 50g,Sarden Kaleng,Tanpa Diskon,0.0,0.0
-P00073017,JayaAbadi Sereal Varian A 250g,Sereal,Tanpa Diskon,0.0,0.0
-P00073020,CVJaya Nugget Varian B 250g,Nugget,Tanpa Diskon,0.0,0.0
-P00073035,AbadiNusantara Kopi Bubuk Varian A 500g,Kopi Bubuk,Tanpa Diskon,0.0,0.0
-P00073109,PTJaya Mayones Varian C 250g,Mayones,Tanpa Diskon,0.0,0.0
-P00073115,IndoSentosa Sayur-Sayuran Varian C 100g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00073124,NusantaraAgro Kacang Spesial 1000g,Kacang,Tanpa Diskon,0.0,0.0
-P00073134,NusantaraIndo Minyak Goreng Spesial 100g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00073184,NusantaraIndo Sirup Spesial 250ml,Sirup,Tanpa Diskon,0.0,0.0
-P00073207,PanganPT Gula Varian B 200g,Gula,Tanpa Diskon,0.0,0.0
-P00073245,SentosaNusantara Air Mineral Varian C 250ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00073268,JayaAbadi Minuman Isotonik Spesial 500ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00073276,NusantaraMakmur Kaldu Jamur Varian B 1000g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00073309,CVCV Sayur-Sayuran Ekstra 250g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00073312,SentosaSentosa Kecap Varian A 500g,Kecap,Tanpa Diskon,0.0,0.0
-P00069582,CVSentosa Makaroni Varian C 500g,Makaroni,Tanpa Diskon,0.0,0.0
-P00069651,JayaNusantara Permen Varian B 50g,Permen,Tanpa Diskon,0.0,0.0
-P00069664,AbadiIndo Minyak Goreng Varian C 250g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00069698,IndoJaya Mentega Spesial 100g,Mentega,Tanpa Diskon,0.0,0.0
-P00069709,AgroCV Kacang Varian A 100g,Kacang,Tanpa Diskon,0.0,0.0
-P00069729,PanganAbadi Susu Kemasan Spesial 1000ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00069733,PTNusantara Buah Kering Spesial 500g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00069746,SentosaMakmur Minuman Isotonik Spesial 1500ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00069754,AgroIndo Sarden Kaleng Varian A 500g,Sarden Kaleng,Tanpa Diskon,0.0,0.0
-P00069756,NusantaraPT Kecap Ekstra 750g,Kecap,Tanpa Diskon,0.0,0.0
-P00069841,AbadiJaya Garam Spesial 100g,Garam,Tanpa Diskon,0.0,0.0
-P00069846,CVAbadi Kopi Kemasan Varian C 750ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00073407,JayaAgro Telur Varian C 750g,Telur,Tanpa Diskon,0.0,0.0
-P00073458,CVJaya Nugget Varian B 1000g,Nugget,Tanpa Diskon,0.0,0.0
-P00073489,IndoPT Buah-Buahan Spesial 100g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00073554,SentosaSentosa Ice Cream Varian A 750g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00073555,NusantaraPangan Garam Spesial 1000g,Garam,Tanpa Diskon,0.0,0.0
-P00073561,NusantaraNusantara Nugget Spesial 250g,Nugget,Tanpa Diskon,0.0,0.0
-P00073606,NusantaraNusantara Sayur-Sayuran Varian A 500g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00073619,AgroJaya Minyak Goreng Spesial 100g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00073715,IndoNusantara Pasta Spesial 1000g,Pasta,Tanpa Diskon,0.0,0.0
-P00073719,AbadiAgro Sarden Kaleng Varian C 500g,Sarden Kaleng,Tanpa Diskon,0.0,0.0
-P00073816,AbadiSentosa Kornet Spesial 100g,Kornet,Tanpa Diskon,0.0,0.0
-P00073838,AbadiAgro Kecap Spesial 250g,Kecap,Tanpa Diskon,0.0,0.0
-P00073843,SentosaAgro Soda Varian C 1000ml,Soda,Tanpa Diskon,0.0,0.0
-P00073847,PanganNusantara Kopi Kemasan Varian C 150ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00073885,PTAgro Biskuit Spesial 100g,Biskuit,Tanpa Diskon,0.0,0.0
-P00073911,PTIndo Biskuit Spesial 50g,Biskuit,Tanpa Diskon,0.0,0.0
-P00073914,IndoAbadi Buah-Buahan Spesial 100g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00073954,SentosaJaya Mayones Spesial 50g,Mayones,Tanpa Diskon,0.0,0.0
-P00073966,NusantaraIndo Gulali Varian C 750g,Gulali,Tanpa Diskon,0.0,0.0
-P00069186,AgroAgro Kuaci Ekstra 750g,Kuaci,Tanpa Diskon,0.0,0.0
-P00069207,MakmurCV Teh Varian C 500g,Teh,Tanpa Diskon,0.0,0.0
-P00069208,IndoMakmur Yogurt Varian C 1000ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00069274,AgroCV Daging Segar Spesial 750g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00069343,CVNusantara Mentega Spesial 500g,Mentega,Tanpa Diskon,0.0,0.0
-P00069379,CVPangan Mayones Varian C 1000g,Mayones,Tanpa Diskon,0.0,0.0
-P00069398,IndoIndo Buah-Buahan Spesial 100g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00069410,AgroAgro Kacang Varian C 500g,Kacang,Tanpa Diskon,0.0,0.0
-P00069438,MakmurPT Buah Kering Varian C 50g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00069496,JayaPT Biskuit Varian C 50g,Biskuit,Tanpa Diskon,0.0,0.0
-P00069557,PTCV Teh Varian C 50g,Teh,Tanpa Diskon,0.0,0.0
-P00074004,AgroMakmur Gulali Spesial 1000g,Gulali,Tanpa Diskon,0.0,0.0
-P00074017,MakmurNusantara Keripik Varian B 1000g,Keripik,Tanpa Diskon,0.0,0.0
-P00074084,JayaIndo Nugget Spesial 50g,Nugget,Tanpa Diskon,0.0,0.0
-P00074101,IndoPT Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,0.0
-P00074156,AgroNusantara Yogurt Varian C 250ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00074180,SentosaPangan Kopi Kemasan Varian C 750ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00074224,CVMakmur Saos Varian C 50g,Saos,Tanpa Diskon,0.0,0.0
-P00074226,AgroJaya Ice Cream Spesial 50g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00074229,AbadiPangan Telur Spesial 200g,Telur,Tanpa Diskon,0.0,0.0
-P00074237,AbadiPangan Keripik Varian C 750g,Keripik,Tanpa Diskon,0.0,0.0
-P00074277,JayaCV Air Mineral Varian B 250ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00074575,AgroSentosa Air Mineral Spesial 500ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00074584,IndoPT Pasta Ekstra 750g,Pasta,Tanpa Diskon,0.0,0.0
-P00074639,SentosaCV Kentang Goreng Spesial 500g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00074647,CVAbadi Makaroni Spesial 250g,Makaroni,Tanpa Diskon,0.0,0.0
-P00074651,MakmurPT Gulali Ekstra 1000g,Gulali,Tanpa Diskon,0.0,0.0
-P00074680,PanganAbadi Makaroni Spesial 250g,Makaroni,Tanpa Diskon,0.0,0.0
-P00074825,CVPangan Biskuit Spesial 200g,Biskuit,Tanpa Diskon,0.0,0.0
-P00074851,PTAbadi Sirup Varian C 150ml,Sirup,Tanpa Diskon,0.0,0.0
-P00074959,AbadiAgro Mentega Ekstra 250g,Mentega,Tanpa Diskon,0.0,0.0
-P00074966,PanganMakmur Mentega Varian A 100g,Mentega,Tanpa Diskon,0.0,0.0
-P00074977,CVAgro Beras Spesial 250g,Beras,Tanpa Diskon,0.0,0.0
-P00075054,MakmurSentosa Air Mineral Spesial 750ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00075073,SentosaPangan Telur Varian C 100g,Telur,Tanpa Diskon,0.0,0.0
-P00075078,MakmurAgro Soda Varian C 250ml,Soda,Tanpa Diskon,0.0,0.0
-P00075084,AbadiSentosa Mie Instan Varian A 500g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00075107,JayaNusantara Teh Spesial 50g,Teh,Tanpa Diskon,0.0,0.0
-P00075289,MakmurAbadi Garam Varian C 1000g,Garam,Tanpa Diskon,0.0,0.0
-P00075296,PTIndo Mie Instan Ekstra 1000g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00075297,AgroSentosa Mentega Spesial 1000g,Mentega,Tanpa Diskon,0.0,0.0
-P00075316,AgroPT Mayones Ekstra 200g,Mayones,Tanpa Diskon,0.0,0.0
-P00075347,PTPangan Kacang Varian C 100g,Kacang,Tanpa Diskon,0.0,0.0
-P00075354,PanganPT Ice Cream Varian A 100g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00068145,CVNusantara Kacang Varian C 500g,Kacang,Tanpa Diskon,0.0,0.0
-P00068155,JayaNusantara Teh Spesial 50g,Teh,Tanpa Diskon,0.0,0.0
-P00068179,PanganSentosa Selai Varian C 200g,Selai,Tanpa Diskon,0.0,0.0
-P00068599,JayaAbadi Susu Bubuk Varian C 250ml,Susu Bubuk,Tanpa Diskon,0.0,0.0
-P00068663,CVAgro Beras Spesial 250g,Beras,Tanpa Diskon,0.0,0.0
-P00068667,IndoMakmur Kopi Bubuk Ekstra 750g,Kopi Bubuk,Tanpa Diskon,0.0,0.0
-P00068810,PanganJaya Mie Instan Varian B 50g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00068819,NusantaraIndo Marshmallow Varian C 1000g,Marshmallow,Tanpa Diskon,0.0,0.0
-P00068917,CVJaya Permen Varian A 250g,Permen,Tanpa Diskon,0.0,0.0
-P00068947,AgroNusantara Penyedap Rasa Spesial 250g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00068992,MakmurAbadi Makaroni Varian C 100g,Makaroni,Tanpa Diskon,0.0,0.0
-P00069032,JayaPT Gula Ekstra 500g,Gula,Tanpa Diskon,0.0,0.0
-P00069144,MakmurPT Saos Varian A 200g,Saos,Tanpa Diskon,0.0,0.0
-P00075356,AgroSentosa Kaldu Jamur Spesial 1000g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00075380,PanganCV Garam Varian A 1000g,Garam,Tanpa Diskon,0.0,0.0
-P00075382,CVNusantara Seafood Segar Varian C 250g,Seafood Segar,Tanpa Diskon,0.0,0.0
-P00075407,IndoPT Makaroni Spesial 1000g,Makaroni,Tanpa Diskon,0.0,0.0
-P00075416,PanganNusantara Selai Varian C 750g,Selai,Tanpa Diskon,0.0,0.0
-P00075450,JayaPT Gula Ekstra 500g,Gula,Tanpa Diskon,0.0,0.0
-P00075478,SentosaCV Marshmallow Varian C 250g,Marshmallow,Tanpa Diskon,0.0,0.0
-P00075508,PanganAgro Keju Varian C 250g,Keju,Tanpa Diskon,0.0,0.0
-P00075519,MakmurMakmur Keju Ekstra 50g,Keju,Tanpa Diskon,0.0,0.0
-P00075548,AbadiPangan Selai Varian C 200g,Selai,Tanpa Diskon,0.0,0.0
-P00075681,MakmurAbadi Makaroni Varian C 100g,Makaroni,Tanpa Diskon,0.0,0.0
-P00075693,NusantaraAgro Minyak Goreng Varian A 200g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00075714,AbadiPangan Kopi Bubuk Spesial 200g,Kopi Bubuk,Tanpa Diskon,0.0,0.0
-P00075732,PanganIndo Soda Varian C 250ml,Soda,Tanpa Diskon,0.0,0.0
-P00075886,AgroNusantara Makaroni Varian C 250g,Makaroni,Tanpa Diskon,0.0,0.0
-P00075925,IndoNusantara Garam Varian A 500g,Garam,Tanpa Diskon,0.0,0.0
-P00075946,MakmurCV Kornet Varian A 750g,Kornet,Tanpa Diskon,0.0,0.0
-P00075967,CVAgro Gula Spesial 200g,Gula,Tanpa Diskon,0.0,0.0
-P00066682,JayaIndo Kentang Goreng Ekstra 750g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00066701,MakmurMakmur Jus Kemasan Spesial 500ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00066750,PanganAgro Pasta Spesial 1000g,Pasta,Tanpa Diskon,0.0,0.0
-P00066787,PanganAbadi Selai Varian C 100g,Selai,Tanpa Diskon,0.0,0.0
-P00067112,NusantaraAgro Kacang Spesial 1000g,Kacang,Tanpa Diskon,0.0,0.0
-P00067170,PanganMakmur Mentega Varian C 1000g,Mentega,Tanpa Diskon,0.0,0.0
-P00067665,PTIndo Saos Varian A 50g,Saos,Tanpa Diskon,0.0,0.0
-P00067711,PTSentosa Keju Varian C 500g,Keju,Tanpa Diskon,0.0,0.0
-P00067911,NusantaraJaya Selai Varian A 50g,Selai,Tanpa Diskon,0.0,0.0
-P00068119,IndoNusantara Saos Varian B 250g,Saos,Tanpa Diskon,0.0,0.0
-P00076025,MakmurNusantara Telur Varian C 500g,Telur,Tanpa Diskon,0.0,0.0
-P00076027,SentosaAgro Pasta Spesial 250g,Pasta,Tanpa Diskon,0.0,0.0
-P00076048,PanganJaya Cokelat Varian C 200g,Cokelat,Tanpa Diskon,0.0,0.0
-P00076096,PanganCV Keripik Varian A 200g,Keripik,Tanpa Diskon,0.0,0.0
-P00076187,AgroAgro Buah Kering Varian C 50g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00076193,AgroSentosa Kacang Ekstra 200g,Kacang,Tanpa Diskon,0.0,0.0
-P00076194,NusantaraJaya Kopi Kemasan Varian C 250ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00076246,AbadiAbadi Daging Segar Spesial 750g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00076278,JayaAbadi Buah-Buahan Varian C 100g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00076297,MakmurPangan Jus Kemasan Varian C 250ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00076343,NusantaraAbadi Keju Varian C 500g,Keju,Tanpa Diskon,0.0,0.0
-P00076396,PTPangan Pasta Spesial 250g,Pasta,Tanpa Diskon,0.0,0.0
-P00076434,JayaAbadi Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,0.0
-P00076466,NusantaraPangan Kaldu Jamur Varian A 100g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00076478,CVPangan Penyedap Rasa Spesial 750g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00076543,NusantaraPT Daging Segar Spesial 250g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00076579,CVSentosa Sereal Varian C 50g,Sereal,Tanpa Diskon,0.0,0.0
-P00076599,SentosaPangan Selai Varian A 100g,Selai,Tanpa Diskon,0.0,0.0
-P00076611,JayaCV Yogurt Varian C 500ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00076652,AgroPangan Air Mineral Spesial 1500ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00076683,CVSentosa Cokelat Varian C 250g,Cokelat,Tanpa Diskon,0.0,0.0
-P00076703,IndoPangan Kacang Ekstra 750g,Kacang,Tanpa Diskon,0.0,0.0
-P00076776,AbadiAgro Jus Kemasan Spesial 750ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00076848,JayaJaya Kecap Varian B 250g,Kecap,Tanpa Diskon,0.0,0.0
-P00076855,SentosaCV Cokelat Ekstra 750g,Cokelat,Tanpa Diskon,0.0,0.0
-P00076878,NusantaraPT Susu Kemasan Varian B 750ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00076925,IndoSentosa Seafood Segar Ekstra 750g,Seafood Segar,Tanpa Diskon,0.0,0.0
-P00076948,PanganPangan Minyak Goreng Varian A 200g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00076966,NusantaraSentosa Buah Kering Varian C 500g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00077030,PTCV Susu Kemasan Spesial 750ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00077049,JayaCV Air Mineral Varian B 150ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00077102,SentosaAgro Nugget Varian A 200g,Nugget,Tanpa Diskon,0.0,0.0
-P00077109,AbadiMakmur Kaldu Jamur Spesial 500g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00077166,NusantaraNusantara Kecap Varian B 50g,Kecap,Tanpa Diskon,0.0,0.0
-P00077169,IndoAbadi Mie Instan Spesial 200g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00065812,AbadiAgro Mentega Ekstra 250g,Mentega,Tanpa Diskon,0.0,0.0
-P00065844,MakmurJaya Air Mineral Varian C 150ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00065871,NusantaraCV Keju Varian C 500g,Keju,Tanpa Diskon,0.0,0.0
-P00066031,JayaMakmur Sayur-Sayuran Ekstra 250g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00066048,JayaPangan Kacang Spesial 50g,Kacang,Tanpa Diskon,0.0,0.0
-P00066068,IndoPT Makaroni Spesial 1000g,Makaroni,Tanpa Diskon,0.0,0.0
-P00066103,IndoSentosa Seafood Segar Ekstra 750g,Seafood Segar,Tanpa Diskon,0.0,0.0
-P00066223,MakmurNusantara Permen Ekstra 100g,Permen,Tanpa Diskon,0.0,0.0
-P00066336,MakmurPT Bihun Varian C 500g,Bihun,Tanpa Diskon,0.0,0.0
-P00066402,AbadiNusantara Susu Bubuk Varian A 150ml,Susu Bubuk,Tanpa Diskon,0.0,0.0
-P00066411,MakmurIndo Kaldu Jamur Ekstra 200g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00066578,PanganAgro Kopi Kemasan Ekstra 150ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00066584,JayaPangan Gula Varian C 200g,Gula,Tanpa Diskon,0.0,0.0
-P00066616,PanganAgro Kopi Kemasan Spesial 150ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00077242,PTJaya Telur Spesial 1000g,Telur,Tanpa Diskon,0.0,0.0
-P00077323,SentosaIndo Buah Kering Ekstra 750g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00077344,NusantaraNusantara Kaldu Jamur Varian C 500g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00077415,PanganJaya Buah Kering Varian B 50g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00077466,NusantaraJaya Selai Varian A 50g,Selai,Tanpa Diskon,0.0,0.0
-P00077506,AbadiIndo Kuaci Varian B 1000g,Kuaci,Tanpa Diskon,0.0,0.0
-P00077565,AgroAgro Kornet Varian A 200g,Kornet,Tanpa Diskon,0.0,0.0
-P00077587,IndoPangan Sereal Varian C 200g,Sereal,Tanpa Diskon,0.0,0.0
-P00077609,JayaPT Teh Varian C 1000g,Teh,Tanpa Diskon,0.0,0.0
-P00077644,JayaPT Beras Varian C 750g,Beras,Tanpa Diskon,0.0,0.0
-P00077666,CVNusantara Sereal Varian A 1000g,Sereal,Tanpa Diskon,0.0,0.0
-P00077799,AbadiSentosa Ice Cream Varian B 750g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00077817,AgroNusantara Kuaci Spesial 500g,Kuaci,Tanpa Diskon,0.0,0.0
-P00077840,MakmurNusantara Air Mineral Varian C 750ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00064816,JayaPT Biskuit Varian C 50g,Biskuit,Tanpa Diskon,0.0,0.0
-P00064886,AgroMakmur Kacang Spesial 1000g,Kacang,Tanpa Diskon,0.0,0.0
-P00064907,AgroAgro Buah Kering Varian C 50g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00065206,IndoCV Daging Segar Varian B 50g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00065248,SentosaPangan Buah-Buahan Varian B 200g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00065278,MakmurNusantara Kopi Bubuk Varian B 250g,Kopi Bubuk,Tanpa Diskon,0.0,0.0
-P00065418,IndoAgro Yogurt Varian C 1500ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00065509,IndoAgro Sarden Kaleng Spesial 250g,Sarden Kaleng,Tanpa Diskon,0.0,0.0
-P00065520,IndoPangan Kacang Varian B 250g,Kacang,Tanpa Diskon,0.0,0.0
-P00065540,JayaIndo Permen Varian A 500g,Permen,Tanpa Diskon,0.0,0.0
-P00065560,JayaIndo Nugget Spesial 50g,Nugget,Tanpa Diskon,0.0,0.0
-P00077924,AbadiPT Soda Varian C 150ml,Soda,Tanpa Diskon,0.0,0.0
-P00077942,MakmurJaya Permen Varian C 100g,Permen,Tanpa Diskon,0.0,0.0
-P00077979,MakmurJaya Air Mineral Varian C 150ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00077986,JayaIndo Minyak Goreng Spesial 500g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00078017,MakmurAbadi Nugget Varian A 750g,Nugget,Tanpa Diskon,0.0,0.0
-P00078021,MakmurJaya Ice Cream Varian C 750g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00078083,JayaMakmur Cokelat Spesial 200g,Cokelat,Tanpa Diskon,0.0,0.0
-P00078084,AbadiSentosa Jus Kemasan Varian C 1000ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00078086,PTIndo Permen Spesial 200g,Permen,Tanpa Diskon,0.0,0.0
-P00078097,AgroAbadi Makaroni Varian A 1000g,Makaroni,Tanpa Diskon,0.0,0.0
-P00078150,PanganAbadi Selai Varian C 100g,Selai,Tanpa Diskon,0.0,0.0
-P00078201,PanganIndo Makaroni Varian C 50g,Makaroni,Tanpa Diskon,0.0,0.0
-P00078252,PTPT Buah-Buahan Varian B 1000g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00078253,AbadiPT Mayones Spesial 100g,Mayones,Tanpa Diskon,0.0,0.0
-P00078257,PanganCV Garam Ekstra 250g,Garam,Tanpa Diskon,0.0,0.0
-P00054751,AbadiIndo Yogurt Varian A 1000ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00078268,AgroCV Kacang Varian A 50g,Kacang,Tanpa Diskon,0.0,0.0
-P00078272,PTIndo Soda Spesial 500ml,Soda,Tanpa Diskon,0.0,0.0
-P00078293,IndoJaya Penyedap Rasa Varian C 200g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00078310,CVJaya Keripik Varian C 1000g,Keripik,Tanpa Diskon,0.0,0.0
-P00078315,PanganMakmur Yogurt Spesial 250ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00078345,IndoCV Seafood Segar Spesial 1000g,Seafood Segar,Tanpa Diskon,0.0,0.0
-P00078411,PanganSentosa Buah Kering Varian C 200g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00078434,AbadiAgro Air Mineral Varian C 150ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00078452,AgroPT Seafood Segar Varian C 750g,Seafood Segar,Tanpa Diskon,0.0,0.0
-P00078455,CVCV Seafood Segar Spesial 500g,Seafood Segar,Tanpa Diskon,0.0,0.0
-P00078497,AbadiAgro Roti Varian C 750g,Roti,Tanpa Diskon,0.0,0.0
-P00054847,PanganIndo Makaroni Varian C 50g,Makaroni,Tanpa Diskon,0.0,0.0
-P00078552,NusantaraCV Keju Varian C 500g,Keju,Tanpa Diskon,0.0,0.0
-P00078558,JayaJaya Soda Spesial 1500ml,Soda,Tanpa Diskon,0.0,0.0
-P00078581,AbadiPangan Daging Segar Varian C 750g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00054974,AbadiMakmur Yogurt Ekstra 1500ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00055121,AbadiJaya Susu Kemasan Varian C 750ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00055218,IndoAbadi Daging Segar Spesial 200g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00078705,AbadiIndo Permen Spesial 1000g,Permen,Tanpa Diskon,0.0,0.0
-P00078762,PanganIndo Mayones Varian C 100g,Mayones,Tanpa Diskon,0.0,0.0
-P00078809,CVCV Sirup Varian C 500ml,Sirup,Tanpa Diskon,0.0,0.0
-P00078816,NusantaraSentosa Sirup Ekstra 1000ml,Sirup,Tanpa Diskon,0.0,0.0
-P00078821,JayaCV Sirup Varian C 1500ml,Sirup,Tanpa Diskon,0.0,0.0
-P00078840,PanganSentosa Beras Spesial 250g,Beras,Tanpa Diskon,0.0,0.0
-P00078841,JayaNusantara Keripik Varian C 500g,Keripik,Tanpa Diskon,0.0,0.0
-P00078856,IndoIndo Kecap Spesial 200g,Kecap,Tanpa Diskon,0.0,0.0
-P00078872,CVNusantara Penyedap Rasa Varian C 750g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00078890,IndoPT Jus Kemasan Spesial 1500ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00078914,AgroCV Saos Spesial 1000g,Saos,Tanpa Diskon,0.0,0.0
-P00078983,PTMakmur Soda Spesial 1500ml,Soda,Tanpa Diskon,0.0,0.0
-P00078990,AgroJaya Seafood Segar Spesial 750g,Seafood Segar,Tanpa Diskon,0.0,0.0
-P00079009,SentosaAgro Kentang Goreng Varian A 250g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00079037,SentosaPangan Sarden Kaleng Varian C 50g,Sarden Kaleng,Tanpa Diskon,0.0,0.0
-P00079040,AgroCV Yogurt Ekstra 150ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00079099,JayaSentosa Selai Varian C 500g,Selai,Tanpa Diskon,0.0,0.0
-P00079127,NusantaraIndo Ice Cream Varian C 500g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00079145,SentosaPangan Kecap Varian C 200g,Kecap,Tanpa Diskon,0.0,0.0
-P00063936,CVPangan Penyedap Rasa Spesial 750g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00063980,NusantaraPangan Minuman Isotonik Ekstra 500ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00055221,SentosaJaya Selai Spesial 250g,Selai,Tanpa Diskon,0.0,0.0
-P00064018,JayaPT Ice Cream Varian C 500g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00064061,NusantaraMakmur Kentang Goreng Varian A 750g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00064325,SentosaAgro Kentang Goreng Varian A 250g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00064326,IndoSentosa Sayur-Sayuran Varian C 100g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00064426,JayaNusantara Keripik Spesial 750g,Keripik,Tanpa Diskon,0.0,0.0
-P00064779,CVAbadi Bihun Varian C 500g,Bihun,Tanpa Diskon,0.0,0.0
-P00079170,SentosaCV Selai Varian C 200g,Selai,Tanpa Diskon,0.0,0.0
-P00079173,PanganSentosa Minyak Goreng Spesial 100g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00079177,PTAbadi Krim Spesial 250g,Krim,Tanpa Diskon,0.0,0.0
-P00079198,PTSentosa Permen Spesial 750g,Permen,Tanpa Diskon,0.0,0.0
-P00079199,AbadiCV Minuman Isotonik Varian C 500ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00079229,NusantaraSentosa Penyedap Rasa Spesial 250g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00079251,MakmurIndo Susu Bubuk Spesial 500ml,Susu Bubuk,Tanpa Diskon,0.0,0.0
-P00086499,IndoPangan Mentega Spesial 200g,Mentega,Tanpa Diskon,0.0,0.0
-P00079301,PanganNusantara Penyedap Rasa Varian C 250g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00079315,PanganPT Saos Spesial 750g,Saos,Tanpa Diskon,0.0,0.0
-P00079332,AbadiMakmur Mentega Varian B 200g,Mentega,Tanpa Diskon,0.0,0.0
-P00079367,NusantaraNusantara Daging Segar Spesial 750g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00079432,PanganNusantara Buah-Buahan Varian A 50g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00079506,CVIndo Selai Spesial 500g,Selai,Tanpa Diskon,0.0,0.0
-P00079529,NusantaraSentosa Nugget Spesial 1000g,Nugget,Tanpa Diskon,0.0,0.0
-P00079547,PTNusantara Sirup Varian C 1000ml,Sirup,Tanpa Diskon,0.0,0.0
-P00086505,PTPangan Mentega Spesial 50g,Mentega,Tanpa Diskon,0.0,0.0
-P00079620,JayaIndo Roti Varian B 1000g,Roti,Tanpa Diskon,0.0,0.0
-P00087199,IndoPT Minuman Isotonik Varian C 750ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00055330,MakmurAbadi Nugget Ekstra 1000g,Nugget,Tanpa Diskon,0.0,0.0
-P00079749,PanganPangan Keripik Varian A 1000g,Keripik,Tanpa Diskon,0.0,0.0
-P00079754,JayaSentosa Cokelat Spesial 1000g,Cokelat,Tanpa Diskon,0.0,0.0
-P00079799,CVNusantara Kopi Kemasan Varian C 150ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00055473,MakmurAgro Sirup Varian C 150ml,Sirup,Tanpa Diskon,0.0,0.0
-P00063135,IndoNusantara Sirup Varian C 150ml,Sirup,Tanpa Diskon,0.0,0.0
-P00063182,PTAgro Biskuit Spesial 100g,Biskuit,Tanpa Diskon,0.0,0.0
-P00086694,IndoAbadi Garam Varian C 250g,Garam,Tanpa Diskon,0.0,0.0
-P00063432,AbadiIndo Kuaci Varian B 1000g,Kuaci,Tanpa Diskon,0.0,0.0
-P00063673,AgroNusantara Makaroni Varian C 250g,Makaroni,Tanpa Diskon,0.0,0.0
-P00063674,NusantaraIndo Roti Spesial 100g,Roti,Tanpa Diskon,0.0,0.0
-P00063693,NusantaraMakmur Kornet Varian C 750g,Kornet,Tanpa Diskon,0.0,0.0
-P00086745,AbadiJaya Susu Kemasan Varian C 750ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00063903,MakmurCV Kornet Varian A 750g,Kornet,Tanpa Diskon,0.0,0.0
-P00079870,IndoJaya Keripik Varian B 100g,Keripik,Tanpa Diskon,0.0,0.0
-P00079889,NusantaraPT Keju Ekstra 750g,Keju,Tanpa Diskon,0.0,0.0
-P00079907,PTPT Marshmallow Spesial 1000g,Marshmallow,Tanpa Diskon,0.0,0.0
-P00079911,SentosaAgro Kentang Goreng Varian A 250g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00079983,IndoMakmur Telur Spesial 1000g,Telur,Tanpa Diskon,0.0,0.0
-P00080047,CVAgro Kentang Goreng Varian C 250g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00080124,AbadiAgro Mie Instan Varian C 200g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00080175,SentosaSentosa Penyedap Rasa Varian A 50g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00080216,JayaIndo Permen Varian A 500g,Permen,Tanpa Diskon,0.0,0.0
-P00080222,CVNusantara Kentang Goreng Spesial 50g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00080231,AbadiSentosa Penyedap Rasa Spesial 750g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00080275,AgroMakmur Kacang Spesial 1000g,Kacang,Tanpa Diskon,0.0,0.0
-P00086789,PanganPangan Buah Kering Varian C 50g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00080372,NusantaraAgro Roti Varian C 750g,Roti,Tanpa Diskon,0.0,0.0
-P00080396,AbadiIndo Nugget Ekstra 50g,Nugget,Tanpa Diskon,0.0,0.0
-P00054510,JayaNusantara Minuman Isotonik Spesial 1500ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00080505,AbadiAgro Saos Spesial 250g,Saos,Tanpa Diskon,0.0,0.0
-P00080508,PanganNusantara Yogurt Varian B 500ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00080540,IndoNusantara Selai Ekstra 750g,Selai,Tanpa Diskon,0.0,0.0
-P00080561,PanganPangan Cokelat Spesial 250g,Cokelat,Tanpa Diskon,0.0,0.0
-P00080586,MakmurPT Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,0.0
-P00080666,PTPT Air Mineral Varian A 750ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00061538,JayaAbadi Buah-Buahan Varian C 100g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00061614,PanganAbadi Pasta Varian C 1000g,Pasta,Tanpa Diskon,0.0,0.0
-P00061940,PanganPangan Soda Varian C 750ml,Soda,Tanpa Diskon,0.0,0.0
-P00061985,CVIndo Kaldu Jamur Varian B 250g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00061999,MakmurMakmur Keju Ekstra 50g,Keju,Tanpa Diskon,0.0,0.0
-P00056764,JayaIndo Buah-Buahan Varian B 50g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00062505,PanganAgro Kopi Kemasan Spesial 750ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00062511,SentosaPangan Selai Varian B 750g,Selai,Tanpa Diskon,0.0,0.0
-P00062565,NusantaraAbadi Biskuit Varian C 750g,Biskuit,Tanpa Diskon,0.0,0.0
-P00062659,AgroPT Marshmallow Spesial 750g,Marshmallow,Tanpa Diskon,0.0,0.0
-P00062707,PTJaya Telur Spesial 1000g,Telur,Tanpa Diskon,0.0,0.0
-P00062797,NusantaraNusantara Nugget Spesial 250g,Nugget,Tanpa Diskon,0.0,0.0
-P00080716,NusantaraSentosa Pasta Varian C 200g,Pasta,Tanpa Diskon,0.0,0.0
-P00080717,PanganNusantara Susu Kemasan Spesial 150ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00080740,MakmurNusantara Marshmallow Spesial 750g,Marshmallow,Tanpa Diskon,0.0,0.0
-P00080753,AbadiMakmur Teh Ekstra 50g,Teh,Tanpa Diskon,0.0,0.0
-P00080850,AgroCV Gula Varian A 100g,Gula,Tanpa Diskon,0.0,0.0
-P00080855,AbadiIndo Yogurt Varian B 750ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00080897,NusantaraMakmur Seafood Segar Varian C 250g,Seafood Segar,Tanpa Diskon,0.0,0.0
-P00080898,AbadiJaya Kopi Bubuk Spesial 500g,Kopi Bubuk,Tanpa Diskon,0.0,0.0
-P00080908,JayaMakmur Teh Varian C 100g,Teh,Tanpa Diskon,0.0,0.0
-P00080912,NusantaraPangan Roti Ekstra 1000g,Roti,Tanpa Diskon,0.0,0.0
-P00080940,AbadiPT Kuaci Spesial 250g,Kuaci,Tanpa Diskon,0.0,0.0
-P00080965,NusantaraPangan Beras Varian A 200g,Beras,Tanpa Diskon,0.0,0.0
-P00081012,CVAgro Jus Kemasan Varian C 1000ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00081060,IndoNusantara Minyak Goreng Spesial 200g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00081067,CVCV Sayur-Sayuran Varian A 250g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00081085,NusantaraAgro Biskuit Spesial 250g,Biskuit,Tanpa Diskon,0.0,0.0
-P00081091,PanganIndo Saos Varian C 750g,Saos,Tanpa Diskon,0.0,0.0
-P00081119,JayaAbadi Kecap Varian C 50g,Kecap,Tanpa Diskon,0.0,0.0
-P00081120,AgroIndo Soda Varian A 250ml,Soda,Tanpa Diskon,0.0,0.0
-P00081139,NusantaraCV Yogurt Varian C 1000ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00081174,SentosaNusantara Minyak Goreng Spesial 200g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00081193,NusantaraPangan Roti Spesial 250g,Roti,Tanpa Diskon,0.0,0.0
-P00081201,PTMakmur Soda Varian C 750ml,Soda,Tanpa Diskon,0.0,0.0
-P00081279,IndoAbadi Keripik Varian B 200g,Keripik,Tanpa Diskon,0.0,0.0
-P00081317,CVPT Roti Varian C 100g,Roti,Tanpa Diskon,0.0,0.0
-P00081320,AgroCV Sayur-Sayuran Spesial 500g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00081356,AgroPT Kaldu Jamur Varian C 50g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00081363,PanganMakmur Susu Kemasan Varian A 1500ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00081418,NusantaraMakmur Buah-Buahan Varian C 100g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00081499,JayaPangan Kacang Spesial 200g,Kacang,Tanpa Diskon,0.0,0.0
-P00081504,AgroJaya Jus Kemasan Varian A 150ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00081525,JayaPangan Kacang Spesial 50g,Kacang,Tanpa Diskon,0.0,0.0
-P00081695,JayaNusantara Minuman Isotonik Spesial 1500ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00081731,PTIndo Jus Kemasan Spesial 150ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00081781,IndoAgro Marshmallow Spesial 500g,Marshmallow,Tanpa Diskon,0.0,0.0
-P00081807,SentosaSentosa Kecap Varian B 250g,Kecap,Tanpa Diskon,0.0,0.0
-P00081827,CVSentosa Marshmallow Varian A 750g,Marshmallow,Tanpa Diskon,0.0,0.0
-P00081856,AbadiMakmur Daging Segar Varian A 500g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00081903,IndoPT Mentega Varian C 1000g,Mentega,Tanpa Diskon,0.0,0.0
-P00060525,SentosaIndo Marshmallow Varian C 50g,Marshmallow,Tanpa Diskon,0.0,0.0
-P00060529,SentosaSentosa Ice Cream Varian A 750g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00060672,IndoPangan Kuaci Varian C 1000g,Kuaci,Tanpa Diskon,0.0,0.0
-P00060876,MakmurPangan Susu Kemasan Ekstra 750ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00060894,JayaJaya Soda Spesial 1500ml,Soda,Tanpa Diskon,0.0,0.0
-P00060977,CVJaya Garam Varian B 100g,Garam,Tanpa Diskon,0.0,0.0
-P00086352,AbadiAbadi Marshmallow Varian C 200g,Marshmallow,Tanpa Diskon,0.0,0.0
-P00061008,SentosaCV Gula Varian B 750g,Gula,Tanpa Diskon,0.0,0.0
-P00061142,AbadiJaya Daging Segar Varian C 250g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00061184,JayaPangan Saos Spesial 250g,Saos,Tanpa Diskon,0.0,0.0
-P00061243,MakmurAbadi Nugget Varian A 750g,Nugget,Tanpa Diskon,0.0,0.0
-P00061312,AgroJaya Saos Spesial 1000g,Saos,Tanpa Diskon,0.0,0.0
-P00082003,CVSentosa Saos Varian B 250g,Saos,Tanpa Diskon,0.0,0.0
-P00082008,PanganSentosa Selai Varian C 200g,Selai,Tanpa Diskon,0.0,0.0
-P00082052,CVNusantara Sereal Ekstra 250g,Sereal,Tanpa Diskon,0.0,0.0
-P00082098,AgroMakmur Bihun Varian C 100g,Bihun,Tanpa Diskon,0.0,0.0
-P00082105,JayaIndo Buah-Buahan Varian B 50g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00082153,NusantaraIndo Soda Varian C 150ml,Soda,Tanpa Diskon,0.0,0.0
-P00082185,SentosaMakmur Cokelat Varian C 500g,Cokelat,Tanpa Diskon,0.0,0.0
-P00082208,NusantaraMakmur Kornet Varian C 750g,Kornet,Tanpa Diskon,0.0,0.0
-P00082256,NusantaraAgro Susu Kemasan Varian C 750ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00082264,SentosaAbadi Ice Cream Varian C 750g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00082282,IndoAgro Jus Kemasan Spesial 500ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00086371,JayaPT Ice Cream Spesial 750g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00082480,PTNusantara Sereal Varian B 250g,Sereal,Tanpa Diskon,0.0,0.0
-P00082508,NusantaraJaya Teh Varian C 500g,Teh,Tanpa Diskon,0.0,0.0
-P00082515,PanganMakmur Minuman Isotonik Ekstra 250ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00082539,MakmurAbadi Makaroni Ekstra 200g,Makaroni,Tanpa Diskon,0.0,0.0
-P00082637,PTSentosa Yogurt Varian C 1500ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00082671,IndoJaya Yogurt Spesial 150ml,Yogurt,Tanpa Diskon,0.0,0.0
-P00082692,AgroCV Keju Spesial 250g,Keju,Tanpa Diskon,0.0,0.0
-P00082753,MakmurCV Buah-Buahan Varian A 250g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00054332,PTCV Air Mineral Varian C 1500ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00082863,MakmurAbadi Minyak Goreng Spesial 250g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00082909,JayaIndo Sereal Varian C 200g,Sereal,Tanpa Diskon,0.0,0.0
-P00083008,PTJaya Kopi Bubuk Varian C 1000g,Kopi Bubuk,Tanpa Diskon,0.0,0.0
-P00083103,MakmurCV Keripik Varian C 100g,Keripik,Tanpa Diskon,0.0,0.0
-P00083108,MakmurAbadi Kaldu Jamur Spesial 250g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00083114,CVIndo Kaldu Jamur Varian A 250g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00083171,MakmurNusantara Kopi Bubuk Varian B 250g,Kopi Bubuk,Tanpa Diskon,0.0,0.0
-P00083174,PanganAgro Beras Ekstra 200g,Beras,Tanpa Diskon,0.0,0.0
-P00083178,JayaSentosa Keripik Varian C 1000g,Keripik,Tanpa Diskon,0.0,0.0
-P00083194,CVCV Air Mineral Varian A 150ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00083228,SentosaPT Saos Spesial 500g,Saos,Tanpa Diskon,0.0,0.0
-P00059476,AbadiMakmur Buah-Buahan Varian B 50g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00059598,IndoPT Mentega Varian C 1000g,Mentega,Tanpa Diskon,0.0,0.0
-P00059613,JayaMakmur Mentega Varian C 1000g,Mentega,Tanpa Diskon,0.0,0.0
-P00086445,NusantaraNusantara Kuaci Spesial 500g,Kuaci,Tanpa Diskon,0.0,0.0
-P00059975,JayaPangan Beras Varian A 500g,Beras,Tanpa Diskon,0.0,0.0
-P00060039,NusantaraJaya Kopi Kemasan Varian C 250ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00060045,AgroSentosa Mayones Spesial 100g,Mayones,Tanpa Diskon,0.0,0.0
-P00060176,MakmurCV Buah-Buahan Ekstra 50g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00060213,JayaIndo Roti Varian B 1000g,Roti,Tanpa Diskon,0.0,0.0
-P00060439,IndoAbadi Mie Instan Spesial 200g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00083336,SentosaAgro Buah Kering Spesial 500g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00083350,CVIndo Kaldu Jamur Varian B 250g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00083358,MakmurAgro Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,0.0
-P00083382,IndoAbadi Kuaci Varian C 200g,Kuaci,Tanpa Diskon,0.0,0.0
-P00083383,JayaAbadi Selai Varian C 750g,Selai,Tanpa Diskon,0.0,0.0
-P00083402,NusantaraCV Roti Varian C 750g,Roti,Tanpa Diskon,0.0,0.0
-P00083438,NusantaraIndo Pasta Spesial 50g,Pasta,Tanpa Diskon,0.0,0.0
-P00083491,PanganPT Sarden Kaleng Varian C 200g,Sarden Kaleng,Tanpa Diskon,0.0,0.0
-P00083503,PanganNusantara Susu Bubuk Spesial 1000ml,Susu Bubuk,Tanpa Diskon,0.0,0.0
-P00083530,SentosaJaya Sayur-Sayuran Varian B 500g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00083617,PTPT Buah-Buahan Varian A 200g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00083621,MakmurMakmur Ice Cream Varian C 750g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00083647,JayaIndo Makaroni Spesial 200g,Makaroni,Tanpa Diskon,0.0,0.0
-P00083690,MakmurCV Kuaci Spesial 750g,Kuaci,Tanpa Diskon,0.0,0.0
-P00083697,PTCV Air Mineral Varian C 1500ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00083754,AbadiJaya Mentega Spesial 250g,Mentega,Tanpa Diskon,0.0,0.0
-P00083837,AgroSentosa Sarden Kaleng Spesial 200g,Sarden Kaleng,Tanpa Diskon,0.0,0.0
-P00083843,MakmurPT Gula Varian C 50g,Gula,Tanpa Diskon,0.0,0.0
-P00083854,AbadiPangan Saos Spesial 200g,Saos,Tanpa Diskon,0.0,0.0
-P00083857,AbadiNusantara Susu Bubuk Varian A 150ml,Susu Bubuk,Tanpa Diskon,0.0,0.0
-P00083886,AgroAbadi Seafood Segar Varian A 750g,Seafood Segar,Tanpa Diskon,0.0,0.0
-P00083982,NusantaraPangan Minuman Isotonik Ekstra 500ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00083987,PTIndo Nugget Varian B 750g,Nugget,Tanpa Diskon,0.0,0.0
-P00083994,AgroCV Minuman Isotonik Spesial 500ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00083998,MakmurNusantara Permen Ekstra 100g,Permen,Tanpa Diskon,0.0,0.0
-P00084011,IndoCV Makaroni Spesial 100g,Makaroni,Tanpa Diskon,0.0,0.0
-P00084051,PTNusantara Susu Kemasan Varian C 250ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00084112,NusantaraAbadi Kentang Goreng Varian B 100g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00084129,AgroAgro Kentang Goreng Spesial 50g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00084137,PanganAbadi Pasta Varian C 1000g,Pasta,Tanpa Diskon,0.0,0.0
-P00086454,PTMakmur Telur Spesial 500g,Telur,Tanpa Diskon,0.0,0.0
-P00084247,PanganPangan Keripik Ekstra 500g,Keripik,Tanpa Diskon,0.0,0.0
-P00084260,CVPT Nugget Varian C 200g,Nugget,Tanpa Diskon,0.0,0.0
-P00084276,AbadiCV Biskuit Spesial 50g,Biskuit,Tanpa Diskon,0.0,0.0
-P00056085,PanganPangan Sayur-Sayuran Spesial 500g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00084306,IndoMakmur Nugget Ekstra 1000g,Nugget,Tanpa Diskon,0.0,0.0
-P00084420,CVSentosa Mie Instan Spesial 1000g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00084459,AgroPangan Sirup Varian C 500ml,Sirup,Tanpa Diskon,0.0,0.0
-P00084517,MakmurCV Buah-Buahan Ekstra 50g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00084536,NusantaraPT Nugget Varian C 250g,Nugget,Tanpa Diskon,0.0,0.0
-P00084570,CVNusantara Seafood Segar Varian C 50g,Seafood Segar,Tanpa Diskon,0.0,0.0
-P00084585,JayaPT Makaroni Spesial 750g,Makaroni,Tanpa Diskon,0.0,0.0
-P00084602,CVMakmur Keripik Varian C 500g,Keripik,Tanpa Diskon,0.0,0.0
-P00084706,IndoPT Sayur-Sayuran Spesial 100g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00084711,MakmurPT Gula Varian A 1000g,Gula,Tanpa Diskon,0.0,0.0
-P00084792,PanganMakmur Mentega Varian C 1000g,Mentega,Tanpa Diskon,0.0,0.0
-P00084861,JayaMakmur Biskuit Spesial 200g,Biskuit,Tanpa Diskon,0.0,0.0
-P00084893,SentosaAbadi Ice Cream Ekstra 100g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00084902,PTAbadi Garam Spesial 200g,Garam,Tanpa Diskon,0.0,0.0
-P00084962,AbadiSentosa Cokelat Ekstra 50g,Cokelat,Tanpa Diskon,0.0,0.0
-P00058438,PanganSentosa Telur Spesial 50g,Telur,Tanpa Diskon,0.0,0.0
-P00058500,CVJaya Keripik Varian C 1000g,Keripik,Tanpa Diskon,0.0,0.0
-P00058519,AgroCV Kacang Varian A 100g,Kacang,Tanpa Diskon,0.0,0.0
-P00058750,IndoAbadi Keripik Varian C 750g,Keripik,Tanpa Diskon,0.0,0.0
-P00058812,NusantaraPangan Kopi Bubuk Spesial 750g,Kopi Bubuk,Tanpa Diskon,0.0,0.0
-P00058821,MakmurAgro Minuman Isotonik Varian A 1500ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00058933,MakmurCV Buah-Buahan Varian B 250g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00058948,MakmurNusantara Air Mineral Varian C 750ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00059011,SentosaJaya Sayur-Sayuran Varian B 500g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00059218,PTAgro Penyedap Rasa Varian C 200g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00059259,AbadiSentosa Kornet Spesial 100g,Kornet,Tanpa Diskon,0.0,0.0
-P00059314,NusantaraPangan Beras Varian A 200g,Beras,Tanpa Diskon,0.0,0.0
-P00059334,IndoIndo Makaroni Varian C 200g,Makaroni,Tanpa Diskon,0.0,0.0
-P00059437,JayaPT Roti Spesial 750g,Roti,Tanpa Diskon,0.0,0.0
-P00085010,CVIndo Buah Kering Spesial 250g,Buah Kering,Tanpa Diskon,0.0,0.0
-P00054687,IndoSentosa Gulali Varian C 500g,Gulali,Tanpa Diskon,0.0,0.0
-P00085034,SentosaSentosa Kornet Varian B 200g,Kornet,Tanpa Diskon,0.0,0.0
-P00085083,IndoNusantara Saos Varian B 250g,Saos,Tanpa Diskon,0.0,0.0
-P00085090,JayaPangan Saos Spesial 250g,Saos,Tanpa Diskon,0.0,0.0
-P00085132,PanganAgro Mayones Varian C 100g,Mayones,Tanpa Diskon,0.0,0.0
-P00085183,SentosaCV Gula Varian B 750g,Gula,Tanpa Diskon,0.0,0.0
-P00085185,MakmurPangan Kuaci Spesial 100g,Kuaci,Tanpa Diskon,0.0,0.0
-P00085242,MakmurAbadi Bihun Varian C 100g,Bihun,Tanpa Diskon,0.0,0.0
-P00085254,NusantaraPT Keripik Ekstra 50g,Keripik,Tanpa Diskon,0.0,0.0
-P00085257,IndoSentosa Kornet Spesial 200g,Kornet,Tanpa Diskon,0.0,0.0
-P00085277,CVCV Biskuit Spesial 1000g,Biskuit,Tanpa Diskon,0.0,0.0
-P00085283,AbadiAbadi Bihun Varian A 50g,Bihun,Tanpa Diskon,0.0,0.0
-P00085288,PanganPT Mie Instan Varian A 50g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00085302,NusantaraAgro Susu Bubuk Varian C 750ml,Susu Bubuk,Tanpa Diskon,0.0,0.0
-P00085343,MakmurMakmur Jus Kemasan Spesial 500ml,Jus Kemasan,Tanpa Diskon,0.0,0.0
-P00085360,PanganSentosa Bihun Spesial 500g,Bihun,Tanpa Diskon,0.0,0.0
-P00085369,MakmurJaya Garam Varian C 750g,Garam,Tanpa Diskon,0.0,0.0
-P00085396,AbadiIndo Nugget Ekstra 100g,Nugget,Tanpa Diskon,0.0,0.0
-P00085398,PanganPT Pasta Spesial 1000g,Pasta,Tanpa Diskon,0.0,0.0
-P00085407,PanganPT Sayur-Sayuran Varian C 200g,Sayur-Sayuran,Tanpa Diskon,0.0,0.0
-P00085514,PTCV Kopi Kemasan Varian C 750ml,Kopi Kemasan,Tanpa Diskon,0.0,0.0
-P00085577,IndoMakmur Biskuit Varian C 500g,Biskuit,Tanpa Diskon,0.0,0.0
-P00085633,AgroJaya Teh Ekstra 500g,Teh,Tanpa Diskon,0.0,0.0
-P00085684,AgroIndo Makaroni Varian C 100g,Makaroni,Tanpa Diskon,0.0,0.0
-P00085696,MakmurJaya Gulali Varian C 500g,Gulali,Tanpa Diskon,0.0,0.0
-P00085707,IndoSentosa Buah-Buahan Spesial 1000g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00085833,NusantaraJaya Selai Varian C 250g,Selai,Tanpa Diskon,0.0,0.0
-P00085852,AbadiAgro Kacang Spesial 200g,Kacang,Tanpa Diskon,0.0,0.0
-P00085954,AgroAgro Mie Instan Varian B 500g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00086050,AbadiIndo Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,0.0
-P00086079,CVCV Nugget Varian C 500g,Nugget,Tanpa Diskon,0.0,0.0
-P00086085,NusantaraAgro Keju Varian C 1000g,Keju,Tanpa Diskon,0.0,0.0
-P00086124,IndoCV Daging Segar Varian B 1000g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00086146,PTPT Buah-Buahan Ekstra 500g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00086209,CVCV Susu Kemasan Spesial 1000ml,Susu Kemasan,Tanpa Diskon,0.0,0.0
-P00086228,PTIndo Gulali Varian C 200g,Gulali,Tanpa Diskon,0.0,0.0
-P00086238,IndoAgro Kornet Spesial 100g,Kornet,Tanpa Diskon,0.0,0.0
-P00087144,PanganCV Susu Bubuk Varian C 150ml,Susu Bubuk,Tanpa Diskon,0.0,0.0
-P00087177,AgroJaya Ice Cream Varian B 500g,Ice Cream,Tanpa Diskon,0.0,0.0
-P00056355,JayaPT Penyedap Rasa Varian C 50g,Penyedap Rasa,Tanpa Diskon,0.0,0.0
-P00086589,IndoPangan Daging Segar Varian C 750g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00086625,PanganAbadi Sereal Varian C 200g,Sereal,Tanpa Diskon,0.0,0.0
-P00086642,JayaAgro Mentega Varian C 250g,Mentega,Tanpa Diskon,0.0,0.0
-P00086655,PanganMakmur Kentang Goreng Spesial 250g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00086939,AgroSentosa Mayones Spesial 100g,Mayones,Tanpa Diskon,0.0,0.0
-P00086949,MakmurIndo Mie Instan Varian A 100g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00086994,JayaCV Sarden Kaleng Spesial 100g,Sarden Kaleng,Tanpa Diskon,0.0,0.0
-P00086999,IndoAbadi Telur Spesial 750g,Telur,Tanpa Diskon,0.0,0.0
-P00087059,MakmurIndo Krim Spesial 200g,Krim,Tanpa Diskon,0.0,0.0
-P00087063,NusantaraMakmur Kentang Goreng Varian A 750g,Kentang Goreng,Tanpa Diskon,0.0,0.0
-P00056189,PTPT Pasta Ekstra 50g,Pasta,Tanpa Diskon,0.0,0.0
-P00056236,MakmurSentosa Buah-Buahan Spesial 200g,Buah-Buahan,Tanpa Diskon,0.0,0.0
-P00056265,AbadiAgro Kecap Spesial 250g,Kecap,Tanpa Diskon,0.0,0.0
-P00056284,MakmurIndo Mie Instan Varian A 1000g,Mie Instan,Tanpa Diskon,0.0,0.0
-P00086580,IndoCV Daging Segar Varian B 1000g,Daging Segar,Tanpa Diskon,0.0,0.0
-P00056079,CVNusantara Sereal Varian A 1000g,Sereal,Tanpa Diskon,0.0,0.0
-P00087411,MakmurAgro Sirup Varian C 150ml,Sirup,Tanpa Diskon,0.0,0.0
-P00055277,CVCV Sirup Varian C 500ml,Sirup,Tanpa Diskon,0.0,0.0
-P00087066,AgroPangan Kopi Bubuk Varian C 200g,Kopi Bubuk,Tanpa Diskon,0.0,0.0
-P00087099,MakmurIndo Kaldu Jamur Ekstra 200g,Kaldu Jamur,Tanpa Diskon,0.0,0.0
-P00058083,PTIndo Soda Spesial 500ml,Soda,Tanpa Diskon,0.0,0.0
-P00058149,PanganAgro Mayones Varian C 100g,Mayones,Tanpa Diskon,0.0,0.0
-P00070619,JayaPT Keripik Spesial 1000g,Keripik,Tanpa Diskon,0.0,0.0
-P00086269,CVJaya Permen Varian A 250g,Permen,Tanpa Diskon,0.0,0.0
-P00086288,SentosaSentosa Air Mineral Ekstra 250ml,Air Mineral,Tanpa Diskon,0.0,0.0
-P00086323,PanganJaya Gulali Spesial 50g,Gulali,Tanpa Diskon,0.0,0.0
-P00055675,PTIndo Minyak Goreng Varian B 1000g,Minyak Goreng,Tanpa Diskon,0.0,0.0
-P00055736,AgroAbadi Makaroni Varian A 1000g,Makaroni,Tanpa Diskon,0.0,0.0
-P00070678,AbadiAbadi Minuman Isotonik Spesial 250ml,Minuman Isotonik,Tanpa Diskon,0.0,0.0
-P00055845,IndoAbadi Kuaci Varian C 200g,Kuaci,Tanpa Diskon,0.0,0.0
-P00054715,NusantaraPT Nugget Varian C 250g,Nugget,Tanpa Diskon,0.0,0.0
+id_produk,nama_produk,kategori_produk,rekomendasi_detail,rekomendasi_besaran,start_date,end_date,rata_rata_uplift_profit
+P00084404,JayaPangan Beras Varian A 500g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,826.0852985864549
+P00072882,PTJaya Daging Segar Varian C 50g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,580.4792087882588
+P00086513,CVPT Daging Segar Spesial 750g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,552.4189300628896
+P00065063,SentosaIndo Buah Kering Varian B 100g,Buah Kering,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,479.5256722585045
+P00072758,SentosaIndo Buah Kering Varian B 100g,Buah Kering,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,464.37628991021893
+P00071462,PanganIndo Buah Kering Spesial 100g,Buah Kering,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,455.1787448962359
+P00072566,PanganNusantara Daging Segar Spesial 1000g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,411.46665007060983
+P00071601,CVCV Seafood Segar Spesial 200g,Seafood Segar,Expired Discount,0.05,2025-09-05,2025-09-07,399.83872231954956
+P00069955,MakmurPT Seafood Segar Varian B 500g,Seafood Segar,Expired Discount,0.1,2025-09-05,2025-09-07,384.2682979026631
+P00075126,IndoNusantara Minyak Goreng Varian A 1000g,Minyak Goreng,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,347.5533616718094
+P00076982,CVMakmur Teh Spesial 250g,Teh,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,307.3210875294053
+P00085381,AbadiJaya Daging Segar Varian C 250g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,303.37261941288307
+P00070913,SentosaPT Seafood Segar Ekstra 100g,Seafood Segar,Expired Discount,0.15,2025-09-05,2025-09-07,290.4458730461174
+P00084822,PTIndo Minyak Goreng Varian B 1000g,Minyak Goreng,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,274.50011504524446
+P00071404,JayaNusantara Buah Kering Varian C 100g,Buah Kering,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,267.12576445978766
+P00070207,IndoCV Daging Segar Ekstra 250g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,256.1782624556363
+P00085474,JayaPangan Daging Segar Spesial 50g,Daging Segar,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,247.02661460189302
+P00080408,SentosaPangan Seafood Segar Spesial 200g,Seafood Segar,Expired Discount,0.15,2025-09-05,2025-09-07,225.17198080104208
+P00075644,AgroAbadi Seafood Segar Varian B 1000g,Seafood Segar,Expired Discount,0.1,2025-09-05,2025-09-07,219.43915978959012
+P00086476,MakmurMakmur Seafood Segar Varian C 1000g,Seafood Segar,Expired Discount,0.05,2025-09-05,2025-09-07,202.37077364867218
+P00071719,NusantaraNusantara Seafood Segar Varian A 100g,Seafood Segar,Expired Discount,0.1,2025-09-05,2025-09-07,202.23029082787798
+P00066193,PanganAgro Keju Varian C 250g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,191.57538795006303
+P00079196,CVCV Susu Kemasan Spesial 1000ml,Susu Kemasan,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,188.4020225681988
+P00066679,AgroJaya Jus Kemasan Varian A 150ml,Jus Kemasan,BOGO,0.5,2025-09-12,2025-09-14,179.73040516180254
+P00073464,NusantaraAbadi Kentang Goreng Varian A 200g,Kentang Goreng,BOGO,0.5,2025-09-12,2025-09-14,178.14457932007736
+P00080819,MakmurSentosa Daging Segar Varian C 500g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,171.63882121652568
+P00077355,PTSentosa Krim Varian C 250g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,171.2441331414857
+P00087363,AgroPangan Krim Varian C 1000g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,170.74500574734566
+P00066563,IndoAgro Jus Kemasan Spesial 500ml,Jus Kemasan,BOGO,0.5,2025-09-12,2025-09-14,168.2958381777089
+P00079527,AbadiIndo Buah-Buahan Varian A 200g,Buah-Buahan,Expired Discount,0.1,2025-09-05,2025-09-07,160.82167948533152
+P00079388,JayaJaya Kecap Varian B 200g,Kecap,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,158.7821185703624
+P00073967,IndoSentosa Penyedap Rasa Varian C 200g,Penyedap Rasa,Generic Product Discount,0.1,2025-09-12,2025-09-14,157.2769122189993
+P00077164,MakmurCV Seafood Segar Ekstra 50g,Seafood Segar,Expired Discount,0.05,2025-09-05,2025-09-07,154.87061166284366
+P00068127,IndoPT Sereal Ekstra 750g,Sereal,BOGO,0.5,2025-09-12,2025-09-14,150.12218902099994
+P00073767,AgroCV Susu Kemasan Spesial 150ml,Susu Kemasan,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,149.67646081015266
+P00071085,AgroPangan Jus Kemasan Varian C 250ml,Jus Kemasan,BOGO,0.5,2025-09-12,2025-09-14,147.2332035470822
+P00085399,SentosaMakmur Buah-Buahan Varian B 750g,Buah-Buahan,Expired Discount,0.05,2025-09-05,2025-09-07,143.27511348666576
+P00078127,JayaNusantara Susu Bubuk Varian C 1500ml,Susu Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,143.00937319966351
+P00060052,PTPT Minuman Isotonik Spesial 250ml,Minuman Isotonik,BOGO,0.5,2025-09-12,2025-09-14,139.5663319255391
+P00073332,JayaCV Mie Instan Spesial 200g,Mie Instan,BOGO,0.5,2025-09-12,2025-09-14,138.00976503495895
+P00081935,PanganNusantara Yogurt Varian B 750ml,Yogurt,BOGO,0.5,2025-09-12,2025-09-14,134.79916897159092
+P00064918,PTIndo Air Mineral Ekstra 1500ml,Air Mineral,BOGO,0.5,2025-09-12,2025-09-14,134.22040012500747
+P00073302,CVMakmur Keju Varian A 200g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,130.90578980859664
+P00072370,PTMakmur Telur Spesial 1000g,Telur,Generic Product Discount,0.15,2025-09-12,2025-09-14,130.43010816932838
+P00058994,MakmurJaya Telur Varian C 200g,Telur,Generic Product Discount,0.1,2025-09-12,2025-09-14,129.11940676384438
+P00060806,JayaCV Teh Varian C 250g,Teh,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,127.50952002311215
+P00077773,PTPT Gula Varian C 500g,Gula,Generic Product Discount,0.1,2025-09-12,2025-09-14,126.93060044505
+P00072115,CVNusantara Kuaci Varian C 1000g,Kuaci,BOGO,0.5,2025-09-12,2025-09-14,125.89352601164046
+P00073454,IndoAbadi Daging Segar Spesial 200g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,125.42543545344233
+P00074771,CVIndo Daging Segar Varian C 500g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,125.42543545344233
+P00077467,IndoCV Daging Segar Varian B 50g,Daging Segar,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,125.01700902055381
+P00083115,NusantaraPangan Kopi Kemasan Varian C 1500ml,Kopi Kemasan,BOGO,0.5,2025-09-12,2025-09-14,125.01421705085613
+P00077605,IndoPangan Permen Spesial 100g,Permen,BOGO,0.5,2025-09-12,2025-09-14,124.32764887376834
+P00057356,NusantaraAbadi Kentang Goreng Varian A 200g,Kentang Goreng,BOGO,0.5,2025-09-12,2025-09-14,124.26972078690869
+P00073081,NusantaraPT Permen Varian C 500g,Permen,BOGO,0.5,2025-09-12,2025-09-14,123.47189916002844
+P00073660,MakmurPT Saos Varian B 200g,Saos,Generic Product Discount,0.1,2025-09-12,2025-09-14,121.34554020999485
+P00076198,AgroCV Minyak Goreng Varian C 250g,Minyak Goreng,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,120.7043818664215
+P00086461,AgroIndo Kopi Bubuk Varian C 500g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,119.33524557387636
+P00075840,CVCV Yogurt Varian C 500ml,Yogurt,BOGO,0.5,2025-09-12,2025-09-14,114.38664404021529
+P00075791,AgroAgro Mie Instan Varian B 250g,Mie Instan,BOGO,0.5,2025-09-12,2025-09-14,113.8903925873783
+P00079521,MakmurPT Kornet Varian A 750g,Kornet,BOGO,0.5,2025-09-12,2025-09-14,113.50681482247
+P00080633,PTSentosa Mie Instan Varian C 750g,Mie Instan,BOGO,0.5,2025-09-12,2025-09-14,111.8090290971104
+P00083861,CVJaya Gula Varian C 1000g,Gula,Generic Product Discount,0.1,2025-09-12,2025-09-14,111.21140715810134
+P00059488,SentosaCV Yogurt Spesial 1000ml,Yogurt,BOGO,0.5,2025-09-12,2025-09-14,110.45438208884161
+P00075245,MakmurIndo Minuman Isotonik Spesial 250ml,Minuman Isotonik,BOGO,0.5,2025-09-12,2025-09-14,109.6721642927696
+P00080973,PTAbadi Garam Spesial 500g,Garam,Generic Product Discount,0.1,2025-09-12,2025-09-14,107.86064366235541
+P00086830,IndoMakmur Daging Segar Spesial 50g,Daging Segar,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,107.20684148418513
+P00066980,SentosaAbadi Gulali Spesial 250g,Gulali,Generic Product Discount,0.1,2025-09-12,2025-09-14,107.09801166309171
+P00077269,PTNusantara Yogurt Spesial 500ml,Yogurt,BOGO,0.5,2025-09-12,2025-09-14,106.91507100458239
+P00083734,PanganAgro Pasta Spesial 1000g,Pasta,BOGO,0.5,2025-09-12,2025-09-14,105.98969177775643
+P00070810,JayaAgro Saos Spesial 100g,Saos,Generic Product Discount,0.1,2025-09-12,2025-09-14,103.2401411698138
+P00061003,IndoPT Buah-Buahan Spesial 100g,Buah-Buahan,Expired Discount,0.15,2025-09-05,2025-09-07,102.62045810647987
+P00075841,JayaJaya Kornet Spesial 50g,Kornet,BOGO,0.5,2025-09-12,2025-09-14,102.41058382413075
+P00064568,PTIndo Teh Spesial 200g,Teh,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,102.05964287481993
+P00073250,AbadiPangan Krim Varian C 1000g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,102.03477587779753
+P00077785,AgroAbadi Minyak Goreng Varian C 500g,Minyak Goreng,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,99.85590071590627
+P00080026,PTIndo Minyak Goreng Spesial 1000g,Minyak Goreng,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,99.230717039919
+P00069431,AbadiIndo Mie Instan Varian C 50g,Mie Instan,BOGO,0.5,2025-09-12,2025-09-14,97.42632516158119
+P00081379,PanganIndo Kornet Spesial 750g,Kornet,BOGO,0.5,2025-09-12,2025-09-14,96.32752491222618
+P00061267,CVAbadi Seafood Segar Spesial 200g,Seafood Segar,Expired Discount,0.05,2025-09-05,2025-09-07,95.77684627534109
+P00071427,AgroSentosa Gulali Spesial 750g,Gulali,Generic Product Discount,0.1,2025-09-12,2025-09-14,95.76409271441162
+P00082926,PanganPT Minuman Isotonik Spesial 1000ml,Minuman Isotonik,BOGO,0.5,2025-09-12,2025-09-14,94.01969242240466
+P00076819,PanganMakmur Pasta Varian C 1000g,Pasta,BOGO,0.5,2025-09-12,2025-09-14,93.81118062649693
+P00084000,NusantaraNusantara Keju Varian B 1000g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,93.20693264542751
+P00071904,CVAgro Buah-Buahan Varian A 500g,Buah-Buahan,Expired Discount,0.05,2025-09-05,2025-09-07,92.9439424629627
+P00077603,JayaCV Teh Varian C 250g,Teh,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,91.37892995960237
+P00080695,CVNusantara Sereal Varian A 50g,Sereal,BOGO,0.5,2025-09-12,2025-09-14,91.37892995960237
+P00075674,NusantaraSentosa Sayur-Sayuran Varian C 250g,Sayur-Sayuran,Expired Discount,0.05,2025-09-05,2025-09-07,90.98840948896759
+P00085653,NusantaraPangan Kopi Bubuk Spesial 750g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,90.82491198986509
+P00076430,AgroPT Marshmallow Spesial 750g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,89.79131828341997
+P00078334,AgroAgro Jus Kemasan Spesial 250ml,Jus Kemasan,BOGO,0.5,2025-09-12,2025-09-14,88.74417835578015
+P00062532,PTSentosa Krim Varian C 250g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,85.46135678135761
+P00083241,PanganAgro Beras Varian C 100g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,83.98641542957648
+P00064702,AgroAgro Jus Kemasan Spesial 250ml,Jus Kemasan,BOGO,0.5,2025-09-12,2025-09-14,83.14053942978126
+P00071781,CVPT Garam Spesial 50g,Garam,Generic Product Discount,0.1,2025-09-12,2025-09-14,82.84629614366486
+P00064404,PTAbadi Buah Kering Ekstra 100g,Buah Kering,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,82.22620398692698
+P00077833,PTPangan Air Mineral Varian A 1500ml,Air Mineral,BOGO,0.5,2025-09-12,2025-09-14,81.97455332219943
+P00072948,AgroJaya Mayones Ekstra 1000g,Mayones,Generic Product Discount,0.1,2025-09-12,2025-09-14,80.59173303292937
+P00074072,NusantaraAbadi Kentang Goreng Varian B 500g,Kentang Goreng,BOGO,0.5,2025-09-12,2025-09-14,79.83135745623622
+P00075437,PanganMakmur Cokelat Varian C 500g,Cokelat,BOGO,0.5,2025-09-12,2025-09-14,78.60675174811968
+P00081107,CVAgro Beras Varian C 100g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,78.38828245236891
+P00079585,NusantaraJaya Sereal Spesial 100g,Sereal,BOGO,0.5,2025-09-12,2025-09-14,76.2689913205486
+P00070201,AbadiPangan Air Mineral Varian C 750ml,Air Mineral,BOGO,0.5,2025-09-12,2025-09-14,76.1596963446782
+P00062724,NusantaraPT Permen Varian C 500g,Permen,BOGO,0.5,2025-09-12,2025-09-14,75.39708639967921
+P00085251,NusantaraJaya Jus Kemasan Spesial 150ml,Jus Kemasan,BOGO,0.5,2025-09-12,2025-09-14,75.38118441573624
+P00074195,SentosaPangan Beras Varian B 250g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,74.61027655713951
+P00067871,PanganPT Minuman Isotonik Spesial 1000ml,Minuman Isotonik,BOGO,0.5,2025-09-12,2025-09-14,73.59655424459106
+P00056106,AgroCV Keju Spesial 250g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,73.32601152117468
+P00061077,PanganPT Ice Cream Varian A 100g,Ice Cream,BOGO,0.5,2025-09-12,2025-09-14,73.19674771622613
+P00078503,JayaNusantara Krim Spesial 50g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,72.65840122165991
+P00075134,PanganNusantara Sayur-Sayuran Varian C 750g,Sayur-Sayuran,Expired Discount,0.05,2025-09-05,2025-09-07,71.31624092943957
+P00085765,JayaNusantara Telur Varian B 250g,Telur,Generic Product Discount,0.1,2025-09-12,2025-09-14,70.79598447349099
+P00083714,CVMakmur Permen Spesial 750g,Permen,BOGO,0.5,2025-09-12,2025-09-14,69.94753670142563
+P00078426,AgroAgro Kuaci Ekstra 250g,Kuaci,BOGO,0.5,2025-09-12,2025-09-14,69.94536688252134
+P00069490,JayaPangan Minyak Goreng Ekstra 100g,Minyak Goreng,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,69.34611817549012
+P00074425,PanganAgro Marshmallow Spesial 500g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,67.25366145736785
+P00079093,CVAgro Sayur-Sayuran Spesial 750g,Sayur-Sayuran,Expired Discount,0.1,2025-09-05,2025-09-07,66.39741333202073
+P00073281,PanganPT Kopi Kemasan Varian C 250ml,Kopi Kemasan,BOGO,0.5,2025-09-12,2025-09-14,66.28006300130255
+P00080082,AbadiMakmur Kecap Varian A 1000g,Kecap,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,63.781481254291066
+P00070440,JayaAbadi Susu Bubuk Varian C 250ml,Susu Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,63.24273201148753
+P00075671,MakmurAbadi Kecap Varian C 750g,Kecap,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,62.56090099911398
+P00060038,AgroPangan Air Mineral Spesial 1500ml,Air Mineral,BOGO,0.5,2025-09-12,2025-09-14,61.57767107793234
+P00076909,PTIndo Air Mineral Ekstra 1500ml,Air Mineral,BOGO,0.5,2025-09-12,2025-09-14,61.3403521173077
+P00068931,AbadiMakmur Kecap Varian A 1000g,Kecap,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,61.04934597006013
+P00070986,AgroNusantara Buah-Buahan Varian B 250g,Buah-Buahan,Expired Discount,0.1,2025-09-05,2025-09-07,60.77260851246865
+P00059612,PanganCV Susu Bubuk Varian C 150ml,Susu Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,59.065753882161744
+P00075430,PanganIndo Minyak Goreng Spesial 500g,Minyak Goreng,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,58.846708693658
+P00080440,AgroPangan Mayones Varian C 500g,Mayones,Generic Product Discount,0.1,2025-09-12,2025-09-14,58.127710150007715
+P00074209,AbadiIndo Gulali Varian C 250g,Gulali,Generic Product Discount,0.1,2025-09-12,2025-09-14,57.940614045465736
+P00070968,CVCV Pasta Spesial 1000g,Pasta,BOGO,0.5,2025-09-12,2025-09-14,57.45552882109632
+P00082387,CVCV Permen Spesial 500g,Permen,BOGO,0.5,2025-09-12,2025-09-14,56.6026613958511
+P00070124,AgroAgro Pasta Varian C 750g,Pasta,BOGO,0.5,2025-09-12,2025-09-14,56.55592688332854
+P00072548,MakmurCV Penyedap Rasa Varian C 250g,Penyedap Rasa,Generic Product Discount,0.1,2025-09-12,2025-09-14,56.54972931209414
+P00073227,SentosaNusantara Susu Bubuk Spesial 1000ml,Susu Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,56.30373374520104
+P00072907,CVPT Keju Varian C 750g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,55.598481456992886
+P00081948,PanganJaya Mie Instan Varian B 50g,Mie Instan,BOGO,0.5,2025-09-12,2025-09-14,54.96478117854275
+P00064166,CVNusantara Buah-Buahan Spesial 50g,Buah-Buahan,Expired Discount,0.05,2025-09-05,2025-09-07,54.43006313488695
+P00061884,MakmurSentosa Daging Segar Varian C 500g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,54.21338998360261
+P00084695,NusantaraNusantara Penyedap Rasa Spesial 1000g,Penyedap Rasa,Generic Product Discount,0.1,2025-09-12,2025-09-14,53.47064919582499
+P00055057,NusantaraMakmur Beras Varian C 50g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,53.28580420306798
+P00080909,MakmurCV Kornet Ekstra 1000g,Kornet,BOGO,0.5,2025-09-12,2025-09-14,52.51351617281216
+P00080998,NusantaraPangan Teh Varian B 250g,Teh,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,51.82265129471034
+P00070404,JayaJaya Kecap Varian B 200g,Kecap,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,51.61707687491156
+P00069588,PTPT Minuman Isotonik Spesial 250ml,Minuman Isotonik,BOGO,0.5,2025-09-12,2025-09-14,50.78554683060702
+P00072302,AgroNusantara Marshmallow Spesial 500g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,50.59671401673313
+P00069925,PTMakmur Daging Segar Varian C 200g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,50.41774665992489
+P00083403,NusantaraPangan Jus Kemasan Ekstra 1000ml,Jus Kemasan,BOGO,0.5,2025-09-12,2025-09-14,50.187943726941285
+P00075591,JayaAbadi Marshmallow Varian A 250g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,49.84292531553638
+P00070080,IndoPangan Saos Varian C 200g,Saos,Generic Product Discount,0.1,2025-09-12,2025-09-14,49.453349633120524
+P00078947,PTMakmur Telur Ekstra 250g,Telur,Generic Product Discount,0.1,2025-09-12,2025-09-14,48.77043977157291
+P00070638,AbadiIndo Gulali Spesial 50g,Gulali,Generic Product Discount,0.1,2025-09-12,2025-09-14,48.62703725117353
+P00062966,AbadiAgro Jus Kemasan Spesial 750ml,Jus Kemasan,BOGO,0.5,2025-09-12,2025-09-14,48.192532567115904
+P00082927,SentosaIndo Permen Spesial 1000g,Permen,BOGO,0.5,2025-09-12,2025-09-14,48.16477636956097
+P00074043,PanganPT Marshmallow Varian C 100g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,46.548640158904504
+P00081917,SentosaMakmur Krim Varian C 100g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,46.46301131756536
+P00059944,JayaCV Beras Spesial 200g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,46.348713188426245
+P00077501,PanganSentosa Sayur-Sayuran Varian C 100g,Sayur-Sayuran,Expired Discount,0.15,2025-09-05,2025-09-07,45.18072544698589
+P00064613,JayaJaya Kopi Bubuk Varian C 1000g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,44.34918243982696
+P00067083,SentosaNusantara Air Mineral Varian C 250ml,Air Mineral,BOGO,0.5,2025-09-12,2025-09-14,44.19134279849004
+P00081992,AgroCV Buah Kering Ekstra 50g,Buah Kering,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,43.31900607432772
+P00068863,JayaSentosa Cokelat Spesial 1000g,Cokelat,BOGO,0.5,2025-09-12,2025-09-14,42.25845375872814
+P00080810,MakmurAbadi Minuman Isotonik Varian B 250ml,Minuman Isotonik,BOGO,0.5,2025-09-12,2025-09-14,41.712508526206875
+P00059655,AgroPT Kaldu Jamur Varian C 50g,Kaldu Jamur,Generic Product Discount,0.15,2025-09-12,2025-09-14,41.32682016855733
+P00070176,MakmurIndo Gulali Spesial 200g,Gulali,Generic Product Discount,0.1,2025-09-12,2025-09-14,40.96976796798094
+P00071096,SentosaIndo Mayones Ekstra 250g,Mayones,Generic Product Discount,0.1,2025-09-12,2025-09-14,40.92545896379943
+P00062947,PanganAbadi Sereal Varian C 200g,Sereal,BOGO,0.5,2025-09-12,2025-09-14,40.575343664196566
+P00071805,NusantaraJaya Ice Cream Varian B 50g,Ice Cream,BOGO,0.5,2025-09-12,2025-09-14,39.7477850543948
+P00084993,NusantaraSentosa Saos Varian C 500g,Saos,Generic Product Discount,0.1,2025-09-12,2025-09-14,39.69488688855472
+P00069476,SentosaAgro Kentang Goreng Ekstra 100g,Kentang Goreng,BOGO,0.5,2025-09-12,2025-09-14,39.68490838408479
+P00077662,AgroNusantara Penyedap Rasa Spesial 250g,Penyedap Rasa,Generic Product Discount,0.1,2025-09-12,2025-09-14,39.5832547989844
+P00086660,AgroPT Kaldu Jamur Spesial 50g,Kaldu Jamur,Generic Product Discount,0.1,2025-09-12,2025-09-14,39.35963772622608
+P00074146,CVMakmur Buah-Buahan Spesial 200g,Buah-Buahan,Expired Discount,0.15,2025-09-05,2025-09-07,38.58349695649508
+P00069868,NusantaraIndo Marshmallow Varian C 1000g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,38.18034423218626
+P00079882,AbadiAgro Gula Spesial 750g,Gula,Generic Product Discount,0.1,2025-09-12,2025-09-14,37.87315678895766
+P00073629,AgroAgro Telur Varian B 100g,Telur,Generic Product Discount,0.1,2025-09-12,2025-09-14,37.74299135575893
+P00085451,JayaCV Beras Spesial 200g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,37.010218313654605
+P00066313,AgroIndo Kopi Bubuk Varian C 750g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,36.42800221873313
+P00062903,NusantaraSentosa Pasta Varian C 200g,Pasta,BOGO,0.5,2025-09-12,2025-09-14,36.08609712722546
+P00082126,PTAbadi Sarden Kaleng Varian C 200g,Sarden Kaleng,BOGO,0.5,2025-09-12,2025-09-14,35.21841017983115
+P00076897,NusantaraAgro Sarden Kaleng Varian C 50g,Sarden Kaleng,BOGO,0.5,2025-09-12,2025-09-14,34.83774389186328
+P00056694,PTMakmur Telur Spesial 1000g,Telur,Generic Product Discount,0.15,2025-09-12,2025-09-14,34.602341416252784
+P00069567,AbadiIndo Yogurt Varian A 1000ml,Yogurt,BOGO,0.5,2025-09-12,2025-09-14,34.51301372263379
+P00087310,AgroIndo Permen Spesial 250g,Permen,BOGO,0.5,2025-09-12,2025-09-14,34.12925335173645
+P00064131,MakmurAbadi Minyak Goreng Spesial 250g,Minyak Goreng,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,34.12793603427281
+P00073936,AbadiAgro Garam Varian C 500g,Garam,Generic Product Discount,0.1,2025-09-12,2025-09-14,34.08792424326157
+P00077368,PanganCV Garam Ekstra 250g,Garam,Generic Product Discount,0.1,2025-09-12,2025-09-14,34.02759976663606
+P00078250,SentosaNusantara Kopi Kemasan Varian A 150ml,Kopi Kemasan,BOGO,0.5,2025-09-12,2025-09-14,33.932102224497385
+P00079217,SentosaPT Sayur-Sayuran Varian C 500g,Sayur-Sayuran,Expired Discount,0.05,2025-09-05,2025-09-07,33.769137347337164
+P00065180,NusantaraPangan Garam Spesial 1000g,Garam,Generic Product Discount,0.1,2025-09-12,2025-09-14,33.41406767216722
+P00070610,IndoSentosa Roti Spesial 100g,Roti,Expired Discount,0.05,2025-09-05,2025-09-07,33.19086872261596
+P00063413,MakmurNusantara Marshmallow Spesial 750g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,33.01769273283958
+P00073311,SentosaPT Keju Varian C 1000g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,32.941959652344394
+P00057997,PanganNusantara Buah-Buahan Varian A 50g,Buah-Buahan,Expired Discount,0.05,2025-09-05,2025-09-07,32.31149855041713
+P00069369,CVCV Sayur-Sayuran Ekstra 1000g,Sayur-Sayuran,Expired Discount,0.05,2025-09-05,2025-09-07,31.26929486828476
+P00079792,AgroIndo Sarden Kaleng Ekstra 750g,Sarden Kaleng,BOGO,0.5,2025-09-12,2025-09-14,31.12821947090856
+P00082197,MakmurNusantara Keju Spesial 250g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,31.043662418747317
+P00075322,AbadiAgro Kaldu Jamur Varian C 50g,Kaldu Jamur,Generic Product Discount,0.1,2025-09-12,2025-09-14,30.001403077254054
+P00077846,PanganJaya Gula Spesial 250g,Gula,Generic Product Discount,0.1,2025-09-12,2025-09-14,29.49657497413591
+P00056958,AgroIndo Sarden Kaleng Ekstra 50g,Sarden Kaleng,BOGO,0.5,2025-09-12,2025-09-14,28.969342923252157
+P00072831,AbadiPT Marshmallow Varian B 750g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,28.901798823621448
+P00069680,IndoCV Permen Varian C 200g,Permen,BOGO,0.5,2025-09-12,2025-09-14,28.769329669281433
+P00075133,MakmurAgro Mayones Varian C 500g,Mayones,Generic Product Discount,0.1,2025-09-12,2025-09-14,28.593372873114276
+P00080005,AgroPT Mayones Spesial 100g,Mayones,Generic Product Discount,0.1,2025-09-12,2025-09-14,28.57235807784855
+P00076500,NusantaraPT Telur Varian C 200g,Telur,Generic Product Discount,0.15,2025-09-12,2025-09-14,28.131867625852237
+P00069851,NusantaraIndo Yogurt Varian A 150ml,Yogurt,BOGO,0.5,2025-09-12,2025-09-14,28.049328108192356
+P00078946,IndoAgro Garam Varian C 100g,Garam,Generic Product Discount,0.1,2025-09-12,2025-09-14,27.849555150231026
+P00086754,PanganJaya Yogurt Varian C 250ml,Yogurt,BOGO,0.5,2025-09-12,2025-09-14,27.56733001500379
+P00054913,CVCV Kopi Bubuk Varian B 1000g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,27.252533305091674
+P00064840,PanganIndo Saos Varian C 750g,Saos,Generic Product Discount,0.15,2025-09-12,2025-09-14,26.681213626972976
+P00084268,PanganPT Beras Spesial 1000g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,26.33969006384291
+P00071933,IndoPT Beras Spesial 100g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,26.025142014116682
+P00072721,PTAbadi Keju Varian C 750g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,26.010749832201327
+P00082221,MakmurCV Kopi Bubuk Spesial 100g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,25.71698619997869
+P00081620,AgroIndo Buah-Buahan Ekstra 200g,Buah-Buahan,Expired Discount,0.1,2025-09-05,2025-09-07,25.378700481703163
+P00072017,JayaMakmur Sarden Kaleng Spesial 200g,Sarden Kaleng,BOGO,0.5,2025-09-12,2025-09-14,25.327042700713264
+P00079328,AgroIndo Kopi Bubuk Varian C 750g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,25.262776228209987
+P00075143,CVNusantara Daging Segar Spesial 250g,Daging Segar,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,25.199385070967764
+P00074901,AbadiJaya Sayur-Sayuran Varian C 500g,Sayur-Sayuran,Expired Discount,0.05,2025-09-05,2025-09-07,25.183121043360643
+P00085055,IndoAgro Gulali Spesial 500g,Gulali,Generic Product Discount,0.1,2025-09-12,2025-09-14,24.631566774180556
+P00077226,JayaNusantara Kornet Varian C 200g,Kornet,BOGO,0.5,2025-09-12,2025-09-14,24.48794351667766
+P00061520,AgroMakmur Gulali Spesial 1000g,Gulali,Generic Product Discount,0.1,2025-09-12,2025-09-14,24.269391870562913
+P00067562,JayaMakmur Sereal Varian C 100g,Sereal,BOGO,0.5,2025-09-12,2025-09-14,23.88975902489983
+P00082075,NusantaraMakmur Marshmallow Varian C 500g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,23.68582357894502
+P00084244,MakmurCV Mie Instan Varian C 200g,Mie Instan,BOGO,0.5,2025-09-12,2025-09-14,23.581419651176475
+P00082336,PanganPangan Kornet Spesial 500g,Kornet,BOGO,0.5,2025-09-12,2025-09-14,22.960669699706614
+P00077205,PanganJaya Mayones Varian C 500g,Mayones,Generic Product Discount,0.1,2025-09-12,2025-09-14,22.852677074345138
+P00058433,AbadiJaya Marshmallow Varian C 200g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,22.729363142253305
+P00070450,AbadiMakmur Yogurt Ekstra 1500ml,Yogurt,BOGO,0.5,2025-09-12,2025-09-14,22.70736350305515
+P00086866,SentosaJaya Selai Spesial 250g,Selai,Generic Product Discount,0.1,2025-09-12,2025-09-14,22.497848669718678
+P00063866,NusantaraAgro Susu Bubuk Varian C 750ml,Susu Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,22.38044491949131
+P00080786,JayaPT Ice Cream Ekstra 500g,Ice Cream,BOGO,0.5,2025-09-12,2025-09-14,22.33379236226142
+P00080155,MakmurIndo Teh Spesial 750g,Teh,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,22.136838291246022
+P00074533,IndoPT Permen Varian C 250g,Permen,BOGO,0.5,2025-09-12,2025-09-14,21.830938418514506
+P00082490,AbadiIndo Susu Kemasan Spesial 1000ml,Susu Kemasan,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,21.463663749140665
+P00069666,PTAbadi Bihun Varian C 1000g,Bihun,Generic Product Discount,0.1,2025-09-12,2025-09-14,21.40759613028547
+P00085444,NusantaraPT Buah Kering Spesial 250g,Buah Kering,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,21.187813146695362
+P00072413,AgroMakmur Keju Spesial 750g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,20.97694200784383
+P00080249,IndoPT Krim Varian A 200g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,20.917911225717035
+P00076202,IndoSentosa Kaldu Jamur Spesial 500g,Kaldu Jamur,Generic Product Discount,0.1,2025-09-12,2025-09-14,20.63775759064697
+P00083337,SentosaPangan Selai Varian B 750g,Selai,Generic Product Discount,0.1,2025-09-12,2025-09-14,20.63625412642216
+P00070825,SentosaCV Makaroni Varian C 100g,Makaroni,BOGO,0.5,2025-09-12,2025-09-14,20.6034103729653
+P00076014,NusantaraMakmur Telur Spesial 500g,Telur,Generic Product Discount,0.1,2025-09-12,2025-09-14,20.21791314253096
+P00087032,PTMakmur Daging Segar Spesial 50g,Daging Segar,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,20.185574576640647
+P00087237,IndoMakmur Kopi Bubuk Ekstra 750g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,19.73808984349398
+P00073583,MakmurIndo Garam Varian B 250g,Garam,Generic Product Discount,0.1,2025-09-12,2025-09-14,19.535571591499775
+P00058332,PanganMakmur Kentang Goreng Spesial 250g,Kentang Goreng,BOGO,0.5,2025-09-12,2025-09-14,19.488525172028403
+P00075702,CVCV Kopi Bubuk Varian B 1000g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,19.345637475473268
+P00080192,NusantaraIndo Roti Spesial 100g,Roti,Expired Discount,0.05,2025-09-05,2025-09-07,18.751345092819975
+P00085334,AbadiIndo Kuaci Ekstra 250g,Kuaci,BOGO,0.5,2025-09-12,2025-09-14,16.974182905277303
+P00077199,SentosaAbadi Mayones Varian C 200g,Mayones,Generic Product Discount,0.1,2025-09-12,2025-09-14,16.448413130888184
+P00075665,AgroAbadi Gula Varian C 200g,Gula,Generic Product Discount,0.1,2025-09-12,2025-09-14,15.861342116181277
+P00063580,JayaNusantara Susu Bubuk Varian C 1500ml,Susu Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,15.688346521659241
+P00082568,CVSentosa Pasta Varian C 1000g,Pasta,BOGO,0.5,2025-09-12,2025-09-14,15.684791943404889
+P00072781,PanganSentosa Telur Spesial 50g,Telur,Generic Product Discount,0.1,2025-09-12,2025-09-14,15.621455668718681
+P00072889,CVPangan Saos Varian B 1000g,Saos,Generic Product Discount,0.15,2025-09-12,2025-09-14,15.578269886027442
+P00075806,PanganNusantara Penyedap Rasa Spesial 100g,Penyedap Rasa,Generic Product Discount,0.1,2025-09-12,2025-09-14,15.522483023555196
+P00085353,NusantaraCV Teh Varian C 250g,Teh,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,15.51211136857637
+P00070464,NusantaraAbadi Makaroni Varian C 100g,Makaroni,BOGO,0.5,2025-09-12,2025-09-14,15.440413992307185
+P00082802,IndoNusantara Beras Varian C 100g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,15.324127724228674
+P00073517,MakmurAgro Cokelat Varian C 750g,Cokelat,BOGO,0.5,2025-09-12,2025-09-14,15.212011197141464
+P00064581,SentosaMakmur Minuman Isotonik Spesial 1500ml,Minuman Isotonik,BOGO,0.5,2025-09-12,2025-09-14,14.924521954577585
+P00056452,PanganPT Mie Instan Varian A 50g,Mie Instan,BOGO,0.5,2025-09-12,2025-09-14,14.412254764441968
+P00077676,PanganSentosa Minuman Isotonik Spesial 150ml,Minuman Isotonik,BOGO,0.5,2025-09-12,2025-09-14,13.92594713185099
+P00076124,SentosaIndo Kopi Bubuk Varian C 100g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,13.921961665037998
+P00077672,PanganCV Pasta Spesial 500g,Pasta,BOGO,0.5,2025-09-12,2025-09-14,13.465563751977243
+P00085379,MakmurJaya Krim Spesial 200g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,13.358663500587454
+P00084315,JayaAgro Krim Varian C 100g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,13.176783646321383
+P00077290,JayaNusantara Air Mineral Varian A 750ml,Air Mineral,BOGO,0.5,2025-09-12,2025-09-14,12.998083520624164
+P00066892,IndoPT Beras Spesial 100g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,12.461755398874175
+P00070813,PTSentosa Keju Varian C 500g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,12.05514104109443
+P00062925,JayaIndo Pasta Varian B 750g,Pasta,BOGO,0.5,2025-09-12,2025-09-14,11.975455596528832
+P00084737,MakmurAbadi Gula Spesial 200g,Gula,Generic Product Discount,0.1,2025-09-12,2025-09-14,11.97260644366861
+P00078750,IndoAgro Yogurt Varian C 1500ml,Yogurt,BOGO,0.5,2025-09-12,2025-09-14,11.897090452319844
+P00073779,PanganPangan Susu Bubuk Varian C 1000ml,Susu Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,11.703799862772144
+P00079380,SentosaMakmur Roti Spesial 200g,Roti,Expired Discount,0.05,2025-09-05,2025-09-07,11.558469183361467
+P00056873,SentosaNusantara Kopi Kemasan Varian A 150ml,Kopi Kemasan,BOGO,0.5,2025-09-12,2025-09-14,10.729901698415688
+P00073513,SentosaAbadi Gula Varian C 200g,Gula,Generic Product Discount,0.1,2025-09-12,2025-09-14,10.669943862405944
+P00070708,NusantaraAbadi Sereal Varian B 250g,Sereal,BOGO,0.5,2025-09-12,2025-09-14,10.535701083285176
+P00071137,NusantaraJaya Ice Cream Varian A 750g,Ice Cream,BOGO,0.5,2025-09-12,2025-09-14,10.483279037428929
+P00082720,PanganCV Garam Ekstra 50g,Garam,Generic Product Discount,0.1,2025-09-12,2025-09-14,10.483279037428929
+P00086402,PTAgro Bihun Spesial 100g,Bihun,Generic Product Discount,0.1,2025-09-12,2025-09-14,10.450275806996842
+P00075470,NusantaraCV Roti Spesial 50g,Roti,Expired Discount,0.05,2025-09-05,2025-09-07,10.117255394410108
+P00071266,IndoIndo Cokelat Spesial 750g,Cokelat,BOGO,0.5,2025-09-12,2025-09-14,10.074755133907729
+P00078450,AgroCV Krim Spesial 200g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,9.570019165353187
+P00071380,AbadiSentosa Susu Kemasan Spesial 250ml,Susu Kemasan,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,9.533818764923808
+P00083665,SentosaMakmur Susu Bubuk Spesial 1500ml,Susu Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,9.463557470200385
+P00087434,MakmurPangan Kornet Varian C 200g,Kornet,BOGO,0.5,2025-09-12,2025-09-14,8.678911494736894
+P00060986,JayaNusantara Buah Kering Varian C 100g,Buah Kering,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,8.518526474303144
+P00077589,SentosaAbadi Permen Varian C 750g,Permen,BOGO,0.5,2025-09-12,2025-09-14,8.467983422588986
+P00063406,NusantaraNusantara Penyedap Rasa Spesial 1000g,Penyedap Rasa,Generic Product Discount,0.1,2025-09-12,2025-09-14,8.407548175552165
+P00073646,PanganAgro Kopi Kemasan Ekstra 150ml,Kopi Kemasan,BOGO,0.5,2025-09-12,2025-09-14,8.346844809213508
+P00070369,JayaCV Marshmallow Varian A 50g,Marshmallow,Generic Product Discount,0.1,2025-09-12,2025-09-14,7.857884370527245
+P00076973,AgroSentosa Buah-Buahan Spesial 200g,Buah-Buahan,Expired Discount,0.1,2025-09-05,2025-09-07,7.676566569831266
+P00076719,IndoPT Sereal Ekstra 750g,Sereal,BOGO,0.5,2025-09-12,2025-09-14,6.874089430224558
+P00070700,NusantaraMakmur Beras Varian C 50g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,6.868391965908813
+P00078542,IndoIndo Kopi Kemasan Spesial 1500ml,Kopi Kemasan,BOGO,0.5,2025-09-12,2025-09-14,6.585410857570878
+P00073618,MakmurJaya Kopi Bubuk Varian C 250g,Kopi Bubuk,Generic Product Discount,0.1,2025-09-12,2025-09-14,6.2467092722254165
+P00082825,IndoPangan Kuaci Varian C 1000g,Kuaci,BOGO,0.5,2025-09-12,2025-09-14,5.913790373995994
+P00080433,PanganSentosa Saos Varian C 250g,Saos,Generic Product Discount,0.1,2025-09-12,2025-09-14,5.868319637915647
+P00079709,SentosaJaya Daging Segar Varian C 250g,Daging Segar,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,5.65388930368681
+P00063987,IndoAbadi Garam Varian C 250g,Garam,Generic Product Discount,0.1,2025-09-12,2025-09-14,5.599395875998198
+P00082417,AbadiJaya Seafood Segar Spesial 1000g,Seafood Segar,Expired Discount,0.1,2025-09-05,2025-09-07,5.542960867198417
+P00080301,JayaPT Penyedap Rasa Varian C 50g,Penyedap Rasa,Generic Product Discount,0.15,2025-09-12,2025-09-14,5.5223611149899625
+P00072844,JayaIndo Kentang Goreng Ekstra 750g,Kentang Goreng,BOGO,0.5,2025-09-12,2025-09-14,5.51762881601644
+P00070556,MakmurPangan Susu Kemasan Ekstra 750ml,Susu Kemasan,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,5.376467498393367
+P00079564,PTPT Buah-Buahan Varian B 1000g,Buah-Buahan,Expired Discount,0.05,2025-09-05,2025-09-07,4.865583842579781
+P00084295,PanganSentosa Mayones Spesial 750g,Mayones,Generic Product Discount,0.1,2025-09-12,2025-09-14,4.699038113973984
+P00079291,MakmurAgro Kecap Varian C 200g,Kecap,Event Based (Ramadan),0.1,2025-02-21,2025-03-06,4.613340009107844
+P00073410,CVAgro Buah-Buahan Ekstra 1000g,Buah-Buahan,Expired Discount,0.2,2025-09-05,2025-09-07,4.489448336578789
+P00064930,JayaPT Sayur-Sayuran Spesial 750g,Sayur-Sayuran,Expired Discount,0.05,2025-09-05,2025-09-07,4.324740501810766
+P00078700,IndoSentosa Gulali Varian C 500g,Gulali,Generic Product Discount,0.1,2025-09-12,2025-09-14,4.306200125269015
+P00072743,AgroSentosa Susu Kemasan Spesial 250ml,Susu Kemasan,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,3.795300135893285
+P00055786,CVPangan Bihun Varian C 100g,Bihun,Generic Product Discount,0.15,2025-09-12,2025-09-14,3.737502905947167
+P00077119,JayaCV Air Mineral Varian A 150ml,Air Mineral,BOGO,0.5,2025-09-12,2025-09-14,3.6142866944765046
+P00078605,JayaPangan Gula Varian C 200g,Gula,Generic Product Discount,0.15,2025-09-12,2025-09-14,3.5063953886830177
+P00055228,MakmurJaya Krim Spesial 200g,Krim,Generic Product Discount,0.1,2025-09-12,2025-09-14,3.397917749946828
+P00076756,SentosaAbadi Gulali Spesial 50g,Gulali,Generic Product Discount,0.1,2025-09-12,2025-09-14,3.1823592514959955
+P00056695,SentosaAgro Gula Spesial 1000g,Gula,Generic Product Discount,0.1,2025-09-12,2025-09-14,3.1526000781937
+P00079738,JayaIndo Beras Varian C 1000g,Beras,Generic Product Discount,0.1,2025-09-12,2025-09-14,3.122620545626205
+P00084203,PTJaya Sereal Spesial 750g,Sereal,BOGO,0.5,2025-09-12,2025-09-14,3.08441078971191
+P00072978,AgroCV Daging Segar Ekstra 750g,Daging Segar,Event Based (Ramadan),0.15,2025-02-21,2025-03-06,3.037917202560493
+P00070439,MakmurMakmur Cokelat Varian C 500g,Cokelat,BOGO,0.5,2025-09-12,2025-09-14,3.026891187968431
+P00079837,NusantaraJaya Selai Varian C 1000g,Selai,Generic Product Discount,0.1,2025-09-12,2025-09-14,2.793879497249236
+P00073997,JayaCV Kornet Spesial 250g,Kornet,BOGO,0.5,2025-09-12,2025-09-14,2.763812066539913
+P00078644,NusantaraIndo Sereal Spesial 1000g,Sereal,BOGO,0.5,2025-09-12,2025-09-14,2.3961958274003337
+P00059935,SentosaPT Keju Varian C 1000g,Keju,Generic Product Discount,0.1,2025-09-12,2025-09-14,2.373418619954691
+P00075739,JayaCV Bihun Spesial 250g,Bihun,Generic Product Discount,0.1,2025-09-12,2025-09-14,2.107722059640537
+P00086743,AbadiPangan Mie Instan Varian C 100g,Mie Instan,BOGO,0.5,2025-09-12,2025-09-14,1.9712223835813347
+P00078262,AbadiNusantara Gula Varian B 50g,Gula,Generic Product Discount,0.1,2025-09-12,2025-09-14,1.7670106648783985
+P00063760,AbadiSentosa Kopi Kemasan Spesial 150ml,Kopi Kemasan,BOGO,0.5,2025-09-12,2025-09-14,1.6272885956128675
+P00062416,SentosaAgro Roti Varian C 50g,Roti,Expired Discount,0.05,2025-09-05,2025-09-07,1.5222576698947705
+P00071355,CVJaya Garam Varian B 100g,Garam,Generic Product Discount,0.1,2025-09-12,2025-09-14,1.5133097344464659
+P00072283,AbadiPT Kecap Spesial 750g,Kecap,Event Based (Ramadan),0.05,2025-02-21,2025-03-06,1.3973362963697582
+P00065471,PanganNusantara Yogurt Varian B 500ml,Yogurt,BOGO,0.5,2025-09-12,2025-09-14,1.3332454470676112
+P00085018,IndoSentosa Sarden Kaleng Spesial 750g,Sarden Kaleng,BOGO,0.5,2025-09-12,2025-09-14,1.0542051781221744
+P00068874,PanganNusantara Selai Varian C 750g,Selai,Generic Product Discount,0.1,2025-09-12,2025-09-14,0.6773727622794468
+P00058215,JayaMakmur Sarden Kaleng Spesial 200g,Sarden Kaleng,BOGO,0.5,2025-09-12,2025-09-14,0.5388963045757009
+P00070729,AgroIndo Sarden Kaleng Ekstra 50g,Sarden Kaleng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070756,SentosaJaya Kopi Bubuk Ekstra 1000g,Kopi Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070758,CVAbadi Kecap Spesial 50g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070765,AbadiPangan Daging Segar Spesial 50g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070791,JayaPangan Pasta Spesial 200g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070804,JayaIndo Kentang Goreng Varian C 200g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070811,SentosaJaya Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070816,PanganAbadi Buah-Buahan Spesial 750g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070822,PanganPT Kaldu Jamur Varian A 500g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070830,PanganAbadi Buah Kering Varian C 250g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070907,MakmurIndo Kentang Goreng Varian C 50g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070926,CVAgro Keripik Varian C 500g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070958,SentosaAgro Roti Varian C 50g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071013,PTJaya Krim Varian C 200g,Krim,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071030,JayaPT Kornet Varian C 750g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071041,SentosaPT Cokelat Varian C 200g,Cokelat,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071047,MakmurJaya Kopi Kemasan Varian C 150ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071067,AgroIndo Permen Varian C 1000g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071147,CVAbadi Mentega Spesial 250g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071176,AgroAgro Makaroni Varian C 1000g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071218,AbadiSentosa Minyak Goreng Spesial 500g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071240,PanganMakmur Soda Varian C 750ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071259,AgroCV Sirup Spesial 150ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056845,AbadiPT Mayones Spesial 100g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056852,AgroAgro Kacang Varian C 500g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056874,IndoIndo Ice Cream Varian C 100g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00057050,MakmurAbadi Kecap Spesial 250g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00057132,PanganCV Selai Varian C 250g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00057162,PanganMakmur Cokelat Varian C 500g,Cokelat,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00057201,AgroIndo Air Mineral Varian C 500ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00057255,NusantaraIndo Susu Bubuk Varian C 500ml,Susu Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00057344,AbadiIndo Permen Spesial 1000g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00057405,MakmurAgro Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00057528,MakmurPT Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00057655,JayaMakmur Teh Varian C 100g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00057794,NusantaraPT Telur Varian C 200g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071260,MakmurIndo Mie Instan Varian A 1000g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071335,CVPT Kacang Spesial 250g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071434,CVJaya Ice Cream Varian C 750g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071506,SentosaNusantara Air Mineral Varian C 250ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071515,PTIndo Saos Varian A 50g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071559,AgroCV Daging Segar Ekstra 750g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071570,AgroMakmur Mayones Spesial 750g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070370,AbadiNusantara Susu Bubuk Varian B 750ml,Susu Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070405,PanganPangan Sayur-Sayuran Spesial 500g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070429,CVSentosa Minyak Goreng Varian C 100g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070478,JayaPT Ice Cream Ekstra 50g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070501,AgroJaya Saos Spesial 1000g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070537,JayaPT Nugget Varian C 100g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070541,AbadiSentosa Kopi Kemasan Spesial 150ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070569,PanganJaya Krim Spesial 100g,Krim,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070576,MakmurJaya Biskuit Varian C 100g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071599,JayaNusantara Telur Varian B 750g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071736,IndoIndo Ice Cream Varian C 100g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071775,IndoAgro Sarden Kaleng Spesial 250g,Sarden Kaleng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071789,MakmurPangan Keripik Spesial 100g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071793,NusantaraNusantara Sayur-Sayuran Varian B 50g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071794,AbadiMakmur Buah Kering Ekstra 200g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071819,PTSentosa Kentang Goreng Ekstra 250g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071848,CVJaya Nugget Ekstra 500g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071857,PanganAgro Kopi Kemasan Spesial 750ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071866,MakmurJaya Telur Varian C 200g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00071983,MakmurPT Bihun Varian C 500g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072022,SentosaAbadi Gulali Spesial 250g,Gulali,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072117,IndoIndo Makaroni Varian C 200g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072171,MakmurPangan Jus Kemasan Varian C 150ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072194,PTCV Kopi Kemasan Varian B 750ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072274,NusantaraJaya Gula Spesial 50g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072299,MakmurIndo Kuaci Spesial 250g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072317,AbadiJaya Marshmallow Varian C 200g,Marshmallow,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072368,SentosaAgro Gula Spesial 1000g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072424,NusantaraCV Yogurt Spesial 150ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072454,NusantaraAgro Nugget Varian C 250g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072460,AgroPangan Biskuit Varian A 100g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072495,IndoPT Sayur-Sayuran Spesial 200g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072499,AgroMakmur Nugget Ekstra 750g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072546,MakmurAgro Minuman Isotonik Varian A 1500ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072586,CVPangan Bihun Varian C 100g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072596,AbadiMakmur Buah-Buahan Varian B 50g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072671,AgroNusantara Soda Spesial 250ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072741,PTNusantara Teh Varian A 500g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072760,CVNusantara Buah-Buahan Spesial 50g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072793,PTAbadi Soda Varian C 250ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072862,AbadiPT Kacang Varian C 50g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069887,CVNusantara Sirup Varian C 750ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069898,SentosaAbadi Mayones Varian C 100g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069981,IndoIndo Gula Varian B 750g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070031,AbadiSentosa Mie Instan Ekstra 1000g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070097,NusantaraJaya Mentega Varian C 500g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070105,MakmurAgro Susu Kemasan Spesial 500ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070153,PanganPangan Kornet Varian A 200g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070163,IndoIndo Jus Kemasan Spesial 1000ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070258,AbadiIndo Teh Ekstra 500g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070282,IndoAbadi Keripik Varian C 750g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072911,NusantaraIndo Selai Varian A 750g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072967,IndoPT Pasta Varian A 750g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072995,MakmurPangan Susu Kemasan Varian A 750ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00072998,SentosaJaya Soda Spesial 1000ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073002,SentosaMakmur Buah-Buahan Spesial 200g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073014,AgroAgro Susu Bubuk Varian C 750ml,Susu Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073016,SentosaPangan Sarden Kaleng Spesial 50g,Sarden Kaleng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073017,JayaAbadi Sereal Varian A 250g,Sereal,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073020,CVJaya Nugget Varian B 250g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073035,AbadiNusantara Kopi Bubuk Varian A 500g,Kopi Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073109,PTJaya Mayones Varian C 250g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073115,IndoSentosa Sayur-Sayuran Varian C 100g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073124,NusantaraAgro Kacang Spesial 1000g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073134,NusantaraIndo Minyak Goreng Spesial 100g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073184,NusantaraIndo Sirup Spesial 250ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073207,PanganPT Gula Varian B 200g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073245,SentosaNusantara Air Mineral Varian C 250ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073268,JayaAbadi Minuman Isotonik Spesial 500ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073276,NusantaraMakmur Kaldu Jamur Varian B 1000g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073309,CVCV Sayur-Sayuran Ekstra 250g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073312,SentosaSentosa Kecap Varian A 500g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069582,CVSentosa Makaroni Varian C 500g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069651,JayaNusantara Permen Varian B 50g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069664,AbadiIndo Minyak Goreng Varian C 250g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069698,IndoJaya Mentega Spesial 100g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069709,AgroCV Kacang Varian A 100g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069729,PanganAbadi Susu Kemasan Spesial 1000ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069733,PTNusantara Buah Kering Spesial 500g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069746,SentosaMakmur Minuman Isotonik Spesial 1500ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069754,AgroIndo Sarden Kaleng Varian A 500g,Sarden Kaleng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069756,NusantaraPT Kecap Ekstra 750g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069841,AbadiJaya Garam Spesial 100g,Garam,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069846,CVAbadi Kopi Kemasan Varian C 750ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073407,JayaAgro Telur Varian C 750g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073458,CVJaya Nugget Varian B 1000g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073489,IndoPT Buah-Buahan Spesial 100g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073554,SentosaSentosa Ice Cream Varian A 750g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073555,NusantaraPangan Garam Spesial 1000g,Garam,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073561,NusantaraNusantara Nugget Spesial 250g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073606,NusantaraNusantara Sayur-Sayuran Varian A 500g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073619,AgroJaya Minyak Goreng Spesial 100g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073715,IndoNusantara Pasta Spesial 1000g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073719,AbadiAgro Sarden Kaleng Varian C 500g,Sarden Kaleng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073816,AbadiSentosa Kornet Spesial 100g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073838,AbadiAgro Kecap Spesial 250g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073843,SentosaAgro Soda Varian C 1000ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073847,PanganNusantara Kopi Kemasan Varian C 150ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073885,PTAgro Biskuit Spesial 100g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073911,PTIndo Biskuit Spesial 50g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073914,IndoAbadi Buah-Buahan Spesial 100g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073954,SentosaJaya Mayones Spesial 50g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00073966,NusantaraIndo Gulali Varian C 750g,Gulali,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069186,AgroAgro Kuaci Ekstra 750g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069207,MakmurCV Teh Varian C 500g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069208,IndoMakmur Yogurt Varian C 1000ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069274,AgroCV Daging Segar Spesial 750g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069343,CVNusantara Mentega Spesial 500g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069379,CVPangan Mayones Varian C 1000g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069398,IndoIndo Buah-Buahan Spesial 100g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069410,AgroAgro Kacang Varian C 500g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069438,MakmurPT Buah Kering Varian C 50g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069496,JayaPT Biskuit Varian C 50g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069557,PTCV Teh Varian C 50g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074004,AgroMakmur Gulali Spesial 1000g,Gulali,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074017,MakmurNusantara Keripik Varian B 1000g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074084,JayaIndo Nugget Spesial 50g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074101,IndoPT Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074156,AgroNusantara Yogurt Varian C 250ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074180,SentosaPangan Kopi Kemasan Varian C 750ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074224,CVMakmur Saos Varian C 50g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074226,AgroJaya Ice Cream Spesial 50g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074229,AbadiPangan Telur Spesial 200g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074237,AbadiPangan Keripik Varian C 750g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074277,JayaCV Air Mineral Varian B 250ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074575,AgroSentosa Air Mineral Spesial 500ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074584,IndoPT Pasta Ekstra 750g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074639,SentosaCV Kentang Goreng Spesial 500g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074647,CVAbadi Makaroni Spesial 250g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074651,MakmurPT Gulali Ekstra 1000g,Gulali,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074680,PanganAbadi Makaroni Spesial 250g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074825,CVPangan Biskuit Spesial 200g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074851,PTAbadi Sirup Varian C 150ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074959,AbadiAgro Mentega Ekstra 250g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074966,PanganMakmur Mentega Varian A 100g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00074977,CVAgro Beras Spesial 250g,Beras,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075054,MakmurSentosa Air Mineral Spesial 750ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075073,SentosaPangan Telur Varian C 100g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075078,MakmurAgro Soda Varian C 250ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075084,AbadiSentosa Mie Instan Varian A 500g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075107,JayaNusantara Teh Spesial 50g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075289,MakmurAbadi Garam Varian C 1000g,Garam,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075296,PTIndo Mie Instan Ekstra 1000g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075297,AgroSentosa Mentega Spesial 1000g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075316,AgroPT Mayones Ekstra 200g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075347,PTPangan Kacang Varian C 100g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075354,PanganPT Ice Cream Varian A 100g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068145,CVNusantara Kacang Varian C 500g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068155,JayaNusantara Teh Spesial 50g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068179,PanganSentosa Selai Varian C 200g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068599,JayaAbadi Susu Bubuk Varian C 250ml,Susu Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068663,CVAgro Beras Spesial 250g,Beras,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068667,IndoMakmur Kopi Bubuk Ekstra 750g,Kopi Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068810,PanganJaya Mie Instan Varian B 50g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068819,NusantaraIndo Marshmallow Varian C 1000g,Marshmallow,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068917,CVJaya Permen Varian A 250g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068947,AgroNusantara Penyedap Rasa Spesial 250g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068992,MakmurAbadi Makaroni Varian C 100g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069032,JayaPT Gula Ekstra 500g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00069144,MakmurPT Saos Varian A 200g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075356,AgroSentosa Kaldu Jamur Spesial 1000g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075380,PanganCV Garam Varian A 1000g,Garam,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075382,CVNusantara Seafood Segar Varian C 250g,Seafood Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075407,IndoPT Makaroni Spesial 1000g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075416,PanganNusantara Selai Varian C 750g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075450,JayaPT Gula Ekstra 500g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075478,SentosaCV Marshmallow Varian C 250g,Marshmallow,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075508,PanganAgro Keju Varian C 250g,Keju,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075519,MakmurMakmur Keju Ekstra 50g,Keju,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075548,AbadiPangan Selai Varian C 200g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075681,MakmurAbadi Makaroni Varian C 100g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075693,NusantaraAgro Minyak Goreng Varian A 200g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075714,AbadiPangan Kopi Bubuk Spesial 200g,Kopi Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075732,PanganIndo Soda Varian C 250ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075886,AgroNusantara Makaroni Varian C 250g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075925,IndoNusantara Garam Varian A 500g,Garam,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075946,MakmurCV Kornet Varian A 750g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00075967,CVAgro Gula Spesial 200g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066682,JayaIndo Kentang Goreng Ekstra 750g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066701,MakmurMakmur Jus Kemasan Spesial 500ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066750,PanganAgro Pasta Spesial 1000g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066787,PanganAbadi Selai Varian C 100g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00067112,NusantaraAgro Kacang Spesial 1000g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00067170,PanganMakmur Mentega Varian C 1000g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00067665,PTIndo Saos Varian A 50g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00067711,PTSentosa Keju Varian C 500g,Keju,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00067911,NusantaraJaya Selai Varian A 50g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00068119,IndoNusantara Saos Varian B 250g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076025,MakmurNusantara Telur Varian C 500g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076027,SentosaAgro Pasta Spesial 250g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076048,PanganJaya Cokelat Varian C 200g,Cokelat,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076096,PanganCV Keripik Varian A 200g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076187,AgroAgro Buah Kering Varian C 50g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076193,AgroSentosa Kacang Ekstra 200g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076194,NusantaraJaya Kopi Kemasan Varian C 250ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076246,AbadiAbadi Daging Segar Spesial 750g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076278,JayaAbadi Buah-Buahan Varian C 100g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076297,MakmurPangan Jus Kemasan Varian C 250ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076343,NusantaraAbadi Keju Varian C 500g,Keju,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076396,PTPangan Pasta Spesial 250g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076434,JayaAbadi Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076466,NusantaraPangan Kaldu Jamur Varian A 100g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076478,CVPangan Penyedap Rasa Spesial 750g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076543,NusantaraPT Daging Segar Spesial 250g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076579,CVSentosa Sereal Varian C 50g,Sereal,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076599,SentosaPangan Selai Varian A 100g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076611,JayaCV Yogurt Varian C 500ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076652,AgroPangan Air Mineral Spesial 1500ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076683,CVSentosa Cokelat Varian C 250g,Cokelat,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076703,IndoPangan Kacang Ekstra 750g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076776,AbadiAgro Jus Kemasan Spesial 750ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076848,JayaJaya Kecap Varian B 250g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076855,SentosaCV Cokelat Ekstra 750g,Cokelat,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076878,NusantaraPT Susu Kemasan Varian B 750ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076925,IndoSentosa Seafood Segar Ekstra 750g,Seafood Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076948,PanganPangan Minyak Goreng Varian A 200g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00076966,NusantaraSentosa Buah Kering Varian C 500g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077030,PTCV Susu Kemasan Spesial 750ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077049,JayaCV Air Mineral Varian B 150ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077102,SentosaAgro Nugget Varian A 200g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077109,AbadiMakmur Kaldu Jamur Spesial 500g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077166,NusantaraNusantara Kecap Varian B 50g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077169,IndoAbadi Mie Instan Spesial 200g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065812,AbadiAgro Mentega Ekstra 250g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065844,MakmurJaya Air Mineral Varian C 150ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065871,NusantaraCV Keju Varian C 500g,Keju,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066031,JayaMakmur Sayur-Sayuran Ekstra 250g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066048,JayaPangan Kacang Spesial 50g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066068,IndoPT Makaroni Spesial 1000g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066103,IndoSentosa Seafood Segar Ekstra 750g,Seafood Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066223,MakmurNusantara Permen Ekstra 100g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066336,MakmurPT Bihun Varian C 500g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066402,AbadiNusantara Susu Bubuk Varian A 150ml,Susu Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066411,MakmurIndo Kaldu Jamur Ekstra 200g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066578,PanganAgro Kopi Kemasan Ekstra 150ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066584,JayaPangan Gula Varian C 200g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00066616,PanganAgro Kopi Kemasan Spesial 150ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077242,PTJaya Telur Spesial 1000g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077323,SentosaIndo Buah Kering Ekstra 750g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077344,NusantaraNusantara Kaldu Jamur Varian C 500g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077415,PanganJaya Buah Kering Varian B 50g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077466,NusantaraJaya Selai Varian A 50g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077506,AbadiIndo Kuaci Varian B 1000g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077565,AgroAgro Kornet Varian A 200g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077587,IndoPangan Sereal Varian C 200g,Sereal,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077609,JayaPT Teh Varian C 1000g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077644,JayaPT Beras Varian C 750g,Beras,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077666,CVNusantara Sereal Varian A 1000g,Sereal,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077799,AbadiSentosa Ice Cream Varian B 750g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077817,AgroNusantara Kuaci Spesial 500g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077840,MakmurNusantara Air Mineral Varian C 750ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00064816,JayaPT Biskuit Varian C 50g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00064886,AgroMakmur Kacang Spesial 1000g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00064907,AgroAgro Buah Kering Varian C 50g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065206,IndoCV Daging Segar Varian B 50g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065248,SentosaPangan Buah-Buahan Varian B 200g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065278,MakmurNusantara Kopi Bubuk Varian B 250g,Kopi Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065418,IndoAgro Yogurt Varian C 1500ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065509,IndoAgro Sarden Kaleng Spesial 250g,Sarden Kaleng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065520,IndoPangan Kacang Varian B 250g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065540,JayaIndo Permen Varian A 500g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00065560,JayaIndo Nugget Spesial 50g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077924,AbadiPT Soda Varian C 150ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077942,MakmurJaya Permen Varian C 100g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077979,MakmurJaya Air Mineral Varian C 150ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00077986,JayaIndo Minyak Goreng Spesial 500g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078017,MakmurAbadi Nugget Varian A 750g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078021,MakmurJaya Ice Cream Varian C 750g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078083,JayaMakmur Cokelat Spesial 200g,Cokelat,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078084,AbadiSentosa Jus Kemasan Varian C 1000ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078086,PTIndo Permen Spesial 200g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078097,AgroAbadi Makaroni Varian A 1000g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078150,PanganAbadi Selai Varian C 100g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078201,PanganIndo Makaroni Varian C 50g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078252,PTPT Buah-Buahan Varian B 1000g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078253,AbadiPT Mayones Spesial 100g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078257,PanganCV Garam Ekstra 250g,Garam,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00054751,AbadiIndo Yogurt Varian A 1000ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078268,AgroCV Kacang Varian A 50g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078272,PTIndo Soda Spesial 500ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078293,IndoJaya Penyedap Rasa Varian C 200g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078310,CVJaya Keripik Varian C 1000g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078315,PanganMakmur Yogurt Spesial 250ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078345,IndoCV Seafood Segar Spesial 1000g,Seafood Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078411,PanganSentosa Buah Kering Varian C 200g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078434,AbadiAgro Air Mineral Varian C 150ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078452,AgroPT Seafood Segar Varian C 750g,Seafood Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078455,CVCV Seafood Segar Spesial 500g,Seafood Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078497,AbadiAgro Roti Varian C 750g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00054847,PanganIndo Makaroni Varian C 50g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078552,NusantaraCV Keju Varian C 500g,Keju,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078558,JayaJaya Soda Spesial 1500ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078581,AbadiPangan Daging Segar Varian C 750g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00054974,AbadiMakmur Yogurt Ekstra 1500ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00055121,AbadiJaya Susu Kemasan Varian C 750ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00055218,IndoAbadi Daging Segar Spesial 200g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078705,AbadiIndo Permen Spesial 1000g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078762,PanganIndo Mayones Varian C 100g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078809,CVCV Sirup Varian C 500ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078816,NusantaraSentosa Sirup Ekstra 1000ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078821,JayaCV Sirup Varian C 1500ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078840,PanganSentosa Beras Spesial 250g,Beras,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078841,JayaNusantara Keripik Varian C 500g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078856,IndoIndo Kecap Spesial 200g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078872,CVNusantara Penyedap Rasa Varian C 750g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078890,IndoPT Jus Kemasan Spesial 1500ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078914,AgroCV Saos Spesial 1000g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078983,PTMakmur Soda Spesial 1500ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00078990,AgroJaya Seafood Segar Spesial 750g,Seafood Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079009,SentosaAgro Kentang Goreng Varian A 250g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079037,SentosaPangan Sarden Kaleng Varian C 50g,Sarden Kaleng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079040,AgroCV Yogurt Ekstra 150ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079099,JayaSentosa Selai Varian C 500g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079127,NusantaraIndo Ice Cream Varian C 500g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079145,SentosaPangan Kecap Varian C 200g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00063936,CVPangan Penyedap Rasa Spesial 750g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00063980,NusantaraPangan Minuman Isotonik Ekstra 500ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00055221,SentosaJaya Selai Spesial 250g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00064018,JayaPT Ice Cream Varian C 500g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00064061,NusantaraMakmur Kentang Goreng Varian A 750g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00064325,SentosaAgro Kentang Goreng Varian A 250g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00064326,IndoSentosa Sayur-Sayuran Varian C 100g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00064426,JayaNusantara Keripik Spesial 750g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00064779,CVAbadi Bihun Varian C 500g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079170,SentosaCV Selai Varian C 200g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079173,PanganSentosa Minyak Goreng Spesial 100g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079177,PTAbadi Krim Spesial 250g,Krim,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079198,PTSentosa Permen Spesial 750g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079199,AbadiCV Minuman Isotonik Varian C 500ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079229,NusantaraSentosa Penyedap Rasa Spesial 250g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079251,MakmurIndo Susu Bubuk Spesial 500ml,Susu Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086499,IndoPangan Mentega Spesial 200g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079301,PanganNusantara Penyedap Rasa Varian C 250g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079315,PanganPT Saos Spesial 750g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079332,AbadiMakmur Mentega Varian B 200g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079367,NusantaraNusantara Daging Segar Spesial 750g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079432,PanganNusantara Buah-Buahan Varian A 50g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079506,CVIndo Selai Spesial 500g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079529,NusantaraSentosa Nugget Spesial 1000g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079547,PTNusantara Sirup Varian C 1000ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086505,PTPangan Mentega Spesial 50g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079620,JayaIndo Roti Varian B 1000g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00087199,IndoPT Minuman Isotonik Varian C 750ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00055330,MakmurAbadi Nugget Ekstra 1000g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079749,PanganPangan Keripik Varian A 1000g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079754,JayaSentosa Cokelat Spesial 1000g,Cokelat,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079799,CVNusantara Kopi Kemasan Varian C 150ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00055473,MakmurAgro Sirup Varian C 150ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00063135,IndoNusantara Sirup Varian C 150ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00063182,PTAgro Biskuit Spesial 100g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086694,IndoAbadi Garam Varian C 250g,Garam,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00063432,AbadiIndo Kuaci Varian B 1000g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00063673,AgroNusantara Makaroni Varian C 250g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00063674,NusantaraIndo Roti Spesial 100g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00063693,NusantaraMakmur Kornet Varian C 750g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086745,AbadiJaya Susu Kemasan Varian C 750ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00063903,MakmurCV Kornet Varian A 750g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079870,IndoJaya Keripik Varian B 100g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079889,NusantaraPT Keju Ekstra 750g,Keju,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079907,PTPT Marshmallow Spesial 1000g,Marshmallow,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079911,SentosaAgro Kentang Goreng Varian A 250g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00079983,IndoMakmur Telur Spesial 1000g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080047,CVAgro Kentang Goreng Varian C 250g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080124,AbadiAgro Mie Instan Varian C 200g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080175,SentosaSentosa Penyedap Rasa Varian A 50g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080216,JayaIndo Permen Varian A 500g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080222,CVNusantara Kentang Goreng Spesial 50g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080231,AbadiSentosa Penyedap Rasa Spesial 750g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080275,AgroMakmur Kacang Spesial 1000g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086789,PanganPangan Buah Kering Varian C 50g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080372,NusantaraAgro Roti Varian C 750g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080396,AbadiIndo Nugget Ekstra 50g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00054510,JayaNusantara Minuman Isotonik Spesial 1500ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080505,AbadiAgro Saos Spesial 250g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080508,PanganNusantara Yogurt Varian B 500ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080540,IndoNusantara Selai Ekstra 750g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080561,PanganPangan Cokelat Spesial 250g,Cokelat,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080586,MakmurPT Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080666,PTPT Air Mineral Varian A 750ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00061538,JayaAbadi Buah-Buahan Varian C 100g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00061614,PanganAbadi Pasta Varian C 1000g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00061940,PanganPangan Soda Varian C 750ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00061985,CVIndo Kaldu Jamur Varian B 250g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00061999,MakmurMakmur Keju Ekstra 50g,Keju,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056764,JayaIndo Buah-Buahan Varian B 50g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00062505,PanganAgro Kopi Kemasan Spesial 750ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00062511,SentosaPangan Selai Varian B 750g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00062565,NusantaraAbadi Biskuit Varian C 750g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00062659,AgroPT Marshmallow Spesial 750g,Marshmallow,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00062707,PTJaya Telur Spesial 1000g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00062797,NusantaraNusantara Nugget Spesial 250g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080716,NusantaraSentosa Pasta Varian C 200g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080717,PanganNusantara Susu Kemasan Spesial 150ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080740,MakmurNusantara Marshmallow Spesial 750g,Marshmallow,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080753,AbadiMakmur Teh Ekstra 50g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080850,AgroCV Gula Varian A 100g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080855,AbadiIndo Yogurt Varian B 750ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080897,NusantaraMakmur Seafood Segar Varian C 250g,Seafood Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080898,AbadiJaya Kopi Bubuk Spesial 500g,Kopi Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080908,JayaMakmur Teh Varian C 100g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080912,NusantaraPangan Roti Ekstra 1000g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080940,AbadiPT Kuaci Spesial 250g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00080965,NusantaraPangan Beras Varian A 200g,Beras,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081012,CVAgro Jus Kemasan Varian C 1000ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081060,IndoNusantara Minyak Goreng Spesial 200g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081067,CVCV Sayur-Sayuran Varian A 250g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081085,NusantaraAgro Biskuit Spesial 250g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081091,PanganIndo Saos Varian C 750g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081119,JayaAbadi Kecap Varian C 50g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081120,AgroIndo Soda Varian A 250ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081139,NusantaraCV Yogurt Varian C 1000ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081174,SentosaNusantara Minyak Goreng Spesial 200g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081193,NusantaraPangan Roti Spesial 250g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081201,PTMakmur Soda Varian C 750ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081279,IndoAbadi Keripik Varian B 200g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081317,CVPT Roti Varian C 100g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081320,AgroCV Sayur-Sayuran Spesial 500g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081356,AgroPT Kaldu Jamur Varian C 50g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081363,PanganMakmur Susu Kemasan Varian A 1500ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081418,NusantaraMakmur Buah-Buahan Varian C 100g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081499,JayaPangan Kacang Spesial 200g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081504,AgroJaya Jus Kemasan Varian A 150ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081525,JayaPangan Kacang Spesial 50g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081695,JayaNusantara Minuman Isotonik Spesial 1500ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081731,PTIndo Jus Kemasan Spesial 150ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081781,IndoAgro Marshmallow Spesial 500g,Marshmallow,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081807,SentosaSentosa Kecap Varian B 250g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081827,CVSentosa Marshmallow Varian A 750g,Marshmallow,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081856,AbadiMakmur Daging Segar Varian A 500g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00081903,IndoPT Mentega Varian C 1000g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060525,SentosaIndo Marshmallow Varian C 50g,Marshmallow,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060529,SentosaSentosa Ice Cream Varian A 750g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060672,IndoPangan Kuaci Varian C 1000g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060876,MakmurPangan Susu Kemasan Ekstra 750ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060894,JayaJaya Soda Spesial 1500ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060977,CVJaya Garam Varian B 100g,Garam,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086352,AbadiAbadi Marshmallow Varian C 200g,Marshmallow,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00061008,SentosaCV Gula Varian B 750g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00061142,AbadiJaya Daging Segar Varian C 250g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00061184,JayaPangan Saos Spesial 250g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00061243,MakmurAbadi Nugget Varian A 750g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00061312,AgroJaya Saos Spesial 1000g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082003,CVSentosa Saos Varian B 250g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082008,PanganSentosa Selai Varian C 200g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082052,CVNusantara Sereal Ekstra 250g,Sereal,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082098,AgroMakmur Bihun Varian C 100g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082105,JayaIndo Buah-Buahan Varian B 50g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082153,NusantaraIndo Soda Varian C 150ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082185,SentosaMakmur Cokelat Varian C 500g,Cokelat,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082208,NusantaraMakmur Kornet Varian C 750g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082256,NusantaraAgro Susu Kemasan Varian C 750ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082264,SentosaAbadi Ice Cream Varian C 750g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082282,IndoAgro Jus Kemasan Spesial 500ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086371,JayaPT Ice Cream Spesial 750g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082480,PTNusantara Sereal Varian B 250g,Sereal,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082508,NusantaraJaya Teh Varian C 500g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082515,PanganMakmur Minuman Isotonik Ekstra 250ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082539,MakmurAbadi Makaroni Ekstra 200g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082637,PTSentosa Yogurt Varian C 1500ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082671,IndoJaya Yogurt Spesial 150ml,Yogurt,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082692,AgroCV Keju Spesial 250g,Keju,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082753,MakmurCV Buah-Buahan Varian A 250g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00054332,PTCV Air Mineral Varian C 1500ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082863,MakmurAbadi Minyak Goreng Spesial 250g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00082909,JayaIndo Sereal Varian C 200g,Sereal,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083008,PTJaya Kopi Bubuk Varian C 1000g,Kopi Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083103,MakmurCV Keripik Varian C 100g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083108,MakmurAbadi Kaldu Jamur Spesial 250g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083114,CVIndo Kaldu Jamur Varian A 250g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083171,MakmurNusantara Kopi Bubuk Varian B 250g,Kopi Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083174,PanganAgro Beras Ekstra 200g,Beras,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083178,JayaSentosa Keripik Varian C 1000g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083194,CVCV Air Mineral Varian A 150ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083228,SentosaPT Saos Spesial 500g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00059476,AbadiMakmur Buah-Buahan Varian B 50g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00059598,IndoPT Mentega Varian C 1000g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00059613,JayaMakmur Mentega Varian C 1000g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086445,NusantaraNusantara Kuaci Spesial 500g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00059975,JayaPangan Beras Varian A 500g,Beras,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060039,NusantaraJaya Kopi Kemasan Varian C 250ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060045,AgroSentosa Mayones Spesial 100g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060176,MakmurCV Buah-Buahan Ekstra 50g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060213,JayaIndo Roti Varian B 1000g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00060439,IndoAbadi Mie Instan Spesial 200g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083336,SentosaAgro Buah Kering Spesial 500g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083350,CVIndo Kaldu Jamur Varian B 250g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083358,MakmurAgro Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083382,IndoAbadi Kuaci Varian C 200g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083383,JayaAbadi Selai Varian C 750g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083402,NusantaraCV Roti Varian C 750g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083438,NusantaraIndo Pasta Spesial 50g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083491,PanganPT Sarden Kaleng Varian C 200g,Sarden Kaleng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083503,PanganNusantara Susu Bubuk Spesial 1000ml,Susu Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083530,SentosaJaya Sayur-Sayuran Varian B 500g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083617,PTPT Buah-Buahan Varian A 200g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083621,MakmurMakmur Ice Cream Varian C 750g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083647,JayaIndo Makaroni Spesial 200g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083690,MakmurCV Kuaci Spesial 750g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083697,PTCV Air Mineral Varian C 1500ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083754,AbadiJaya Mentega Spesial 250g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083837,AgroSentosa Sarden Kaleng Spesial 200g,Sarden Kaleng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083843,MakmurPT Gula Varian C 50g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083854,AbadiPangan Saos Spesial 200g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083857,AbadiNusantara Susu Bubuk Varian A 150ml,Susu Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083886,AgroAbadi Seafood Segar Varian A 750g,Seafood Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083982,NusantaraPangan Minuman Isotonik Ekstra 500ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083987,PTIndo Nugget Varian B 750g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083994,AgroCV Minuman Isotonik Spesial 500ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00083998,MakmurNusantara Permen Ekstra 100g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084011,IndoCV Makaroni Spesial 100g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084051,PTNusantara Susu Kemasan Varian C 250ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084112,NusantaraAbadi Kentang Goreng Varian B 100g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084129,AgroAgro Kentang Goreng Spesial 50g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084137,PanganAbadi Pasta Varian C 1000g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086454,PTMakmur Telur Spesial 500g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084247,PanganPangan Keripik Ekstra 500g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084260,CVPT Nugget Varian C 200g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084276,AbadiCV Biskuit Spesial 50g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056085,PanganPangan Sayur-Sayuran Spesial 500g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084306,IndoMakmur Nugget Ekstra 1000g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084420,CVSentosa Mie Instan Spesial 1000g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084459,AgroPangan Sirup Varian C 500ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084517,MakmurCV Buah-Buahan Ekstra 50g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084536,NusantaraPT Nugget Varian C 250g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084570,CVNusantara Seafood Segar Varian C 50g,Seafood Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084585,JayaPT Makaroni Spesial 750g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084602,CVMakmur Keripik Varian C 500g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084706,IndoPT Sayur-Sayuran Spesial 100g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084711,MakmurPT Gula Varian A 1000g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084792,PanganMakmur Mentega Varian C 1000g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084861,JayaMakmur Biskuit Spesial 200g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084893,SentosaAbadi Ice Cream Ekstra 100g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084902,PTAbadi Garam Spesial 200g,Garam,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00084962,AbadiSentosa Cokelat Ekstra 50g,Cokelat,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00058438,PanganSentosa Telur Spesial 50g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00058500,CVJaya Keripik Varian C 1000g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00058519,AgroCV Kacang Varian A 100g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00058750,IndoAbadi Keripik Varian C 750g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00058812,NusantaraPangan Kopi Bubuk Spesial 750g,Kopi Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00058821,MakmurAgro Minuman Isotonik Varian A 1500ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00058933,MakmurCV Buah-Buahan Varian B 250g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00058948,MakmurNusantara Air Mineral Varian C 750ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00059011,SentosaJaya Sayur-Sayuran Varian B 500g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00059218,PTAgro Penyedap Rasa Varian C 200g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00059259,AbadiSentosa Kornet Spesial 100g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00059314,NusantaraPangan Beras Varian A 200g,Beras,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00059334,IndoIndo Makaroni Varian C 200g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00059437,JayaPT Roti Spesial 750g,Roti,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085010,CVIndo Buah Kering Spesial 250g,Buah Kering,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00054687,IndoSentosa Gulali Varian C 500g,Gulali,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085034,SentosaSentosa Kornet Varian B 200g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085083,IndoNusantara Saos Varian B 250g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085090,JayaPangan Saos Spesial 250g,Saos,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085132,PanganAgro Mayones Varian C 100g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085183,SentosaCV Gula Varian B 750g,Gula,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085185,MakmurPangan Kuaci Spesial 100g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085242,MakmurAbadi Bihun Varian C 100g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085254,NusantaraPT Keripik Ekstra 50g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085257,IndoSentosa Kornet Spesial 200g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085277,CVCV Biskuit Spesial 1000g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085283,AbadiAbadi Bihun Varian A 50g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085288,PanganPT Mie Instan Varian A 50g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085302,NusantaraAgro Susu Bubuk Varian C 750ml,Susu Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085343,MakmurMakmur Jus Kemasan Spesial 500ml,Jus Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085360,PanganSentosa Bihun Spesial 500g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085369,MakmurJaya Garam Varian C 750g,Garam,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085396,AbadiIndo Nugget Ekstra 100g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085398,PanganPT Pasta Spesial 1000g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085407,PanganPT Sayur-Sayuran Varian C 200g,Sayur-Sayuran,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085514,PTCV Kopi Kemasan Varian C 750ml,Kopi Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085577,IndoMakmur Biskuit Varian C 500g,Biskuit,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085633,AgroJaya Teh Ekstra 500g,Teh,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085684,AgroIndo Makaroni Varian C 100g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085696,MakmurJaya Gulali Varian C 500g,Gulali,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085707,IndoSentosa Buah-Buahan Spesial 1000g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085833,NusantaraJaya Selai Varian C 250g,Selai,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085852,AbadiAgro Kacang Spesial 200g,Kacang,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00085954,AgroAgro Mie Instan Varian B 500g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086050,AbadiIndo Bihun Spesial 200g,Bihun,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086079,CVCV Nugget Varian C 500g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086085,NusantaraAgro Keju Varian C 1000g,Keju,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086124,IndoCV Daging Segar Varian B 1000g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086146,PTPT Buah-Buahan Ekstra 500g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086209,CVCV Susu Kemasan Spesial 1000ml,Susu Kemasan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086228,PTIndo Gulali Varian C 200g,Gulali,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086238,IndoAgro Kornet Spesial 100g,Kornet,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00087144,PanganCV Susu Bubuk Varian C 150ml,Susu Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00087177,AgroJaya Ice Cream Varian B 500g,Ice Cream,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056355,JayaPT Penyedap Rasa Varian C 50g,Penyedap Rasa,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086589,IndoPangan Daging Segar Varian C 750g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086625,PanganAbadi Sereal Varian C 200g,Sereal,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086642,JayaAgro Mentega Varian C 250g,Mentega,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086655,PanganMakmur Kentang Goreng Spesial 250g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086939,AgroSentosa Mayones Spesial 100g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086949,MakmurIndo Mie Instan Varian A 100g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086994,JayaCV Sarden Kaleng Spesial 100g,Sarden Kaleng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086999,IndoAbadi Telur Spesial 750g,Telur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00087059,MakmurIndo Krim Spesial 200g,Krim,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00087063,NusantaraMakmur Kentang Goreng Varian A 750g,Kentang Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056189,PTPT Pasta Ekstra 50g,Pasta,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056236,MakmurSentosa Buah-Buahan Spesial 200g,Buah-Buahan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056265,AbadiAgro Kecap Spesial 250g,Kecap,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056284,MakmurIndo Mie Instan Varian A 1000g,Mie Instan,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086580,IndoCV Daging Segar Varian B 1000g,Daging Segar,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00056079,CVNusantara Sereal Varian A 1000g,Sereal,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00087411,MakmurAgro Sirup Varian C 150ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00055277,CVCV Sirup Varian C 500ml,Sirup,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00087066,AgroPangan Kopi Bubuk Varian C 200g,Kopi Bubuk,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00087099,MakmurIndo Kaldu Jamur Ekstra 200g,Kaldu Jamur,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00058083,PTIndo Soda Spesial 500ml,Soda,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00058149,PanganAgro Mayones Varian C 100g,Mayones,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070619,JayaPT Keripik Spesial 1000g,Keripik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086269,CVJaya Permen Varian A 250g,Permen,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086288,SentosaSentosa Air Mineral Ekstra 250ml,Air Mineral,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00086323,PanganJaya Gulali Spesial 50g,Gulali,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00055675,PTIndo Minyak Goreng Varian B 1000g,Minyak Goreng,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00055736,AgroAbadi Makaroni Varian A 1000g,Makaroni,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00070678,AbadiAbadi Minuman Isotonik Spesial 250ml,Minuman Isotonik,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00055845,IndoAbadi Kuaci Varian C 200g,Kuaci,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0
+P00054715,NusantaraPT Nugget Varian C 250g,Nugget,Tanpa Diskon,0.0,2025-09-12,2025-09-14,0.0

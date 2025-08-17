@@ -276,8 +276,24 @@ class BizzitRecommendationPipeline:
         # Create results directory
         os.makedirs("results", exist_ok=True)
         
-        # Save final recommendations
-        final_recommendations.to_csv("results/final_recommendations.csv", index=False)
+        # Ensure we have the correct column order for CSV export
+        csv_columns = [
+            'id_produk', 'nama_produk', 'kategori_produk', 
+            'rekomendasi_detail', 'rekomendasi_besaran', 
+            'start_date', 'end_date', 'rata_rata_uplift_profit'
+        ]
+        
+        # Make sure all required columns exist
+        for col in csv_columns:
+            if col not in final_recommendations.columns:
+                if col in ['start_date', 'end_date']:
+                    # Add default dates if missing
+                    final_recommendations[col] = '2025-03-07' if col == 'start_date' else '2025-03-09'
+                else:
+                    print(f"Warning: Column '{col}' missing from recommendations")
+        
+        # Save final recommendations with specified column order
+        final_recommendations[csv_columns].to_csv("results/final_recommendations.csv", index=False)
         
         # Save summary
         with open("results/recommendation_summary.json", 'w') as f:

@@ -117,6 +117,7 @@ class BizztRecommendationAPI:
     def generate_updated_recommendations(self):
         """Generate updated recommendations (simulated)"""
         import random
+        from datetime import datetime, timedelta
         
         # Create mix of updated existing + some new products
         updated_recommendations = []
@@ -134,7 +135,7 @@ class BizztRecommendationAPI:
                 
                 updated_recommendations.append(updated_item)
         
-        # Add some new product recommendations
+        # Add some new product recommendations with proper date calculation
         new_products = [
             ("P00100001", "FreshUpdate Beras Premium 1kg", "Beras", "Generic Product Discount", 0.1),
             ("P00100002", "NewGen Minyak Goreng 2L", "Minyak Goreng", "Event Based (Ramadan)", 0.05),
@@ -143,6 +144,8 @@ class BizztRecommendationAPI:
             ("P00100005", "InnovativeAgro Seafood 300g", "Seafood Segar", "Generic Product Discount", 0.12)
         ]
         
+        current_date = datetime.now()
+        
         for product_id, name, category, strategy, discount in new_products:
             base_uplift = random.uniform(200, 800)
             if strategy != "Tanpa Diskon":
@@ -150,12 +153,17 @@ class BizztRecommendationAPI:
             else:
                 uplift_profit = 0.0
             
+            # Calculate dates based on strategy (same logic as notebook)
+            start_date, end_date = self.calculate_promotion_dates(strategy, current_date)
+            
             new_item = {
                 'id_produk': product_id,
                 'nama_produk': name,
                 'kategori_produk': category,
                 'rekomendasi_detail': strategy,
                 'rekomendasi_besaran': discount,
+                'start_date': start_date,
+                'end_date': end_date,
                 'rata_rata_uplift_profit': round(uplift_profit, 2)
             }
             updated_recommendations.append(new_item)
@@ -165,6 +173,47 @@ class BizztRecommendationAPI:
         
         return updated_recommendations
     
+    def calculate_promotion_dates(self, strategy, current_date):
+        """Calculate start and end dates based on promotion strategy"""
+        from datetime import timedelta
+        
+        if "Event Based (Ramadan)" in strategy:
+            # Start 1 week before Ramadan (2025-02-21)
+            start_date = "2025-02-21"
+            end_date = "2025-03-06"  # 2 weeks duration
+            
+        elif "Expired" in strategy:
+            # Next month, first Friday
+            bulan_depan = (current_date + timedelta(days=30)).replace(day=1)
+            days_to_friday = (4 - bulan_depan.weekday() + 7) % 7
+            if days_to_friday == 0:
+                days_to_friday = 7
+            jumat_pertama = bulan_depan + timedelta(days=days_to_friday)
+            start_date = jumat_pertama.strftime('%Y-%m-%d')
+            end_date = (jumat_pertama + timedelta(days=2)).strftime('%Y-%m-%d')
+            
+        elif "BOGO" in strategy:
+            # Next month, second Friday
+            bulan_depan = (current_date + timedelta(days=30)).replace(day=1)
+            days_to_friday = (4 - bulan_depan.weekday() + 7) % 7
+            if days_to_friday == 0:
+                days_to_friday = 7
+            jumat_pertama = bulan_depan + timedelta(days=days_to_friday)
+            start_date = (jumat_pertama + timedelta(days=7)).strftime('%Y-%m-%d')
+            end_date = (jumat_pertama + timedelta(days=9)).strftime('%Y-%m-%d')
+            
+        else:  # Generic or other strategies
+            # Next month, second Friday + 1 week
+            bulan_depan = (current_date + timedelta(days=30)).replace(day=1)
+            days_to_friday = (4 - bulan_depan.weekday() + 7) % 7
+            if days_to_friday == 0:
+                days_to_friday = 7
+            jumat_pertama = bulan_depan + timedelta(days=days_to_friday)
+            start_date = (jumat_pertama + timedelta(days=7)).strftime('%Y-%m-%d')
+            end_date = (jumat_pertama + timedelta(days=9)).strftime('%Y-%m-%d')
+        
+        return start_date, end_date
+    
     def save_recommendations(self, recommendations):
         """Save recommendations to files"""
         try:
@@ -173,7 +222,7 @@ class BizztRecommendationAPI:
             # Save CSV
             with open("results/final_recommendations.csv", 'w', newline='', encoding='utf-8') as f:
                 if recommendations:
-                    fieldnames = ['id_produk', 'nama_produk', 'kategori_produk', 'rekomendasi_detail', 'rekomendasi_besaran', 'rata_rata_uplift_profit']
+                    fieldnames = ['id_produk', 'nama_produk', 'kategori_produk', 'rekomendasi_detail', 'rekomendasi_besaran', 'start_date', 'end_date', 'rata_rata_uplift_profit']
                     writer = csv.DictWriter(f, fieldnames=fieldnames)
                     writer.writeheader()
                     writer.writerows(recommendations)
@@ -219,6 +268,8 @@ class BizztRecommendationAPI:
                     'rekomendasi_detail': str(item['rekomendasi_detail']),
                     'rekomendasi_besaran': float(item['rekomendasi_besaran']),
                     'rekomendasi_besaran_persen': f"{float(item['rekomendasi_besaran']) * 100:.1f}%",
+                    'start_date': item.get('start_date', '2025-03-07'),
+                    'end_date': item.get('end_date', '2025-03-09'),
                     'rata_rata_uplift_profit': float(item['rata_rata_uplift_profit']),
                     'rata_rata_uplift_profit_formatted': f"Rp {float(item['rata_rata_uplift_profit']):,.0f}"
                 }

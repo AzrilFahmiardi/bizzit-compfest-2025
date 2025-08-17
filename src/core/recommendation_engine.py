@@ -246,10 +246,14 @@ class RecommendationEngine:
         # Apply fallback logic
         df_final = self.apply_fallback_logic(df_final)
         
+        # Calculate promotion dates
+        df_final = self.calculate_promotion_dates(df_final, current_date)
+        
         # Select final columns
         final_columns = [
             'id_produk', 'nama_produk', 'kategori_produk', 
-            'rekomendasi_detail', 'rekomendasi_besaran', 'rata_rata_uplift_profit'
+            'rekomendasi_detail', 'rekomendasi_besaran', 'start_date', 'end_date',
+            'rata_rata_uplift_profit'
         ]
         
         df_final_output = df_final[final_columns].sort_values('rata_rata_uplift_profit', ascending=False)
@@ -257,6 +261,65 @@ class RecommendationEngine:
         print(f"Final recommendations generated for {len(df_final_output)} products")
         
         return df_final_output
+    
+    def calculate_promotion_dates(self, df_recommendations: pd.DataFrame, current_date: datetime = None) -> pd.DataFrame:
+        """
+        Calculate start_date and end_date for each promotion based on recommendation strategy
+        Migrated from notebook business logic
+        """
+        if current_date is None:
+            current_date = datetime.now()
+        
+        df_with_dates = df_recommendations.copy()
+        
+        # Initialize date columns
+        df_with_dates['start_date'] = None
+        df_with_dates['end_date'] = None
+        
+        for idx, row in df_with_dates.iterrows():
+            rekomendasi = row['rekomendasi_detail']
+            start_date, end_date_promo = None, None
+            
+            if "Event Based (Ramadan)" in rekomendasi:
+                # Start 1 week before Ramadan (2025-02-21)
+                start_date = datetime.strptime("2025-02-21", "%Y-%m-%d").date()
+                end_date_promo = start_date + timedelta(days=13)  # 2 weeks duration
+                
+            elif "Expired" in rekomendasi:
+                # Next month, first Friday
+                bulan_depan = (current_date + timedelta(days=30)).replace(day=1)
+                # Find first Friday of next month
+                days_to_friday = (4 - bulan_depan.weekday() + 7) % 7
+                if days_to_friday == 0:
+                    days_to_friday = 7
+                jumat_pertama = bulan_depan + timedelta(days=days_to_friday)
+                start_date = jumat_pertama.date()
+                end_date_promo = start_date + timedelta(days=2)  # Friday-Sunday
+                
+            elif "BOGO" in rekomendasi:
+                # Next month, second Friday
+                bulan_depan = (current_date + timedelta(days=30)).replace(day=1)
+                days_to_friday = (4 - bulan_depan.weekday() + 7) % 7
+                if days_to_friday == 0:
+                    days_to_friday = 7
+                jumat_pertama = bulan_depan + timedelta(days=days_to_friday)
+                start_date = (jumat_pertama + timedelta(days=7)).date()
+                end_date_promo = start_date + timedelta(days=2)  # Friday-Sunday
+                
+            else:  # Generic Product Discount or others
+                # Next month, second Friday + 1 week
+                bulan_depan = (current_date + timedelta(days=30)).replace(day=1)
+                days_to_friday = (4 - bulan_depan.weekday() + 7) % 7
+                if days_to_friday == 0:
+                    days_to_friday = 7
+                jumat_pertama = bulan_depan + timedelta(days=days_to_friday)
+                start_date = (jumat_pertama + timedelta(days=7)).date()
+                end_date_promo = start_date + timedelta(days=2)  # Friday-Sunday
+            
+            df_with_dates.at[idx, 'start_date'] = start_date
+            df_with_dates.at[idx, 'end_date'] = end_date_promo
+        
+        return df_with_dates
     
     def get_recommendation_summary(self, df_recommendations: pd.DataFrame) -> Dict[str, any]:
         """
