@@ -137,16 +137,16 @@ class BizztRecommendationAPI:
         
         # Add some new product recommendations with proper date calculation
         new_products = [
-            ("P00100001", "FreshUpdate Beras Premium 1kg", "Beras", "Generic Product Discount", 0.1),
-            ("P00100002", "NewGen Minyak Goreng 2L", "Minyak Goreng", "Event Based (Ramadan)", 0.05),
-            ("P00100003", "ModernPT Daging Segar 500g", "Daging Segar", "Expired Discount", 0.15),
-            ("P00100004", "SmartCV Teh Premium 250g", "Teh", "BOGO", 0.0),
-            ("P00100005", "InnovativeAgro Seafood 300g", "Seafood Segar", "Generic Product Discount", 0.12)
+            ("P00100001", "SKU10001", "FreshUpdate Beras Premium 1kg", "Beras", "Generic Product Discount", 0.1),
+            ("P00100002", "SKU10002", "NewGen Minyak Goreng 2L", "Minyak Goreng", "Event Based (Ramadan)", 0.05),
+            ("P00100003", "SKU10003", "ModernPT Daging Segar 500g", "Daging Segar", "Expired Discount", 0.15),
+            ("P00100004", "SKU10004", "SmartCV Teh Premium 250g", "Teh", "BOGO", 0.0),
+            ("P00100005", "SKU10005", "InnovativeAgro Seafood 300g", "Seafood Segar", "Generic Product Discount", 0.12)
         ]
         
         current_date = datetime.now()
         
-        for product_id, name, category, strategy, discount in new_products:
+        for product_id, kode_sku, name, category, strategy, discount in new_products:
             base_uplift = random.uniform(200, 800)
             if strategy != "Tanpa Diskon":
                 uplift_profit = base_uplift + random.uniform(100, 500)
@@ -158,6 +158,7 @@ class BizztRecommendationAPI:
             
             new_item = {
                 'id_produk': product_id,
+                'kode_sku': kode_sku,
                 'nama_produk': name,
                 'kategori_produk': category,
                 'rekomendasi_detail': strategy,
@@ -222,7 +223,7 @@ class BizztRecommendationAPI:
             # Save CSV
             with open("results/final_recommendations.csv", 'w', newline='', encoding='utf-8') as f:
                 if recommendations:
-                    fieldnames = ['id_produk', 'nama_produk', 'kategori_produk', 'rekomendasi_detail', 'rekomendasi_besaran', 'start_date', 'end_date', 'rata_rata_uplift_profit']
+                    fieldnames = ['id_produk', 'kode_sku', 'nama_produk', 'kategori_produk', 'rekomendasi_detail', 'rekomendasi_besaran', 'start_date', 'end_date', 'rata_rata_uplift_profit']
                     writer = csv.DictWriter(f, fieldnames=fieldnames)
                     writer.writeheader()
                     writer.writerows(recommendations)
@@ -263,6 +264,7 @@ class BizztRecommendationAPI:
             for item in top_recommendations:
                 recommendation = {
                     'id_produk': str(item['id_produk']),
+                    'kode_sku': item.get('kode_sku', 'SKU-' + str(item['id_produk'])[-5:]),
                     'nama_produk': str(item['nama_produk']),
                     'kategori_produk': str(item['kategori_produk']),
                     'rekomendasi_detail': str(item['rekomendasi_detail']),

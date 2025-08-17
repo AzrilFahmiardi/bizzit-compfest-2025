@@ -206,7 +206,7 @@ class RecommendationEngine:
         df_final['id_produk'] = df_final['id_produk'].astype(str)
         df_produk['id_produk'] = df_produk['id_produk'].astype(str)
         
-        additional_features = ['id_produk', 'harga_jual', 'harga_kompetitor', 
+        additional_features = ['id_produk', 'kode_sku', 'harga_jual', 'harga_kompetitor', 
                              'produk_musiman', 'hari_jual_minimal', 'expire_date']
         available_features = [f for f in additional_features if f in df_produk.columns]
         
@@ -251,7 +251,7 @@ class RecommendationEngine:
         
         # Select final columns
         final_columns = [
-            'id_produk', 'nama_produk', 'kategori_produk', 
+            'id_produk', 'kode_sku', 'nama_produk', 'kategori_produk', 
             'rekomendasi_detail', 'rekomendasi_besaran', 'start_date', 'end_date',
             'rata_rata_uplift_profit'
         ]

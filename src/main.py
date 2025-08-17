@@ -278,7 +278,7 @@ class BizzitRecommendationPipeline:
         
         # Ensure we have the correct column order for CSV export
         csv_columns = [
-            'id_produk', 'nama_produk', 'kategori_produk', 
+            'id_produk', 'kode_sku', 'nama_produk', 'kategori_produk', 
             'rekomendasi_detail', 'rekomendasi_besaran', 
             'start_date', 'end_date', 'rata_rata_uplift_profit'
         ]
@@ -289,6 +289,9 @@ class BizzitRecommendationPipeline:
                 if col in ['start_date', 'end_date']:
                     # Add default dates if missing
                     final_recommendations[col] = '2025-03-07' if col == 'start_date' else '2025-03-09'
+                elif col == 'kode_sku':
+                    # If kode_sku is missing, we need to merge with product data
+                    print(f"Warning: Column '{col}' missing from recommendations, will try to add from product data")
                 else:
                     print(f"Warning: Column '{col}' missing from recommendations")
         
