@@ -33,6 +33,7 @@ class BizztRecommendationAPI:
     def __init__(self):
         self.recommendations_data = []
         self.metadata = None
+        self.df_produk = None
         
         # Processing status
         self.is_processing = False
@@ -41,16 +42,34 @@ class BizztRecommendationAPI:
         
         # Load existing data
         self.load_recommendations()
+        self.load_product_data()
+    
+    def load_product_data(self):
+        """Load product data for baseline price lookup"""
+        try:
+            produk_path = os.path.join("data", "produk_v4.csv")
+            if os.path.exists(produk_path):
+                self.df_produk = pd.read_csv(produk_path)
+                logger.info(f"Loaded {len(self.df_produk)} product records for recommendations")
+            else:
+                logger.warning("Product data file not found")
+        except Exception as e:
+            logger.error(f"Error loading product data: {str(e)}")
     
     def load_recommendations(self):
         """Load recommendation data from results file"""
         try:
             results_file = os.path.join("results", "final_recommendations.csv")
             
+            print(f"DEBUG: Checking file: {results_file}")
+            print(f"DEBUG: File exists: {os.path.exists(results_file)}")
+            
             if os.path.exists(results_file):
                 with open(results_file, 'r', encoding='utf-8') as f:
                     reader = csv.DictReader(f)
                     self.recommendations_data = list(reader)
+                
+                print(f"DEBUG: Loaded {len(self.recommendations_data)} recommendations")
                 
                 # Convert numeric fields
                 for item in self.recommendations_data:
@@ -71,6 +90,7 @@ class BizztRecommendationAPI:
                 
         except Exception as e:
             logger.error(f"Error loading recommendations: {str(e)}")
+            print(f"DEBUG: Exception loading recommendations: {str(e)}")
             return False
     
     def regenerate_recommendations(self):
@@ -256,7 +276,11 @@ class BizztRecommendationAPI:
     
     def get_top_recommendations(self, top_n=30):
         """Get top N recommendations sorted by uplift profit"""
+        print(f"DEBUG: Recommendations data type: {type(self.recommendations_data)}")
+        print(f"DEBUG: Recommendations data length: {len(self.recommendations_data) if self.recommendations_data else 'None'}")
+        
         if not self.recommendations_data:
+            print("DEBUG: No recommendations data available")
             return None
         
         try:
@@ -271,6 +295,9 @@ class BizztRecommendationAPI:
             
             recommendations_list = []
             for item in top_recommendations:
+                # Get baseline price from product data
+                harga_baseline = self.get_harga_baseline(item['id_produk'])
+                
                 recommendation = {
                     'id_produk': str(item['id_produk']),
                     'kode_sku': item.get('kode_sku', 'SKU-' + str(item['id_produk'])[-5:]),
@@ -281,6 +308,8 @@ class BizztRecommendationAPI:
                     'rekomendasi_besaran_persen': f"{float(item['rekomendasi_besaran']) * 100:.1f}%",
                     'start_date': item.get('start_date', '2025-03-07'),
                     'end_date': item.get('end_date', '2025-03-09'),
+                    'harga_baseline': harga_baseline,
+                    'harga_baseline_formatted': f"Rp {harga_baseline:,.0f}" if harga_baseline else "N/A",
                     'rata_rata_uplift_profit': float(item['rata_rata_uplift_profit']),
                     'rata_rata_uplift_profit_formatted': f"Rp {float(item['rata_rata_uplift_profit']):,.0f}"
                 }
@@ -290,6 +319,26 @@ class BizztRecommendationAPI:
             
         except Exception as e:
             logger.error(f"Error getting recommendations: {str(e)}")
+            return None
+    
+    def get_harga_baseline(self, id_produk):
+        """Get baseline price (harga_jual) for a product by ID"""
+        if self.df_produk is None:
+            return None
+        
+        try:
+            # Find product by ID
+            product_row = self.df_produk[self.df_produk['id_produk'] == id_produk]
+            
+            if not product_row.empty:
+                harga_baseline = product_row['harga_jual'].iloc[0]
+                return float(harga_baseline) if pd.notna(harga_baseline) else None
+            else:
+                logger.warning(f"Product {id_produk} not found in product data")
+                return None
+                
+        except Exception as e:
+            logger.error(f"Error getting baseline price for product {id_produk}: {str(e)}")
             return None
     
     def get_statistics(self):
