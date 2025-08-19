@@ -410,7 +410,7 @@ class BizztAnalyticsAPI:
         except Exception as e:
             logger.error(f"Error loading analytics data: {str(e)}")
     
-    def get_products_data(self, limit=None, offset=0, kategori=None, brand=None, search=None):
+    def get_products_data(self, limit=None, offset=0, kategori=None, brand=None, search=None, id_toko=None):
         """Get raw product data with filtering and pagination"""
         if self.df_produk is None:
             return None
@@ -427,6 +427,9 @@ class BizztAnalyticsAPI:
             
             if search:
                 df = df[df['nama_produk'].str.contains(search, case=False, na=False)]
+            
+            if id_toko:
+                df = df[df['id_toko'] == int(id_toko)]
             
             # Apply pagination
             total_records = len(df)
@@ -448,7 +451,8 @@ class BizztAnalyticsAPI:
                     'filters': {
                         'kategori': kategori,
                         'brand': brand,
-                        'search': search
+                        'search': search,
+                        'id_toko': id_toko
                     }
                 }
             }
@@ -921,9 +925,10 @@ def root_endpoint():
                     'offset': 'Skip record untuk pagination',
                     'kategori': 'Filter berdasarkan kategori',
                     'brand': 'Filter berdasarkan brand',
-                    'search': 'Pencarian dalam nama produk'
+                    'search': 'Pencarian dalam nama produk',
+                    'id_toko': 'Filter berdasarkan ID toko'
                 },
-                'example': '/api/data/products?limit=10&kategori=Daging'
+                'example': '/api/data/products?limit=10&kategori=Daging&id_toko=1'
             },
             'raw_stores': {
                 'url': '/api/data/stores',
@@ -967,6 +972,7 @@ def root_endpoint():
             'http://localhost:5000/api/metrics/revenue?period=daily',
             'http://localhost:5000/api/data',
             'http://localhost:5000/api/data/products?limit=10',
+            'http://localhost:5000/api/data/products?id_toko=1&limit=10',
             'http://localhost:5000/api/data/stores'
         ],
         'timestamp': datetime.now().isoformat()
@@ -1233,6 +1239,7 @@ def get_products_data():
         kategori = request.args.get('kategori')
         brand = request.args.get('brand')
         search = request.args.get('search')
+        id_toko = request.args.get('id_toko', type=int)
         
         # Validate parameters
         if limit and (limit <= 0 or limit > 5000):
@@ -1241,13 +1248,17 @@ def get_products_data():
         if offset < 0:
             return jsonify({'error': 'Invalid offset parameter. Must be >= 0.'}), 400
         
+        if id_toko and id_toko <= 0:
+            return jsonify({'error': 'Invalid id_toko parameter. Must be > 0.'}), 400
+        
         # Get data
         result = analytics_api.get_products_data(
             limit=limit, 
             offset=offset, 
             kategori=kategori, 
             brand=brand, 
-            search=search
+            search=search,
+            id_toko=id_toko
         )
         
         if result is None:
@@ -1344,7 +1355,9 @@ def get_data_summary():
                     '/api/data/products?limit=10',
                     '/api/data/products?kategori=Daging&limit=20',
                     '/api/data/products?brand=IndoAgro&offset=0&limit=50',
-                    '/api/data/products?search=sarden&limit=5'
+                    '/api/data/products?search=sarden&limit=5',
+                    '/api/data/products?id_toko=1&limit=100',
+                    '/api/data/products?kategori=Daging&id_toko=1&limit=20'
                 ],
                 'stores': [
                     '/api/data/stores',
@@ -1587,7 +1600,7 @@ if __name__ == '__main__':
         print("  GET  /api/analytics/categories      - Category performance")
         print("  GET  /api/analytics                 - All analytics data")
         print("  GET  /api/data                      - Raw data summary")
-        print("  GET  /api/data/products             - Raw product data (includes stock)")
+        print("  GET  /api/data/products             - Raw product data (includes stock, filter by store)")
         print("  GET  /api/data/stores               - Raw store data")
         print("  POST /api/data/refresh              - Refresh raw data from files")
         print("  GET  /api/metrics/business          - Business KPIs (Revenue, Transactions, AOV)")
