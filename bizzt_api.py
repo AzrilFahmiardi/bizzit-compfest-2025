@@ -382,6 +382,7 @@ class BizztAnalyticsAPI:
     def __init__(self):
         self.df_transaksi = None
         self.df_produk = None
+        self.df_toko = None
         self.load_data()
     
     def load_data(self):
@@ -399,9 +400,101 @@ class BizztAnalyticsAPI:
             if os.path.exists(produk_path):
                 self.df_produk = pd.read_csv(produk_path)
                 logger.info(f"Loaded {len(self.df_produk)} product records")
+            
+            # Load store data
+            toko_path = os.path.join("data", "toko.csv")
+            if os.path.exists(toko_path):
+                self.df_toko = pd.read_csv(toko_path)
+                logger.info(f"Loaded {len(self.df_toko)} store records")
                 
         except Exception as e:
             logger.error(f"Error loading analytics data: {str(e)}")
+    
+    def get_products_data(self, limit=None, offset=0, kategori=None, brand=None, search=None):
+        """Get raw product data with filtering and pagination"""
+        if self.df_produk is None:
+            return None
+        
+        try:
+            df = self.df_produk.copy()
+            
+            # Apply filters
+            if kategori:
+                df = df[df['kategori_produk'].str.contains(kategori, case=False, na=False)]
+            
+            if brand:
+                df = df[df['brand'].str.contains(brand, case=False, na=False)]
+            
+            if search:
+                df = df[df['nama_produk'].str.contains(search, case=False, na=False)]
+            
+            # Apply pagination
+            total_records = len(df)
+            df = df.iloc[offset:]
+            
+            if limit:
+                df = df.head(limit)
+            
+            # Convert to records
+            records = df.to_dict('records')
+            
+            return {
+                'data': records,
+                'meta': {
+                    'total_records': total_records,
+                    'returned_records': len(records),
+                    'offset': offset,
+                    'limit': limit,
+                    'filters': {
+                        'kategori': kategori,
+                        'brand': brand,
+                        'search': search
+                    }
+                }
+            }
+            
+        except Exception as e:
+            logger.error(f"Error getting products data: {str(e)}")
+            return None
+    
+    def get_stores_data(self, limit=None, offset=0, tipe=None):
+        """Get raw store data with filtering and pagination"""
+        if self.df_toko is None:
+            return None
+        
+        try:
+            df = self.df_toko.copy()
+            
+            # Apply filters
+            if tipe:
+                df = df[df['tipe'].str.contains(tipe, case=False, na=False)]
+            
+            # Apply pagination
+            total_records = len(df)
+            df = df.iloc[offset:]
+            
+            if limit:
+                df = df.head(limit)
+            
+            # Convert to records
+            records = df.to_dict('records')
+            
+            return {
+                'data': records,
+                'meta': {
+                    'total_records': total_records,
+                    'returned_records': len(records),
+                    'offset': offset,
+                    'limit': limit,
+                    'filters': {
+                        'tipe': tipe
+                    }
+                }
+            }
+            
+        except Exception as e:
+            logger.error(f"Error getting stores data: {str(e)}")
+            return None
     
     def get_weekly_transaction_trend(self):
         """Generate weekly transaction volume trend data"""
@@ -818,6 +911,44 @@ def root_endpoint():
                     'store_id': 'ID toko (optional)'
                 },
                 'example': '/api/metrics/dashboard'
+            },
+            'raw_products': {
+                'url': '/api/data/products',
+                'method': 'GET',
+                'description': 'Mendapatkan data mentah produk dengan filtering (termasuk kolom stock)',
+                'parameters': {
+                    'limit': 'Jumlah record (max: 5000)',
+                    'offset': 'Skip record untuk pagination',
+                    'kategori': 'Filter berdasarkan kategori',
+                    'brand': 'Filter berdasarkan brand',
+                    'search': 'Pencarian dalam nama produk'
+                },
+                'example': '/api/data/products?limit=10&kategori=Daging'
+            },
+            'raw_stores': {
+                'url': '/api/data/stores',
+                'method': 'GET',
+                'description': 'Mendapatkan data mentah toko dengan filtering',
+                'parameters': {
+                    'limit': 'Jumlah record (max: 1000)',
+                    'offset': 'Skip record untuk pagination',
+                    'tipe': 'Filter berdasarkan tipe toko'
+                },
+                'example': '/api/data/stores?tipe=perkantoran'
+            },
+            'data_summary': {
+                'url': '/api/data',
+                'method': 'GET',
+                'description': 'Mendapatkan ringkasan semua data mentah yang tersedia',
+                'parameters': 'Tidak ada',
+                'example': '/api/data'
+            },
+            'data_refresh': {
+                'url': '/api/data/refresh',
+                'method': 'POST',
+                'description': 'Memuat ulang semua data mentah dari file CSV (termasuk kolom stock baru)',
+                'parameters': 'Tidak ada',
+                'example': 'POST /api/data/refresh'
             }
         },
         'system_info': {
@@ -833,7 +964,10 @@ def root_endpoint():
             'http://localhost:5000/api/analytics/categories?limit=10',
             'http://localhost:5000/api/metrics/dashboard',
             'http://localhost:5000/api/metrics/business',
-            'http://localhost:5000/api/metrics/revenue?period=daily'
+            'http://localhost:5000/api/metrics/revenue?period=daily',
+            'http://localhost:5000/api/data',
+            'http://localhost:5000/api/data/products?limit=10',
+            'http://localhost:5000/api/data/stores'
         ],
         'timestamp': datetime.now().isoformat()
     })
@@ -1086,6 +1220,181 @@ def get_analytics_summary():
         return jsonify({'error': f'Internal server error: {str(e)}'}), 500
 
 # ============================================================================
+# RAW DATA ENDPOINTS
+# ============================================================================
+
+@app.route('/api/data/products', methods=['GET'])
+def get_products_data():
+    """Get raw product data with filtering and pagination"""
+    try:
+        # Get parameters
+        limit = request.args.get('limit', type=int)
+        offset = request.args.get('offset', 0, type=int)
+        kategori = request.args.get('kategori')
+        brand = request.args.get('brand')
+        search = request.args.get('search')
+        
+        # Validate parameters
+        if limit and (limit <= 0 or limit > 5000):
+            return jsonify({'error': 'Invalid limit parameter. Must be between 1 and 5000.'}), 400
+        
+        if offset < 0:
+            return jsonify({'error': 'Invalid offset parameter. Must be >= 0.'}), 400
+        
+        # Get data
+        result = analytics_api.get_products_data(
+            limit=limit, 
+            offset=offset, 
+            kategori=kategori, 
+            brand=brand, 
+            search=search
+        )
+        
+        if result is None:
+            return jsonify({'error': 'No product data available.'}), 404
+        
+        return jsonify({
+            'status': 'success',
+            'message': 'Product data retrieved successfully',
+            'data': result['data'],
+            'meta': result['meta'],
+            'timestamp': datetime.now().isoformat()
+        })
+    
+    except Exception as e:
+        logger.error(f"Error in get_products_data endpoint: {str(e)}")
+        return jsonify({'error': 'Internal server error'}), 500
+
+@app.route('/api/data/stores', methods=['GET'])
+def get_stores_data():
+    """Get raw store data with filtering and pagination"""
+    try:
+        # Get parameters
+        limit = request.args.get('limit', type=int)
+        offset = request.args.get('offset', 0, type=int)
+        tipe = request.args.get('tipe')
+        
+        # Validate parameters
+        if limit and (limit <= 0 or limit > 1000):
+            return jsonify({'error': 'Invalid limit parameter. Must be between 1 and 1000.'}), 400
+        
+        if offset < 0:
+            return jsonify({'error': 'Invalid offset parameter. Must be >= 0.'}), 400
+        
+        # Get data
+        result = analytics_api.get_stores_data(
+            limit=limit, 
+            offset=offset, 
+            tipe=tipe
+        )
+        
+        if result is None:
+            return jsonify({'error': 'No store data available.'}), 404
+        
+        return jsonify({
+            'status': 'success',
+            'message': 'Store data retrieved successfully',
+            'data': result['data'],
+            'meta': result['meta'],
+            'timestamp': datetime.now().isoformat()
+        })
+    
+    except Exception as e:
+        logger.error(f"Error in get_stores_data endpoint: {str(e)}")
+        return jsonify({'error': 'Internal server error'}), 500
+
+@app.route('/api/data', methods=['GET'])
+def get_data_summary():
+    """Get summary of all available raw data"""
+    try:
+        summary = {
+            'products': {
+                'total_records': len(analytics_api.df_produk) if analytics_api.df_produk is not None else 0,
+                'columns': list(analytics_api.df_produk.columns) if analytics_api.df_produk is not None else [],
+                'available_categories': list(analytics_api.df_produk['kategori_produk'].unique()) if analytics_api.df_produk is not None else [],
+                'available_brands': list(analytics_api.df_produk['brand'].unique()[:20]) if analytics_api.df_produk is not None else [],  # Limit to first 20 brands
+                'endpoint': '/api/data/products',
+                'parameters': {
+                    'limit': 'Number of records to return (max 5000)',
+                    'offset': 'Number of records to skip (for pagination)',
+                    'kategori': 'Filter by product category',
+                    'brand': 'Filter by brand',
+                    'search': 'Search in product names'
+                }
+            },
+            'stores': {
+                'total_records': len(analytics_api.df_toko) if analytics_api.df_toko is not None else 0,
+                'columns': list(analytics_api.df_toko.columns) if analytics_api.df_toko is not None else [],
+                'available_types': list(analytics_api.df_toko['tipe'].unique()) if analytics_api.df_toko is not None else [],
+                'endpoint': '/api/data/stores',
+                'parameters': {
+                    'limit': 'Number of records to return (max 1000)',
+                    'offset': 'Number of records to skip (for pagination)',
+                    'tipe': 'Filter by store type'
+                }
+            }
+        }
+        
+        return jsonify({
+            'status': 'success',
+            'message': 'Data summary retrieved successfully',
+            'data': summary,
+            'examples': {
+                'products': [
+                    '/api/data/products?limit=10',
+                    '/api/data/products?kategori=Daging&limit=20',
+                    '/api/data/products?brand=IndoAgro&offset=0&limit=50',
+                    '/api/data/products?search=sarden&limit=5'
+                ],
+                'stores': [
+                    '/api/data/stores',
+                    '/api/data/stores?tipe=perkantoran',
+                    '/api/data/stores?limit=5&offset=2'
+                ]
+            },
+            'timestamp': datetime.now().isoformat()
+        })
+    
+    except Exception as e:
+        logger.error(f"Error in get_data_summary endpoint: {str(e)}")
+        return jsonify({'error': 'Internal server error'}), 500
+
+@app.route('/api/data/refresh', methods=['POST'])
+def refresh_raw_data():
+    """Refresh/reload all raw data from CSV files"""
+    try:
+        # Reload data for both APIs
+        analytics_api.load_data()
+        bizzt_api.load_product_data()
+        
+        # Get updated summary
+        summary = {
+            'products': {
+                'total_records': len(analytics_api.df_produk) if analytics_api.df_produk is not None else 0,
+                'columns': list(analytics_api.df_produk.columns) if analytics_api.df_produk is not None else [],
+                'sample_data': analytics_api.df_produk.head(2).to_dict('records') if analytics_api.df_produk is not None else []
+            },
+            'stores': {
+                'total_records': len(analytics_api.df_toko) if analytics_api.df_toko is not None else 0,
+                'columns': list(analytics_api.df_toko.columns) if analytics_api.df_toko is not None else []
+            },
+            'transactions': {
+                'total_records': len(analytics_api.df_transaksi) if analytics_api.df_transaksi is not None else 0
+            }
+        }
+        
+        return jsonify({
+            'status': 'success',
+            'message': 'Raw data refreshed successfully',
+            'data': summary,
+            'timestamp': datetime.now().isoformat()
+        })
+    
+    except Exception as e:
+        logger.error(f"Error in refresh_raw_data endpoint: {str(e)}")
+        return jsonify({'error': f'Failed to refresh data: {str(e)}'}), 500
+
+# ============================================================================
 # BUSINESS METRICS ENDPOINTS
 # ============================================================================
 
@@ -1277,6 +1586,10 @@ if __name__ == '__main__':
         print("  GET  /api/analytics/events          - Event analysis")
         print("  GET  /api/analytics/categories      - Category performance")
         print("  GET  /api/analytics                 - All analytics data")
+        print("  GET  /api/data                      - Raw data summary")
+        print("  GET  /api/data/products             - Raw product data (includes stock)")
+        print("  GET  /api/data/stores               - Raw store data")
+        print("  POST /api/data/refresh              - Refresh raw data from files")
         print("  GET  /api/metrics/business          - Business KPIs (Revenue, Transactions, AOV)")
         print("  GET  /api/metrics/revenue           - Revenue breakdown by period")
         print("  GET  /api/metrics/dashboard         - Dashboard-ready metrics")
