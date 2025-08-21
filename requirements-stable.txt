@@ -3,7 +3,7 @@ Flask==2.3.3
 flask-cors==4.0.0
 gunicorn==21.2.0
 
-# Use older stable pandas that works with Python 3.10
+# Use older stable pandas that works with Python 3.10-3.11  
 pandas==1.5.3
 numpy==1.24.3
 scipy==1.10.1
@@ -17,6 +17,11 @@ requests==2.31.0
 
 # Data Manipulation & I/O
 openpyxl==3.1.2
+
+# Build essentials
+setuptools>=65.0.0
+wheel>=0.40.0
+joblib>=1.2.0
 
 # Additional dependencies
 joblib==1.2.0

@@ -4,12 +4,12 @@ services:
     runtime: python
     buildCommand: |
       pip install --upgrade pip setuptools wheel
-      pip install --no-cache-dir --only-binary=all -r requirements.txt
+      pip install --no-cache-dir --only-binary=all -r requirements-stable.txt
     startCommand: python bizzt_api.py
     plan: free
     envVars:
       - key: PYTHON_VERSION
-        value: "3.10.14"
+        value: "3.11.8"
       - key: FLASK_ENV
         value: "production"
       - key: PYTHONPATH
