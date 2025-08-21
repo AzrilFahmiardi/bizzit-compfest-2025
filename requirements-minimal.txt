@@ -1,0 +1,15 @@
+# Only use pre-built wheels - NO SOURCE BUILDS
+--only-binary=all
+--prefer-binary
+
+# Minimal Flask setup - wheels only
+Flask==2.3.3
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# Use versions that have Python 3.11 wheels available
+pandas==2.1.4
+numpy==1.25.2
+
+# Utilities
+requests==2.31.0
