@@ -3,26 +3,14 @@ services:
     name: bizzit-compfest
     runtime: python
     buildCommand: |
-      pip install --upgrade pip setuptools wheel
-      pip install --no-cache-dir --only-binary=all -r requirements-stable.txt
+      python -m pip install --upgrade pip setuptools wheel
+      python -m pip install --only-binary=all --no-cache-dir -r requirements.txt
     startCommand: python bizzt_api.py
     plan: free
     envVars:
       - key: PYTHON_VERSION
-        value: "3.11.8"
+        value: "3.11.11"
       - key: FLASK_ENV
         value: "production"
-      - key: PYTHONPATH
-        value: "/opt/render/project/src" - type: web
-    name: bizzit-compfest
-    runtime: python
-    buildCommand: pip install --upgrade pip setuptools wheel && pip install --no-cache-dir -r requirements.txt
-    startCommand: python bizzt_api.py
-    plan: free
-    envVars:
-      - key: PYTHON_VERSION
-        value: "3.10.14"
-      - key: PYTHONPATH
-        value: "/opt/render/project/src"
-      - key: FLASK_ENV
-        value: "production"
+      - key: PIP_ONLY_BINARY
+        value: ":all:"
