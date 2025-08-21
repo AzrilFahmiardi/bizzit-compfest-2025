@@ -1614,3 +1614,6 @@ if __name__ == '__main__':
         print("\n🌐 Starting server on http://localhost:5000")
         
         app.run(debug=True, host='0.0.0.0', port=5000)
+
+# For gunicorn compatibility - expose app object
+application = app

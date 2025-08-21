@@ -1,1 +1,1 @@
-web: python bizzt_api.py
+web: gunicorn --bind 0.0.0.0:$PORT bizzt_api:app
