@@ -1,14 +1,14 @@
-# Conservative versions for better compatibility
+# Alternative requirements - more stable versions
 Flask==2.3.3
 flask-cors==4.0.0
 gunicorn==21.2.0
 
-# Stable data processing versions
+# Use older stable pandas that works with Python 3.10
 pandas==1.5.3
 numpy==1.24.3
 scipy==1.10.1
 
-# Machine Learning - stable versions
+# Machine Learning - older stable versions
 scikit-learn==1.2.2
 lightgbm==3.3.5
 
@@ -20,6 +20,3 @@ openpyxl==3.1.2
 
 # Additional dependencies
 joblib==1.2.0
-
-# Utilities
-joblib==1.3.2
