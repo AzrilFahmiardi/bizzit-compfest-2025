@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: bizzit-compfest
+    runtime: python
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: python bizzt_api.py
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.9"
+      - key: PYTHONPATH
+        value: "/opt/render/project/src"
